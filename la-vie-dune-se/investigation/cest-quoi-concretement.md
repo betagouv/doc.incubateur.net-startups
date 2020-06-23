@@ -12,7 +12,7 @@ Pour y répondre, certains collègues utilisent et adaptent le modèle ci-dessou
 
 **La phase d'investigation avec** [**beta.gouv.fr**](https://slack-redir.net/link?url=http%3A%2F%2Fbeta.gouv.fr&v=3)
 
-* Objectif : Comprendre le contexte et les **problèmes** du point de vue des usagers. Déterminer l'opportunité de créer une solution numérique pour répondre à un ou plusieurs de ces problèmes.
+* Objectif : Comprendre le contexte et les **problèmes** du point de vue des usagers. Déterminer l'opportunité de créer une solution numérique pour répondre à un ou plusieurs de ces problèmes et cerner la principale [mesure d'impact](https://beta.gouv.fr/approche/formation/mooc/sequence-3-mesurer-impact.html).
 * Déroulé : sur 6 à 9 semaines à raison de 1 à 2 jours/semaine de travail pour l'intrapreneur·se avec un accompagnement beta.gouv.fr \(1 à 2 jours /semaine\).
 * Comment : Des entretiens individuels de vive voix \(téléphone, visio, face à face\) avec plusieurs dizaines de parties prenantes \(de 20 à une petite centaine : jusqu'à ce qu'on ait une vision globale du contexte\). Une exploration méthodique des problèmes, puis segmentation des usagers et enfin des tests des solutions possibles.
 * Livrables : présentation du travail et des apprentissages lors du comité de fin d'investigation, compte-rendu des problèmes, du contexte, des solutions testées sous forme de note ou de grille d'évaluation.
