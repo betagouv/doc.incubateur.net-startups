@@ -12,6 +12,7 @@
 * [Conditions d’engagement 🥚](la-vie-dune-se/conditions-dengagement.md)
 * [Investigation 🐣](la-vie-dune-se/investigation/README.md)
   * [Journée de sélection](la-vie-dune-se/investigation/journee-de-selection.md)
+  * ["C'est quoi concrêtement ?"](la-vie-dune-se/investigation/cest-quoi-concretement.md)
   * [Ressources utiles](la-vie-dune-se/investigation/ressources-utiles.md)
 * [Construction 🐥](la-vie-dune-se/construction.md)
 * [Accélération 🐦](la-vie-dune-se/acceleration.md)
