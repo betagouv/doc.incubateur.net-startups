@@ -1,4 +1,4 @@
-# Réseaux sociaux
+# Réseaux sociaux 👍
 
 ## Bonnes pratiques
 

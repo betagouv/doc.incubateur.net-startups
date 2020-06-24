@@ -1,4 +1,4 @@
-# Soliciter la communication Dinum
+# Solliciter la com Dinum 📣
 
 **Comment travailler avec le service de communication de la DINUM ?**
 
