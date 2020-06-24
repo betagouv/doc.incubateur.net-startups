@@ -44,7 +44,7 @@
 
 * [🚀 Growth-Hacking](marketing/growth-hacking/README.md)
   * [Acquisition 👨‍👨‍👦‍👦](marketing/growth-hacking/lacquisition.md)
-  * [L'activation 🎯](marketing/growth-hacking/lactivation.md)
+  * [Activation 🎯](marketing/growth-hacking/lactivation.md)
   * [Rétention ✅](marketing/growth-hacking/la-retention.md)
 * [Des sondages efficaces](marketing/des-sondages-efficaces.md)
 * [Réseaux sociaux](marketing/reseaux-sociaux.md)
