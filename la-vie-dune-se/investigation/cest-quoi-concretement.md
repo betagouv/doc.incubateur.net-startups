@@ -10,7 +10,7 @@ Il arrive que des administrations nous demandent une description rapide de l'inv
 
 Pour y répondre, certains collègues utilisent et adaptent le modèle ci-dessous :
 
-**La phase d'investigation avec beta.gouv.fr** 
+**La phase d'investigation avec beta.gouv.fr**
 
 * Objectif : Comprendre le contexte et les **problèmes** du point de vue des usagers. Déterminer l'opportunité de créer une solution numérique pour répondre à un ou plusieurs de ces problèmes et cerner la principale [mesure d'impact](https://beta.gouv.fr/approche/formation/mooc/sequence-3-mesurer-impact.html).
 * Déroulé : sur 6 à 9 semaines à raison de 1 à 2 jours/semaine de travail pour l'intrapreneur·se avec un accompagnement beta.gouv.fr \(1 à 2 jours /semaine\).

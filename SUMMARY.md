@@ -42,10 +42,14 @@
 
 ## 📢 Marketing
 
+* [🚀 Growth-Hacking](marketing/growth-hacking/README.md)
+  * [L'acquisition](marketing/growth-hacking/lacquisition.md)
+  * [L'activation](marketing/growth-hacking/lactivation.md)
+  * [La rétention](marketing/growth-hacking/la-retention.md)
+* [Des sondages efficaces](marketing/des-sondages-efficaces.md)
 * [Réseaux sociaux](marketing/reseaux-sociaux.md)
-* [Soliciter la communication Dinum](marketing/soliciter-la-communication-dinum.md)
-* [🚀 Growth-hacking](marketing/growth-hacking.md)
 * [SEO 🔎](marketing/seo-1.md)
+* [Soliciter la communication Dinum](marketing/soliciter-la-communication-dinum.md)
 * [Gestion des envois emails 💌](marketing/gestion-des-envois-emails.md)
 
 ## 💻 Développement

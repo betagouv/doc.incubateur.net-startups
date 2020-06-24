@@ -1,8 +1,6 @@
-# 🚀 Growth-hacking
+# 🚀 Growth-Hacking
 
 Vous souhaitez de l'aide sur un sujet lié à la croissance de votre Startup d'Etat? Contactez Chaïb Martinez sur le slack.
-
-## Ateliers sur le Growth Hacking
 
 ### Présentation du Growth Hacking
 
@@ -11,66 +9,6 @@ Vous souhaitez de l'aide sur un sujet lié à la croissance de votre Startup d'E
 [Les slides](https://www.evernote.com/l/AsnMrUNsw3VNcLkMRXKuiX6eRZFg7L3eLrE)
 
 [https://youtu.be/avAsqn5a-SU](https://youtu.be/avAsqn5a-SU) 1h49, par Chaïb Martinez
-
-### Acquisition
-
-[![Acquisition Growth Hacking](https://img.youtube.com/vi/bhYMp2mSjO0/0.jpg)](https://youtu.be/bhYMp2mSjO0)
-
-[https://youtu.be/bhYMp2mSjO0](https://youtu.be/bhYMp2mSjO0) 1h11, par Chaïb Martinez
-
-### Activation
-
-[![Activation Growth Hacking](https://img.youtube.com/vi/XzzjUncS55c/0.jpg)](https://youtu.be/XzzjUncS55c)
-
-[https://youtu.be/XzzjUncS55c](https://youtu.be/XzzjUncS55c) 1h30, par Chaïb Martinez
-
-[![Activation Growth Hacking](https://img.youtube.com/vi/hFbsE5aC5Pk/0.jpg)](https://youtu.be/hFbsE5aC5Pk)
-
-[https://youtu.be/hFbsE5aC5Pk](https://youtu.be/hFbsE5aC5Pk) 1h30, par Chaïb Martinez
-
-### Rétention
-
-[![R&#xE9;tention Growth Hacking](https://img.youtube.com/vi/P7mfCoFwtuI/0.jpg)](https://youtu.be/P7mfCoFwtuI)
-
-[https://youtu.be/P7mfCoFwtuI](https://youtu.be/P7mfCoFwtuI) 1h02, par Chaïb Martinez
-
-## Des sondages efficaces
-
-[![Des sondages efficaces](https://camo.githubusercontent.com/6367807d5fcb031cf1bedc962c3db94c23693a09/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f56357958487556733270592f302e6a7067)](https://youtu.be/V5yXHuVs2pY)
-
-Comment faire un sondage qui marche? En quoi un sondage est différent d'un simple formulaire? Quel outil utiliser et comment poser correctement les questions? Comment analyser les réponses ensuite?
-
-[https://youtu.be/V5yXHuVs2pY](https://youtu.be/V5yXHuVs2pY) 28min, par Chaïb Martinez
-
-## Acquisition : les erreurs fréquentes
-
-[![Acquisition, qualification et Landing page](https://camo.githubusercontent.com/6aea39118c617ee2ef3eadace0223c959b8e0762/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f76695375725655516135552f302e6a7067)](https://youtu.be/viSurVUQa5U)
-
-[https://youtu.be/viSurVUQa5U](https://youtu.be/viSurVUQa5U) 2h, par Chaïb Martinez
-
-[Slides](https://www.evernote.com/l/AslvEJrJC7tNQauNJhmMs6bszDTR3VHwn7c)
-
-## Acquisition de leads via Linkedin
-
-[![Acquisition de leads via Linkedin ](https://camo.githubusercontent.com/dbb7ce0291fd878d16bd294853ffdfe7b704e833/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f65564174527556634146492f302e6a7067)](https://www.youtube.com/watch?v=eVAtRuVcAFI)
-
-[https://youtu.be/eVAtRuVcAFI](https://youtu.be/eVAtRuVcAFI) 2h, par Chaïb Martinez
-
-[Slides](https://pad.incubateur.net/K3gKaBJXSEaImJQVuIY42w)
-
-## Atelier SEO
-
-[![Atelier SEO ](https://img.youtube.com/vi/FIgHZrWNb6g/0.jpg)](https://www.youtube.com/watch?v=FIgHZrWNb6g)
-
-[https://youtu.be/UN6KFijcXz4](https://youtu.be/UN6KFijcXz4) 1h30, par Mathilde Petit, Clément Chapalainn et Chaïb Martinez
-
-[Slides](https://docs.google.com/presentation/d/1Z7simVATAxPVsRe9a1V9Fuse2ts4cbV5sTeszxl8anw/edit?usp=sharing)
-
-## Trouver des usagers avec les Facebook/Instagram Ads
-
-[![Trouver des usagers avec les Facebook/Instagram Ads ](https://camo.githubusercontent.com/35d91b40fb88e6ef0e288fb2b56a8e773ad9d3b7/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f554e364b46696a63587a342f302e6a7067)](https://www.youtube.com/watch?v=UN6KFijcXz4)
-
-[https://youtu.be/UN6KFijcXz4](https://youtu.be/UN6KFijcXz4) 1h, par Chaïb Martinez
 
 ## Quelques ressources pour outiller vos stratégies d'acquisition et de rétention
 
@@ -128,6 +66,4 @@ Bon emaling !
 #### Booster son taux d'ouverture et de clic avec les tests A/B
 
 À venir
-
-
 
