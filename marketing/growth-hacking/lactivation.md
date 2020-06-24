@@ -1,4 +1,4 @@
-# L'activation
+# L'activation 🎯
 
 [![Activation Growth Hacking](https://img.youtube.com/vi/XzzjUncS55c/0.jpg)](https://youtu.be/XzzjUncS55c)
 

@@ -1,4 +1,4 @@
-# L'acquisition
+# Acquisition 👨‍👨‍👦‍👦
 
 [![Acquisition Growth Hacking](https://img.youtube.com/vi/bhYMp2mSjO0/0.jpg)](https://youtu.be/bhYMp2mSjO0)
 
