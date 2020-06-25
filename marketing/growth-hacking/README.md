@@ -4,11 +4,9 @@ Vous souhaitez de l'aide sur un sujet lié à la croissance de votre Startup d'E
 
 ### Présentation du Growth Hacking
 
-[![Pr&#xE9;sentation du Growth Hacking](https://img.youtube.com/vi/avAsqn5a-SU/0.jpg)](https://youtu.be/avAsqn5a-SU)
+{% embed url="https://www.youtube.com/watch?v=avAsqn5a-SU&feature=youtu.be" caption="1h49, par Chaïb Martinez" %}
 
 [Les slides](https://www.evernote.com/l/AsnMrUNsw3VNcLkMRXKuiX6eRZFg7L3eLrE)
-
-[https://youtu.be/avAsqn5a-SU](https://youtu.be/avAsqn5a-SU) 1h49, par Chaïb Martinez
 
 ## Quelques ressources pour outiller vos stratégies d'acquisition et de rétention
 
