@@ -7,14 +7,6 @@ description: >-
 
 # SEO 🔎
 
-## Atelier SEO
-
-[![Atelier SEO ](https://img.youtube.com/vi/FIgHZrWNb6g/0.jpg)](https://www.youtube.com/watch?v=FIgHZrWNb6g)
-
-[https://youtu.be/UN6KFijcXz4](https://youtu.be/UN6KFijcXz4) 1h30, par Mathilde Petit, Clément Chapalainn et Chaïb Martinez
-
-[Slides](https://docs.google.com/presentation/d/1Z7simVATAxPVsRe9a1V9Fuse2ts4cbV5sTeszxl8anw/edit?usp=sharing)
-
 ## Structure de la page
 
 ### Titre de la page

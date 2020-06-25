@@ -46,7 +46,6 @@
   * [Acquisition 👨‍👨‍👦‍👦](marketing/growth-hacking/lacquisition.md)
   * [Activation 🎯](marketing/growth-hacking/lactivation.md)
   * [Rétention ✅](marketing/growth-hacking/la-retention.md)
-* [Des sondages efficaces](marketing/des-sondages-efficaces.md)
 * [Réseaux sociaux 👍](marketing/reseaux-sociaux.md)
 * [SEO 🔎](marketing/seo-1.md)
 * [Solliciter la com Dinum 📣](marketing/soliciter-la-communication-dinum.md)
