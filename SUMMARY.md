@@ -58,8 +58,8 @@
 * [Infra](developpement/devops.md)
 * [Licences](developpement/qualite-du-code.md)
 
-## 🔐 Sécurité
+## 🔐 RGPD & Sécurité
 
-* [RGPD](securite/rgpd.md)
+* [Guide RGPD & Sécurité](guide-rgpd-securite.md)
 * [Homologation de sécurité](securite/homologation-de-securite.md)
 
