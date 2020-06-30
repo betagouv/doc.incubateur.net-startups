@@ -7,7 +7,7 @@ description: >-
 # Guide RGPD et Sécurité
 
 {% hint style="info" %}
-Ce document est une proposition, en cours d’élaboration, il est susceptible d’être amendé ou de faire l’objet de contre-propositions.
+Ce document est une proposition en cours d’élaboration. Il est susceptible d’être amendé ou de faire l’objet de contre-propositions.
 {% endhint %}
 
 ## 👨⚕ Hygiène : grands principes valables par tous les temps
@@ -33,7 +33,7 @@ _9 semaines pour instruire un problème et envisager des solutions pour le réso
 
 {% tab title="A faire" %}
 1. Je me documente sur les sujets RGPD & sécurité :
-   *  💡 [Qu'est-ce qu'une donnée personnelle ?](https://www.cnil.fr/fr/cnil-direct/question/une-donnee-caractere-personnel-cest-quoi) [Qu'est-ce qu'une donnée personnelle sensible ?](https://www.cnil.fr/fr/definition/donnee-sensible)
+   * 💡 [Qu'est-ce qu'une donnée personnelle ?](https://www.cnil.fr/fr/cnil-direct/question/une-donnee-caractere-personnel-cest-quoi) [Qu'est-ce qu'une donnée personnelle sensible ?](https://www.cnil.fr/fr/definition/donnee-sensible)
    * 💡 [Guide d'hygiène informatique pour les systèmes d'information](https://www.ssi.gouv.fr/guide/guide-dhygiene-informatique/) & [Guide RGPD du dev](https://www.cnil.fr/fr/guide-rgpd-du-developpeur)
 2. Je rencontre l'équipe juridique de la DINUM pour une première prise de contact :
    * `perica.sucevic@modernisation.gouv.fr` , `ines.bedar@modernisation.gouv.fr` `cindy.kus@modernisation.gouv.fr`
