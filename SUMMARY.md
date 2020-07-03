@@ -60,6 +60,6 @@
 
 ## 🔐 RGPD & Sécurité
 
-* [Guide RGPD & Sécurité](securite/guide-rgpd-securite.md)
-* [Homologation de sécurité](securite/homologation-de-securite.md)
+* [Guide RGPD & Sécurité](rgpd-and-securite/guide-rgpd-securite.md)
+* [Homologation de sécurité](rgpd-and-securite/homologation-de-securite.md)
 

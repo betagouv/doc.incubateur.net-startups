@@ -4,7 +4,7 @@ description: >-
   poser, quelles actions entreprendre, et quelles ressources mobiliser.
 ---
 
-# Guide RGPD et Sécurité
+# Guide RGPD & Sécurité
 
 {% hint style="info" %}
 Ce document est une proposition en cours d’élaboration. Il est susceptible d’être amendé ou de faire l’objet de contre-propositions.
@@ -43,7 +43,7 @@ _9 semaines pour instruire un problème et envisager des solutions pour le réso
 
 > Exemple = Un plan de déploiement peut être sur Google doc peut sans doute être en accès ouvert, mais des notes d'entretien utilisateurs, plutôt en accès limité.
 
-    5.  Je crée une fiche pour la nouvelle startup sur beta.gouv.fr.
+1. Je crée une fiche pour la nouvelle startup sur beta.gouv.fr.
 {% endtab %}
 
 {% tab title="A ne pas faire" %}
