@@ -4,11 +4,7 @@ description: Conférence d'une heure du 3 juillet 2020
 
 # 😱 Cauchemar à bêta : la mesure d'impact !
 
-## Restitution vidéo 
-
-{% embed url="https://www.youtube.com/watch?v=LAyyxzzUBR4" %}
-
-[Support en ligne](https://docs.google.com/presentation/d/1KXQAuBhHCk9QpLXYMLtLsSaFka4Q2gXgRFnb1UmoPgo/edit?usp=sharing)
+\*\*\*\*[**Support en ligne**](https://docs.google.com/presentation/d/1KXQAuBhHCk9QpLXYMLtLsSaFka4Q2gXgRFnb1UmoPgo/edit?usp=sharing)\*\*\*\*
 
 ## Annonce de l'évènement
 
