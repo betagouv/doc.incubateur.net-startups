@@ -31,7 +31,8 @@
 ## 💾 Gestion de produit
 
 * [Les rituels](gestion-de-produit/les-rituels.md)
-* [Définir et mesurer l’impact](gestion-de-produit/definir-et-mesurer-limpact.md)
+* [Définir et mesurer l’impact](gestion-de-produit/definir-et-mesurer-limpact/README.md)
+  * [😱 Cauchemar à bêta : la mesure d'impact !](gestion-de-produit/definir-et-mesurer-limpact/cauchemar-a-beta-la-mesure-dimpact.md)
 
 ## 💎 Design et Expérience Utilisateur
 
