@@ -19,5 +19,10 @@ Pour vous aider à orienter votre choix :
 * \*\*\*\*[**Le guide pour la communauté**](https://doc.incubateur.net/communaute/) s'adresse aux membres 💃 🕺🏾 en tant que personne/professionnel. Ce sont surtout des contenus qui servent de boussole pour s'y retrouver au sein de la communauté.
 * \*\*\*\*[**Le guide pour les Startups d’État et de territoires**](https://doc.incubateur.net/startups/) \(vous y êtes\) s'adresse aux équipes ‍👩🏽‍💻 👨🏼‍💻 👩🏼‍💼 👨🏻‍💼 des Startups d’État et de territoires. Il s'agit surtout de contenu visant à aider les équipes à chaque étape de la vie d'une SE.
 
+### Les autres guides thématiques :
+
+* \*\*\*\*[**Le guide Design**](https://doc.incubateur.net/design/) ****pour la communauté. Vous trouverez toutes les ressources UX et UI utiles pour vos Startups d’État.
+* \*\*\*\*[**Le guide Consolidation/Transfert**](https://doc.incubateur.net/consolidation/) pour les Startups d’État qui arrivent à cette étape.
+
 
 
