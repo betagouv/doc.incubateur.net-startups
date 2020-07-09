@@ -91,3 +91,7 @@ _\(Cette liste sera mise à jour par Sylvain au fur et à mesure de l’obtentio
 
 > En cas de doute sur l'acceptabilité d'un tweet, basculez sur votre compte personnel.
 
+
+
+Si vous souhaitez de l'aide sur les sujets liés à la croissance, la DINUM met en place un accompagnement en transverse : [https://doc.incubateur.net/communaute/aide-transverse/growth-hacking-acquisition](https://doc.incubateur.net/communaute/aide-transverse/growth-hacking-acquisition) par Chaïb Martinez
+

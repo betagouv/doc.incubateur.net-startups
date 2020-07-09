@@ -153,5 +153,11 @@ La plupart des liens vers votre site seront ajoutés progressivement, à mesure 
 
 [Google SEO Guide : Bien débuter en référencement naturel ](https://support.google.com/webmasters/answer/7451184?hl=fr)
 
+## Aide Transverse DINUM
+
+Si vous souhaitez de l'aide sur les sujets liés à la croissance, la DINUM met en place un accompagnement en transverse : [https://doc.incubateur.net/communaute/aide-transverse/growth-hacking-acquisition](https://doc.incubateur.net/communaute/aide-transverse/growth-hacking-acquisition) par Chaïb Martinez
+
+Côté gestion de produit, [https://doc.incubateur.net/communaute/aide-transverse/methodologie-produit](https://doc.incubateur.net/communaute/aide-transverse/methodologie-produit) par Mathilde Petit et Clément Chapalain
+
 
 

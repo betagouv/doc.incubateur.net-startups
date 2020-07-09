@@ -105,3 +105,9 @@ Utiliser des IP différentes pour vos emails transactionnels et vos emails marke
 * [info@news.leboncoin.fr](mailto:info@news.leboncoin.fr) pour le marketing \(donnez plus de visibilité à votre annonce, départ immédiat : direction…, on trouve tout sur le bon coin ! même un job, mise à jour de notre politique de confidentialité\)
 * [contact-flsdfjlsdj@messagerie.leboncoin.fr](mailto:contact-flsdfjlsdj@messagerie.leboncoin.fr) pour la messagerie interne \("username" via le bon coin - généralement en spam\)
 
+## Aide Transverse DINUM
+
+Si vous souhaitez de l'aide sur les sujets liés à la croissance, la DINUM met en place un accompagnement en transverse : [https://doc.incubateur.net/communaute/aide-transverse/growth-hacking-acquisition](https://doc.incubateur.net/communaute/aide-transverse/growth-hacking-acquisition) par Chaïb Martinez
+
+Côté gestion de produit, [https://doc.incubateur.net/communaute/aide-transverse/methodologie-produit](https://doc.incubateur.net/communaute/aide-transverse/methodologie-produit) par Mathilde Petit et Clément Chapalain
+
