@@ -26,7 +26,11 @@ Enfin, le sponsor \(un des dirigeants de l'administration partenaire\) et le co-
 
 Cette collaboration partagée est inédite et est un des principaux critères de réussite des Startup d'Etat.
 
+## En quoi, les besoins et les solutions sont définis par l’ensemble des parties ? 
 
+L'équipe de la Startup d'Etat est mixte. Elle est composée d'un agent public de l'administration partenaire et d'experts du numérique de la DINUM.
+
+Cette équipe va définir les besoins \(ou problèmes à résoudre pour l'usager\) et les solutions à construire pour y arriver.
 
 ## Quelles sont les conditions d'un contrat de "coopération public-public" ?
 
