@@ -8,7 +8,7 @@ description: '[En cours de rédaction donc non validé]'
 
 **Les contrats dits de « coopération public-public »** visés à l’article [L. 2511-6 du code de la commande publique](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000037704549&cidTexte=LEGITEXT000037701019&dateTexte=20190401) sont des marchés publics mais qui **n’ont pas à respecter les règles du code de la commande publique**. 
 
-Ils sont strictement définit par **trois critères** sont posés par la réglementation :
+Ils sont strictement définit par **trois critères** :
 
 -             **Obéir à des considérations d’intérêt général**
 
@@ -20,13 +20,21 @@ Ils sont strictement définit par **trois critères** sont posés par la réglem
 
 La jurisprudence européenne analyse également **deux critères complémentaires** :
 
-- **l’absence de favoritisme d’une entreprise privée** par rapport à ses concurrents
+- **l’absence de favoritisme d’une entreprise privée** par rapport à ses concurrents 
 
 - **l’absence de volonté de contourner les règles de la commande publique.**
 
 La CJUE indique que **la mission d’intérêt général doit être commune aux personnes publiques contractantes** et que la coopération soit conditionnée exclusivement à **la poursuite de considérations d’intérêt public**. 
 
 La coopération peut être horizontale ou verticale.
+
+## Concrètement, qu'est-ce qu'on doit toujours trouver dans une convention ?
+
+Pour que ces critères soient bien respectés, vous devez toujours :
+
+* indiquer qui sera l'usager final de votre Startup d'Etat et dans quelle politique publique ou service publique elle s'inscrit;
+* bien indiquer les engagements des administrations concernées et de la DINUM. Il ne s'agit jamais de positionner beta.gouv comme un prestataire. Le programme beta.gouv est un programme d'intrapreneuriat et de coopération entre plusieurs administration \(au moins deux : la DINUM et l'administration coopérante\) en vue de l'amélioration d'un service public;
+* disposer d'un code source ouvert afin de démontrer de l'absence de favoritisme d'une entreprise privée.
 
 ## Quelle différence entre coopération horizontale et verticale ?
 
