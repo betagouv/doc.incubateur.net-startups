@@ -4,6 +4,14 @@ description: '[En cours de rédaction donc non validé]'
 
 # FAQ juridique sur les conventions
 
+## Pourquoi cette FAQ ?
+
+En tant que membre de beta.gouv, vous pouvez être interrogé sur les aspects juriques des conventions de Startup d'Etat liant la DINUM à d'autres administrations.
+
+C'est souvent le cas pour la première convention de coopération entre la DINUM et une administration centrale, une collectivité ou un opérateur. Les services juridiques de ces entités nous interrogent ou demandent des précisions sur quelques points.
+
+Cette FAQ sert à répondre aux principales questions qui nous sont posées. La liste est non-exhaustive et pourra être complétée au fil de l'eau.
+
 ## Quelles sont les conditions d'un contrat de "coopération public-public" ?
 
 **Les contrats dits de « coopération public-public »** visés à l’article [L. 2511-6 du code de la commande publique](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000037704549&cidTexte=LEGITEXT000037701019&dateTexte=20190401) sont des marchés publics mais qui **n’ont pas à respecter les règles du code de la commande publique**. 
@@ -27,6 +35,14 @@ La jurisprudence européenne analyse également **deux critères complémentaire
 La CJUE indique que **la mission d’intérêt général doit être commune aux personnes publiques contractantes** et que la coopération soit conditionnée exclusivement à **la poursuite de considérations d’intérêt public**. 
 
 La coopération peut être horizontale ou verticale.
+
+## Quel est le risque si nos conventions ne respectent pas ces critères ?
+
+Il y aurait un risque de requalification en marchés publics. Concrêtement, l'administration partenaire pourrait être condamnée par un tribunal administratif pour ne pas s'être soumise aux règles de publicité et de mise en concurrence.
+
+Tout personne ayant intérêt à agir \(contribuable, entreprise, autres administrations...\) pourrait saisir le juge administratif.
+
+Il est donc utile de suivre le [modèle de convention](./) et de ne pas hésiter à demander de l'aide en cas de doute.
 
 ## Concrètement, qu'est-ce qu'on doit toujours trouver dans une convention ?
 
