@@ -12,6 +12,22 @@ C'est souvent le cas pour la première convention de coopération entre la DINUM
 
 Cette FAQ sert à répondre aux principales questions qui nous sont posées. La liste est non-exhaustive et pourra être complétée au fil de l'eau.
 
+## Beta.gouv n'est pas un prestataire de service.
+
+La convention ne doit pas organiser la réalisation d’une prestation par la Direction interministérielle du Numérique, confiée par une administration pour répondre à son besoin, en contrepartie d’un prix \(ou équivalent\). Elle devient alors un marché public régi par les règles de passation du CCP auxquelles l'administration ne peut déroger sans risquer un recours à l’encontre de la convention voire un recours au pénal \(délit de favoritisme\).
+
+## En quoi la coopération entre beta.gouv et l'administration partenaire est bien une "collaboration partagée, en cours d’exécution, tenant compte de la spécialisation de chaque partie" ?
+
+Les équipes autonomes composant les Startups d’État sont toujours composées d'un agent public \(mis à disposition par l'administration partenaire\) et d'experts du numérique \(mis à disposition part beta.gouv\). Cette équipe issue des deux parties prenantes crée un service public numérique sur la base des expertises réciproques : métiers et numériques.
+
+En outre, tout au long de la vie de la Startup d'Etat, l'équipe va solliciter les agents et usagers de l'administration partenaire pour mieux comprendre le problèmes, réaliser des tests ou solliciter une expertise \(juridique, communication...\).
+
+Enfin, le sponsor \(un des dirigeants de l'administration partenaire\) et le co-animateur de beta.gouv s'investissent également pour aider l'équipe. 
+
+Cette collaboration partagée est inédite et est un des principaux critères de réussite des Startup d'Etat.
+
+
+
 ## Quelles sont les conditions d'un contrat de "coopération public-public" ?
 
 **Les contrats dits de « coopération public-public »** visés à l’article [L. 2511-6 du code de la commande publique](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000037704549&cidTexte=LEGITEXT000037701019&dateTexte=20190401) sont des marchés publics mais qui **n’ont pas à respecter les règles du code de la commande publique**. 
