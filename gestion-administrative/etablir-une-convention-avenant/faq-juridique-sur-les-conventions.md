@@ -44,6 +44,24 @@ En outre, l'ensemble des coûts dépensés ne vise qu'à financer les prestation
 
 De plus, ces prestations ne permettent pas à elles seules de réaliser la Startup d’État. L'intervention de l'intrapreneur \(agent public de l'administration partenaire\) et de divers directions ou services de l'administration partenaire et de la DINUM est indispensable pour que la Startup d'Etat réussisse. C'est cette coopération ou collaboration qui définit les Startups d'Etat et le programme beta.gouv.
 
+## En quoi beta.gouv se démarque des incubateurs du marché \(secteur privé\) ?
+
+Les incubateurs du secteur privé proposent un accompagnement des structures privées \(entreprises, micro-entreprises...\) dans l'augmentation de leur valeur avec pour finalité d'aider des entrepreneurs à aboutir rapidement à une modèle d'affaire fiable.
+
+La vocation de l'incubateur beta.gouv n'est pas de trouver un modèle économique à des Startups du privé pour réussir dans le secteur public. La vocation de beta.gouv est de s'appuyer sur des agents publics \(intrapreneurs\) pour résoudre des problèmes de politique publique en s'inspirant des méthodes des Startups du privé : centré utilisateur, démarche itérative et pilotage par l'impact. Les aspects financiers, rentabilité ou recherche de part de marché, n'ont rien à voir avec beta.gouv.
+
+Les incubateurs du marché cherchent à aider une jeune entreprise à devenir rentable rapidement.
+
+Les incubateurs de Startups d’État cherchent à améliorer le service public.
+
+## En quoi, "aucun prestataire privé de services n'est placé dans une situation privilégiée par rapport à ses concurrents" ?
+
+Les conventions de Startup d’État prévoient explicitement que le code source est ouvert.
+
+L'ensemble des codes sources sont disponibles sur "[les pages produits](https://beta.gouv.fr/startups/)" du site beta.gouv.fr
+
+Ainsi tout prestataire privé peut récupérer ce code source sans l'autorisation de beta.gouv et le réutiliser dans le respect de la licence opensource indiquée.
+
 ## Quelles sont les conditions d'un contrat de "coopération public-public" ?
 
 **Les contrats dits de « coopération public-public »** visés à l’article [L. 2511-6 du code de la commande publique](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000037704549&cidTexte=LEGITEXT000037701019&dateTexte=20190401) sont des marchés publics mais qui **n’ont pas à respecter les règles du code de la commande publique**. 
