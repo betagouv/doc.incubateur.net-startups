@@ -26,11 +26,13 @@ Enfin, le sponsor \(un des dirigeants de l'administration partenaire\) et le co-
 
 Cette collaboration partagée est inédite et est un des principaux critères de réussite des Startup d'Etat.
 
-## En quoi, les besoins et les solutions sont définis par l’ensemble des parties ? 
+## En quoi les besoins et les solutions sont définis par l’ensemble des parties ? 
 
-L'équipe de la Startup d'Etat est mixte. Elle est composée d'un agent public de l'administration partenaire et d'experts du numérique de la DINUM.
+L'équipe de la Startup d’État est mixte. Elle est composée d'un agent public de l'administration partenaire et d'experts du numérique de la DINUM.
 
-Cette équipe va définir les besoins \(ou problèmes à résoudre pour l'usager\) et les solutions à construire pour y arriver.
+Cette équipe va définir les besoins \(ou problèmes à résoudre pour l'usager\) et les solutions à construire pour y arriver. Les membres de cette équipe travaillent au quotidien ensemble.
+
+Le rôle de l'intrapreneur.se est central. Les témoignages de différents intrapreneurs le démontrent parfaitement \(exemple : [là](https://blog.beta.gouv.fr/pole-emploi/2020/07/10/paroles-dintrapreneuses-3-lauren-michel-de-la-startup-maintenant-de-pole-emploi/), [ici ](https://blog.beta.gouv.fr/dinsic/2020/07/01/paroles-dintrapreneuse-melodie-dahi-du-secretariat-general-du-gouvernement/)et [là](https://blog.beta.gouv.fr/general/2020/06/24/parole-dintrapreneus-gaelle/)\).
 
 ## Quelles sont les conditions d'un contrat de "coopération public-public" ?
 
