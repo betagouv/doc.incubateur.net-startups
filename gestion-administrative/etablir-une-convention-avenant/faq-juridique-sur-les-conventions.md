@@ -36,6 +36,8 @@ Cette équipe va définir les besoins \(ou problèmes à résoudre pour l'usager
 
 Le rôle de l'intrapreneur.se est central. Les témoignages de différents intrapreneurs le démontrent parfaitement \(exemple : [là](https://blog.beta.gouv.fr/pole-emploi/2020/07/10/paroles-dintrapreneuses-3-lauren-michel-de-la-startup-maintenant-de-pole-emploi/), [ici ](https://blog.beta.gouv.fr/dinsic/2020/07/01/paroles-dintrapreneuse-melodie-dahi-du-secretariat-general-du-gouvernement/)et [là](https://blog.beta.gouv.fr/general/2020/06/24/parole-dintrapreneus-gaelle/)\).
 
+Ainsi l'équipe va proposer les finalités et le comité d'investissement les validera ou non. L'équipe comme le comité sont composés de membres de l'administration partenaire et de la DINUM. 
+
 ## En quoi les transferts financiers entre l'administration partenaire et la DINUM ne peuvent pas être regardés comme le résultat d’une activité commerciale ?
 
 Toutes les Startups d’État ont pour vocation à résoudre un problème de politique publique \(exemple : lutte contre le chômage, meilleur accès au droit, réduction de la pollution...\).
@@ -55,6 +57,8 @@ La vocation de l'incubateur beta.gouv n'est pas de trouver un modèle économiqu
 Les incubateurs du marché cherchent à aider une jeune entreprise à devenir rentable rapidement.
 
 Les incubateurs de Startups d’État cherchent à améliorer le service public.
+
+Par ailleurs, en raison de l'absence de toute relation commerciale entre beta.gouv et l'administration partenaire, la DINUM peut décider à tout moment d'arrêter le partenariat. C'est clairement indiqué dans le convention.
 
 ## En quoi, "aucun prestataire privé de services n'est placé dans une situation privilégiée par rapport à ses concurrents" ?
 
