@@ -32,7 +32,7 @@ La coopération peut être horizontale ou verticale.
 
 Pour que ces critères soient bien respectés, vous devez toujours :
 
-* indiquer qui sera l'usager final de votre Startup d'Etat et dans quelle politique publique ou service publique elle s'inscrit;
+* indiquer qui sera l'usager final de votre Startup d'Etat et dans quelle politique publique ou service public elle s'inscrit;
 * bien indiquer les engagements des administrations concernées et de la DINUM. Il ne s'agit jamais de positionner beta.gouv comme un prestataire. Le programme beta.gouv est un programme d'intrapreneuriat et de coopération entre plusieurs administration \(au moins deux : la DINUM et l'administration coopérante\) en vue de l'amélioration d'un service public;
 * disposer d'un code source ouvert afin de démontrer de l'absence de favoritisme d'une entreprise privée.
 
