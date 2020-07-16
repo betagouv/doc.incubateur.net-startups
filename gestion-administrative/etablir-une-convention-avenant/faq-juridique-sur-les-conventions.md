@@ -18,13 +18,15 @@ La convention ne doit pas organiser la réalisation d’une prestation par la Di
 
 ## En quoi la coopération entre beta.gouv et l'administration partenaire est bien une "collaboration partagée, en cours d’exécution, tenant compte de la spécialisation de chaque partie" ?
 
-Les équipes autonomes composant les Startups d’État sont toujours composées d'un agent public \(mis à disposition par l'administration partenaire\) et d'experts du numérique \(mis à disposition part beta.gouv\). Cette équipe issue des deux parties prenantes crée un service public numérique sur la base des expertises réciproques : métiers et numériques.
+Les équipes autonomes des Startups d’État sont toujours composées d'un agent public \(l'intrapreneur.se mis.e à disposition par l'administration partenaire\) et d'experts du numérique \(développeurs, designers, coachs, chargés de déploiement mis à disposition par beta.gouv\). Cette équipe issue des deux parties prenantes cherche à créer un service public numérique sur la base des expertises de chaque membre de l'équipe : métiers et numériques.
 
-En outre, tout au long de la vie de la Startup d'Etat, l'équipe va solliciter les agents et usagers de l'administration partenaire pour mieux comprendre le problèmes, réaliser des tests ou solliciter une expertise \(juridique, communication...\).
+En outre, tout au long de la vie de la Startup d’État, l'équipe va solliciter les agents et usagers de l'administration partenaire pour mieux comprendre le problème, réaliser des tests ou solliciter une expertise au sein de l'administration partenaire ou de la DINUM \(juridique, communication...\).
 
 Enfin, le sponsor \(un des dirigeants de l'administration partenaire\) et le co-animateur de beta.gouv s'investissent également pour aider l'équipe. 
 
-Cette collaboration partagée est inédite et est un des principaux critères de réussite des Startup d'Etat.
+Cette collaboration partagée est inédite et est un des principaux critères de réussite des Startup d’État.
+
+Sans intrapreneur ou sans experts du numérique de la DINUM, il n'y a pas de Startups d'Etat.
 
 ## En quoi les besoins et les solutions sont définis par l’ensemble des parties ? 
 
