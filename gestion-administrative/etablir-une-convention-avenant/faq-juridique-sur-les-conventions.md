@@ -12,9 +12,9 @@ C'est souvent le cas pour la première convention de coopération entre la DINUM
 
 Cette FAQ sert à répondre aux principales questions qui nous sont posées. La liste est non-exhaustive et pourra être complétée au fil de l'eau.
 
-## Beta.gouv n'est pas un prestataire de service.
+## Pourquoi est-il important de ne pas considérer Beta.gouv comme un prestataire de service ?
 
-La convention ne doit pas organiser la réalisation d’une prestation par la Direction interministérielle du Numérique, confiée par une administration pour répondre à son besoin, en contrepartie d’un prix \(ou équivalent\). Elle devient alors un marché public régi par les règles de passation du CCP auxquelles l'administration ne peut déroger sans risquer un recours à l’encontre de la convention voire un recours au pénal \(délit de favoritisme\).
+La convention ne doit pas organiser la réalisation d’une prestation par la Direction interministérielle du Numérique, confiée par une administration pour répondre à son besoin, en contrepartie d’un prix \(ou équivalent\). Elle deviendrait alors un marché public régi par les règles de passation du CCP auxquelles l'administration ne peut déroger sans risquer un recours à l’encontre de la convention voire un recours au pénal \(délit de favoritisme\).
 
 ## En quoi la coopération entre beta.gouv et l'administration partenaire est bien une "collaboration partagée, en cours d’exécution, tenant compte de la spécialisation de chaque partie" ?
 
