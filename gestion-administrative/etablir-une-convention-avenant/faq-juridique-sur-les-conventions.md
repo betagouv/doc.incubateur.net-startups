@@ -56,7 +56,7 @@ Les incubateurs de Startups d’État cherchent à améliorer le service public.
 
 ## En quoi, "aucun prestataire privé de services n'est placé dans une situation privilégiée par rapport à ses concurrents" ?
 
-Les conventions de Startup d’État prévoient explicitement que le code source est ouvert.
+Les conventions de Startup d’ÉIl y aurait un risque de requalification en marchés publics. Concrètement, l'administration partenaire pourrait être condamnée par un tribunal administratif pour ne pas s'être soumise aux règles de publicité et de mise en concurrence.tat prévoient explicitement que le code source est ouvert.
 
 L'ensemble des codes sources sont disponibles sur "[les pages produits](https://beta.gouv.fr/startups/)" du site beta.gouv.fr
 
@@ -88,9 +88,7 @@ La coopération peut être horizontale ou verticale.
 
 ## Quel est le risque si nos conventions ne respectent pas ces critères ?
 
-Il y aurait un risque de requalification en marchés publics. Concrêtement, l'administration partenaire pourrait être condamnée par un tribunal administratif pour ne pas s'être soumise aux règles de publicité et de mise en concurrence.
-
-Tout personne ayant intérêt à agir \(contribuable, entreprise, autres administrations...\) pourrait saisir le juge administratif.
+Le risque émane essentiellement des opérateurs économiques du secteur concurrentiel qui se verraient lésés par l’absence de publicité et de mise en concurrence : recours en annulation de la convention, recours au pénal pour délit de favoritisme \(article 432-14 code pénal\).
 
 Il est donc utile de suivre le [modèle de convention](./) et de ne pas hésiter à demander de l'aide en cas de doute.
 
