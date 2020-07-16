@@ -34,6 +34,16 @@ Cette équipe va définir les besoins \(ou problèmes à résoudre pour l'usager
 
 Le rôle de l'intrapreneur.se est central. Les témoignages de différents intrapreneurs le démontrent parfaitement \(exemple : [là](https://blog.beta.gouv.fr/pole-emploi/2020/07/10/paroles-dintrapreneuses-3-lauren-michel-de-la-startup-maintenant-de-pole-emploi/), [ici ](https://blog.beta.gouv.fr/dinsic/2020/07/01/paroles-dintrapreneuse-melodie-dahi-du-secretariat-general-du-gouvernement/)et [là](https://blog.beta.gouv.fr/general/2020/06/24/parole-dintrapreneus-gaelle/)\).
 
+## En quoi les transferts financiers entre l'administration partenaire et la DINUM ne peuvent pas être regardés comme le résultat d’une activité commerciale ?
+
+Toutes les Startups d’État ont pour vocation à résoudre un problème de politique publique \(exemple : lutte contre le chômage, meilleur accès au droit, réduction de la pollution...\).
+
+La convention vise explicitement des considérations d'intérêt général.
+
+En outre, l'ensemble des coûts dépensés ne vise qu'à financer les prestations des titulaires des marchés publics auquel à recours la DINUM. L'administration partenaire n'aura aucun autre frais à payer.
+
+De plus, ces prestations ne permettent pas à elles seules de réaliser la Startup d’État. L'intervention de l'intrapreneur \(agent public de l'administration partenaire\) et de divers directions ou services de l'administration partenaire et de la DINUM est indispensable pour que la Startup d'Etat réussisse. C'est cette coopération ou collaboration qui définit les Startups d'Etat et le programme beta.gouv.
+
 ## Quelles sont les conditions d'un contrat de "coopération public-public" ?
 
 **Les contrats dits de « coopération public-public »** visés à l’article [L. 2511-6 du code de la commande publique](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000037704549&cidTexte=LEGITEXT000037701019&dateTexte=20190401) sont des marchés publics mais qui **n’ont pas à respecter les règles du code de la commande publique**. 
