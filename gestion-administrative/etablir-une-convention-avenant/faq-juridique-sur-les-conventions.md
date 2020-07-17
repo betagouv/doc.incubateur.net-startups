@@ -14,45 +14,45 @@ Cette FAQ sert à répondre aux principales questions qui nous sont posées. La 
 
 ## Pourquoi est-il important de ne pas considérer Beta.gouv comme un prestataire de service ?
 
-La convention ne doit pas organiser la réalisation d’une prestation par la Direction interministérielle du Numérique, confiée par une administration pour répondre à son besoin, en contrepartie d’un prix \(ou équivalent\). Elle deviendrait alors un marché public régi par les règles de passation du CCP auxquelles l'administration ne peut déroger sans risquer un recours à l’encontre de la convention voire un recours au pénal \(délit de favoritisme\).
+**La convention n'organise pas la réalisation d’une prestation** par la Direction interministérielle du Numérique, confiée par une administration pour répondre à son besoin, en contrepartie d’un prix \(ou équivalent\). Elle deviendrait alors un marché public régi par les règles de passation du CCP auxquelles l'administration ne peut déroger sans risquer un recours à l’encontre de la convention voire un recours au pénal \(délit de favoritisme\).
 
 ## En quoi la coopération entre beta.gouv et l'administration partenaire est bien une "collaboration partagée, en cours d’exécution, tenant compte de la spécialisation de chaque partie" ?
 
-Les équipes autonomes des Startups d’État sont toujours composées d'un agent public \(l'intrapreneur.se mis.e à disposition par l'administration partenaire\) et d'experts du numérique \(développeurs, designers, coachs, chargés de déploiement mis à disposition par beta.gouv\). Cette équipe issue des deux parties prenantes cherche à créer un service public numérique sur la base des expertises de chaque membre de l'équipe : métiers et numériques.
+**Les équipes autonomes des Startups d’État sont toujours composées d'un agent public \(l'intrapreneur.se mis.e à disposition par l'administration partenaire\) et d'experts du numérique** \(développeurs, designers, coachs, chargés de déploiement mis à disposition par beta.gouv\). Cette équipe issue des deux parties prenantes cherche à créer un service public numérique sur la base des expertises de chaque membre de l'équipe : métiers et numériques.
 
 En outre, tout au long de la vie de la Startup d’État, l'équipe va solliciter les agents et usagers de l'administration partenaire pour mieux comprendre le problème, réaliser des tests ou solliciter une expertise au sein de l'administration partenaire ou de la DINUM \(juridique, communication...\).
 
 Enfin, le sponsor \(un des dirigeants de l'administration partenaire\) et le co-animateur de beta.gouv s'investissent également pour aider l'équipe. 
 
-Cette collaboration partagée est inédite et est un des principaux critères de réussite des Startup d’État.
+**Cette collaboration partagée est inédite et est un des principaux critères de réussite des Startup d’État.**
 
-Sans intrapreneur ou sans experts du numérique de la DINUM, il n'y a pas de Startups d'Etat.
+Sans intrapreneur ou sans experts du numérique de la DINUM, il n'y a pas de Startups d’État.
 
 ## En quoi les besoins et les solutions sont définis par l’ensemble des parties ? 
 
-L'équipe de la Startup d’État est mixte. Elle est composée d'un agent public de l'administration partenaire et d'experts du numérique de la DINUM.
+L'équipe de la Startup d’État est mixte. **Elle est composée d'un agent public de l'administration partenaire et d'experts du numérique de la DINUM.**
 
-Cette équipe va définir les besoins \(ou problèmes à résoudre pour l'usager\) et les solutions à construire pour y arriver. Les membres de cette équipe travaillent au quotidien ensemble.
+Cette équipe va définir les besoins \(ou problèmes à résoudre pour l'usager\) et les solutions à construire pour y arriver. **Les membres de cette équipe travaillent au quotidien ensemble.**
 
-Le rôle de l'intrapreneur.se est central. Les témoignages de différents intrapreneurs le démontrent parfaitement \(exemple : [là](https://blog.beta.gouv.fr/pole-emploi/2020/07/10/paroles-dintrapreneuses-3-lauren-michel-de-la-startup-maintenant-de-pole-emploi/), [ici ](https://blog.beta.gouv.fr/dinsic/2020/07/01/paroles-dintrapreneuse-melodie-dahi-du-secretariat-general-du-gouvernement/)et [là](https://blog.beta.gouv.fr/general/2020/06/24/parole-dintrapreneus-gaelle/)\).
+**Le rôle de l'intrapreneur.se est central**. Les témoignages de différents intrapreneurs le démontrent parfaitement \(exemple : [là](https://blog.beta.gouv.fr/pole-emploi/2020/07/10/paroles-dintrapreneuses-3-lauren-michel-de-la-startup-maintenant-de-pole-emploi/), [ici ](https://blog.beta.gouv.fr/dinsic/2020/07/01/paroles-dintrapreneuse-melodie-dahi-du-secretariat-general-du-gouvernement/)et [là](https://blog.beta.gouv.fr/general/2020/06/24/parole-dintrapreneus-gaelle/)\).
 
-Ainsi l'équipe va proposer les finalités et le comité d'investissement les validera ou non. L'équipe comme le comité sont composés de membres de l'administration partenaire et de la DINUM. 
+Ainsi **l'équipe va proposer les finalités** et le comité d'investissement les validera ou non. L'équipe comme le comité sont composés de membres de l'administration partenaire et de la DINUM. 
 
 ## En quoi les transferts financiers entre l'administration partenaire et la DINUM ne peuvent pas être regardés comme le résultat d’une activité commerciale ?
 
 Toutes les Startups d’État ont pour vocation à résoudre un problème de politique publique \(exemple : lutte contre le chômage, meilleur accès au droit, réduction de la pollution...\).
 
-La convention vise explicitement des considérations d'intérêt général.
+**La convention vise explicitement des considérations d'intérêt général**.
 
-En outre, l'ensemble des coûts dépensés ne vise qu'à financer les prestations des titulaires des marchés publics auquel à recours la DINUM. L'administration partenaire n'aura aucun autre frais à payer.
+En outre, l'ensemble des coûts dépensés ne vise qu'à financer les prestations des titulaires des marchés publics auquel à recours la DINUM. **L'administration partenaire n'aura aucun autre frais à payer.**
 
-De plus, ces prestations ne permettent pas à elles seules de réaliser la Startup d’État. L'intervention de l'intrapreneur \(agent public de l'administration partenaire\) et de divers directions ou services de l'administration partenaire et de la DINUM est indispensable pour que la Startup d'Etat réussisse. C'est cette coopération ou collaboration qui définit les Startups d'Etat et le programme beta.gouv.
+De plus, **ces prestations ne permettent pas à elles seules de réaliser la Startup d’État**. L**'intervention de l'intrapreneur \(agent public de l'administration partenaire\) et de divers directions ou services de l'administration partenaire et de la DINUM est indispensable pour que la Startup d’État réussisse**. C'est cette coopération ou collaboration qui définit les Startups d’État et le programme beta.gouv.
 
 ## En quoi beta.gouv se démarque des incubateurs du marché \(secteur privé\) ?
 
-Les incubateurs du secteur privé proposent un accompagnement des structures privées \(entreprises, micro-entreprises...\) dans l'augmentation de leur valeur avec pour finalité d'aider des entrepreneurs à aboutir rapidement à une modèle d'affaire fiable.
+**Les incubateurs du secteur privé proposent un accompagnement des structures privées** \(entreprises, micro-entreprises...\) dans l'augmentation de leur valeur avec pour finalité d'aider des entrepreneurs à aboutir rapidement à une modèle d'affaire fiable.
 
-La vocation de l'incubateur beta.gouv n'est pas de trouver un modèle économique à des Startups du privé pour réussir dans le secteur public. La vocation de beta.gouv est de s'appuyer sur des agents publics \(intrapreneurs\) pour résoudre des problèmes de politique publique en s'inspirant des méthodes des Startups du privé : centré utilisateur, démarche itérative et pilotage par l'impact. Les aspects financiers, rentabilité ou recherche de part de marché, n'ont rien à voir avec beta.gouv.
+**La vocation de l'incubateur beta.gouv n'est pas de trouver un modèle économique à des Startups du privé pour réussir dans le secteur public**. La vocation de beta.gouv est de s'appuyer sur des agents publics \(intrapreneurs\) pour résoudre des problèmes de politique publique en s'inspirant des méthodes des Startups du privé : centré utilisateur, démarche itérative et pilotage par l'impact. Les aspects financiers, rentabilité ou recherche de part de marché, n'ont rien à voir avec beta.gouv.
 
 Les incubateurs du marché cherchent à aider une jeune entreprise à devenir rentable rapidement.
 
@@ -62,11 +62,11 @@ Par ailleurs, en raison de l'absence de toute relation commerciale entre beta.go
 
 ## En quoi, "aucun prestataire privé de services n'est placé dans une situation privilégiée par rapport à ses concurrents" ?
 
-Les conventions de Startup d’ÉIl y aurait un risque de requalification en marchés publics. Concrètement, l'administration partenaire pourrait être condamnée par un tribunal administratif pour ne pas s'être soumise aux règles de publicité et de mise en concurrence.tat prévoient explicitement que le code source est ouvert.
+**Les conventions de Startup d’État prévoient explicitement que le code source est ouvert.**
 
 L'ensemble des codes sources sont disponibles sur "[les pages produits](https://beta.gouv.fr/startups/)" du site beta.gouv.fr
 
-Ainsi tout prestataire privé peut récupérer ce code source sans l'autorisation de beta.gouv et le réutiliser dans le respect de la licence opensource indiquée.
+Ainsi tout prestataire privé peut récupérer les codes source sans l'autorisation de beta.gouv et les réutiliser dans le respect de la licence opensource indiquée.
 
 ## Quelles sont les conditions d'un contrat de "coopération public-public" ?
 
