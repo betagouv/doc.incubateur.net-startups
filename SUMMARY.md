@@ -59,7 +59,7 @@
 * [Choisir son nom de domaine](developpement/choisir-son-nom-de-domaine.md)
 * [Infra](developpement/devops.md)
 * [Choisir des technologies](developpement/choisir-un-langage-de-programmation.md)
-* [Licences](developpement/qualite-du-code.md)
+* [Licences](developpement/licences.md)
 
 ## 🔐 RGPD & Sécurité
 
