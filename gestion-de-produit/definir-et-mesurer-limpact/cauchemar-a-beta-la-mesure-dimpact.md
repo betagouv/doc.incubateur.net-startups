@@ -1,5 +1,5 @@
 ---
-description: Conférence d'une heure du 3 juillet 2020
+description: Conférence d'une heure du 3 juillet 2020 - Acte 2 : ateliers d'accompagnement 
 ---
 
 # 😱 Cauchemar à bêta : la mesure d'impact !
