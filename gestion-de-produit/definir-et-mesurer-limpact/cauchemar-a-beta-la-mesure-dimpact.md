@@ -1,15 +1,14 @@
 ---
 description: Conférence d'une heure du 3 juillet 2020, puis Ateliers métriques à la demande
 ---
-
 # 😱 Cauchemar à bêta : la mesure d'impact !
 
 \*\*\*\*[**Support en ligne**](https://docs.google.com/presentation/d/1KXQAuBhHCk9QpLXYMLtLsSaFka4Q2gXgRFnb1UmoPgo/edit?usp=sharing)\*\*\*\*
 
 ## Annonce de l'évènement
 
-A tour de rôle pendant 7 minutes chacun, Marine, Damien et Léry allons vous raconter notre retour d'expérience avec les mesures d'impact au sein des SE dans lesquels nous avons bossé.  
-****  
+A tour de rôle pendant 7 minutes chacun, Marine, Damien et Léry allons vous raconter notre retour d'expérience avec les mesures d'impact au sein des SE dans lesquels nous avons bossé.
+
 **Pourquoi proposer cet évènement ?**  
 Les mesures d'impact, on en parle, on essaie de les suivre, on essaie de les améliorer mais on n'est pas tous à l'aise avec ce sujet. Elles sont centrales dans la méthode beta.gouv. Enfin, elles sont nos amies . Il arrive même qu'elles aient des effets magiques sur nos sponsors.  
   
@@ -36,4 +35,5 @@ Les SE qui se posent des questions sur leurs indicateurs d'impact (fond, forme, 
 ****
 **Quel format ?**
 Un atelier d'une heure à la demande d'une SE, ouvert aux observateurs qui veulent apprendre sans nécessairement participer. Rendez-vous sur [#domaine-mesures-impact]( https://startups-detat.slack.com/archives/C0164D4LSJE) !
+
 

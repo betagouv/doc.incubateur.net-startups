@@ -4,7 +4,7 @@ description: '[En cours de rédaction donc non validé]'
 
 # FAQ juridique sur les conventions
 
-## Pourquoi cette FAQ ?
+## Pourquoi cette foir aux questions ?
 
 En tant que membre de beta.gouv, vous pouvez être interrogé sur les aspects juriques des conventions de Startup d'Etat liant la DINUM à d'autres administrations.
 
@@ -14,7 +14,7 @@ Cette FAQ sert à répondre aux principales questions qui nous sont posées. La 
 
 ## Pourquoi est-il important de ne pas considérer Beta.gouv comme un prestataire de service ?
 
-**La convention n'organise pas la réalisation d’une prestation** par la Direction interministérielle du Numérique, confiée par une administration pour répondre à son besoin, en contrepartie d’un prix \(ou équivalent\). Elle deviendrait alors un marché public régi par les règles de passation du CCP auxquelles l'administration ne peut déroger sans risquer un recours à l’encontre de la convention voire un recours au pénal \(délit de favoritisme\).
+**La convention n'organise pas la réalisation d’une prestation** par la Direction interministérielle du Numérique, confiée par une administration pour répondre à son besoin, en contrepartie d’un prix \(ou équivalent\). Elle deviendrait alors un marché public régi par les règles de passation du cahier des clauses particulières \(CCP\) auxquelles l'administration ne peut déroger sans risquer un recours à l’encontre de la convention voire un recours au pénal \(délit de favoritisme\).
 
 ## En quoi la coopération entre beta.gouv et l'administration partenaire est bien une "collaboration partagée, en cours d’exécution, tenant compte de la spécialisation de chaque partie" ?
 
@@ -24,9 +24,11 @@ En outre, tout au long de la vie de la Startup d’État, l'équipe va sollicite
 
 Enfin, le sponsor \(un des dirigeants de l'administration partenaire\) et le co-animateur de beta.gouv s'investissent également pour aider l'équipe. 
 
-**Cette collaboration partagée est inédite et est un des principaux critères de réussite des Startup d’État.**
+**Cette collaboration partagée est inédite et est un des principaux critères de réussite des Startups d’État.**
 
 Sans intrapreneur ou sans experts du numérique de la DINUM, il n'y a pas de Startups d’État.
+
+Une équipe de Startup d'Etat a donc "un pied dedans, un pied dehors".
 
 ## En quoi les besoins et les solutions sont définis par l’ensemble des parties ? 
 
@@ -44,13 +46,13 @@ Toutes les Startups d’État ont pour vocation à résoudre un problème de pol
 
 **La convention vise explicitement des considérations d'intérêt général**.
 
-En outre, l'ensemble des coûts dépensés ne vise qu'à financer les prestations des titulaires des marchés publics auquel à recours la DINUM. **L'administration partenaire n'aura aucun autre frais à payer.**
+En outre, l'ensemble des coûts dépensés ne vise qu'à financer les prestations des titulaires des marchés publics auquel à recours la DINUM. **L'administration partenaire n'aura aucun autre frais à payer, en dehors de la rémunération de l'intrapreneur.se.**
 
-De plus, **ces prestations ne permettent pas à elles seules de réaliser la Startup d’État**. L**'intervention de l'intrapreneur \(agent public de l'administration partenaire\) et de divers directions ou services de l'administration partenaire et de la DINUM est indispensable pour que la Startup d’État réussisse**. C'est cette coopération ou collaboration qui définit les Startups d’État et le programme beta.gouv.
+De plus, **ces prestations ne permettent pas à elles seules de réaliser la Startup d’État**. L**'intervention de l'intrapreneur \(agent public de l'administration partenaire\) et de divers directions ou services de l'administration partenaire et de la DINUM sont indispensables pour que la Startup d’État réussisse**. C'est cette coopération ou collaboration qui définit les Startups d’État et le programme beta.gouv.
 
 ## En quoi beta.gouv se démarque des incubateurs du marché \(secteur privé\) ?
 
-**Les incubateurs du secteur privé proposent un accompagnement des structures privées** \(entreprises, micro-entreprises...\) dans l'augmentation de leur valeur avec pour finalité d'aider des entrepreneurs à aboutir rapidement à une modèle d'affaire fiable.
+**Les incubateurs du secteur privé proposent un accompagnement des structures de droit privé** \(entreprises, micro-entreprises...\) dans l'augmentation de leur valeur avec pour finalité d'aider des sociétés privées à aboutir rapidement à une modèle d'affaire fiable et rentable.
 
 **La vocation de l'incubateur beta.gouv n'est pas de trouver un modèle économique à des Startups du privé pour réussir dans le secteur public**. La vocation de beta.gouv est de s'appuyer sur des agents publics \(intrapreneurs\) pour résoudre des problèmes de politique publique en s'inspirant des méthodes des Startups du privé : centré utilisateur, démarche itérative et pilotage par l'impact. Les aspects financiers, rentabilité ou recherche de part de marché, n'ont rien à voir avec beta.gouv.
 
@@ -58,7 +60,7 @@ Les incubateurs du marché cherchent à aider une jeune entreprise à devenir re
 
 Les incubateurs de Startups d’État cherchent à améliorer le service public.
 
-Par ailleurs, en raison de l'absence de toute relation commerciale entre beta.gouv et l'administration partenaire, la DINUM peut décider à tout moment d'arrêter le partenariat. C'est clairement indiqué dans le convention.
+Par ailleurs, en raison de l'absence de toute relation commerciale entre beta.gouv et l'administration partenaire, la DINUM peut décider à tout moment d'arrêter le partenariat. C'est clairement indiqué dans le convention. La relation est horizontale. Il n'y a pas un donneur d'ordre et un exécutant.
 
 ## En quoi, "aucun prestataire privé de services n'est placé dans une situation privilégiée par rapport à ses concurrents" ?
 
@@ -114,7 +116,7 @@ Pour que ces critères soient bien respectés, vous devez toujours :
 
 ## Pour aller plus loin 
 
-La direction des affaires juridiques met à disposition une [note complète et régulièrement mise à jour sur ce sujet](https://www.economie.gouv.fr/daj/contrats-entre-entites-secteur-public-2019-2) : Les contrats conclus entre entités appartenant au secteur public.
+La direction des affaires juridiques met à disposition une [note complète et régulièrement mise à jour sur ce sujet](https://www.economie.gouv.fr/daj/contrats-entre-entites-secteur-public-2019-2) : _**Les contrats conclus entre entités appartenant au secteur public.**_
 
 Il convient d'avoir quelques bases en droit pour réussir à la traduire.
 
