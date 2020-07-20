@@ -5,6 +5,7 @@
 ## ✍ Contribuer
 
 * [Comment faire ?](contribuer/comment-faire.md)
+* [Comment valider mes ajouts ?](contribuer/comment-valider-mes-ajouts.md)
 * [Recommandations](contribuer/recommandations.md)
 
 ## 🚀 La vie d’une SE

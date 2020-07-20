@@ -2,25 +2,30 @@
 
 ## Pourquoi contribuer ?
 
-* Vous souhaitez créer une nouvelle page ? 
-* Vous souhaitez mettre à jour ou corriger du contenu sur ce guide ?
+* Tu souhaites créer une nouvelle page ? 
+* Tu souhaites mettre à jour ou corriger du contenu sur ce guide ?
 
 ## Comment devenir contributeur ? 
 
 Chaque membre de la communauté peut devenir éditeur et proposer des modifications et améliorations à ce guide en ligne. 
 
-* Il suffit de suivre le lien sur le channel [\#incubateur-documentation \(sur Slack\)](https://app.slack.com/client/T04C2PSNY/C011EK4NQH3/thread/C011EK4NQH3-1589360618.012400) pour devenir contributeur sur GitBook.
-* Vous pouvez aussi éditer sur [GitHub](https://github.com/betagouv/doc.incubateur.net-startups)
+* Pour contribuer à ce guide \(gitbook\), il suffit  de suivre ses 3 étapes : 
+  * rejoindre le lien sur le salon [\#incubateur-documentation \(sur Slack\)](https://app.slack.com/client/T04C2PSNY/C011EK4NQH3/thread/C011EK4NQH3-1589360618.012400) 
+  * Cliquer sur le lien situé dans le chapeau du nom du salon. Ce lien n'est pas public pour des raisons de sécurité.
 
-Vous ne prenez aucun risque de "casser" quoi que ce soit.
+![](../.gitbook/assets/image%20%286%29.png)
+
+Si tu es doué avec github, tu peux aussi modifier ce guide directement [ici](https://github.com/betagouv/doc.incubateur.net-communaute).
+
+Tu ne prends aucun risque à "casser" quoi que ce soit.
 
 Si besoin d'aide, tu peux solliciter les membres du salon [\#incubateur-documentation \(sur Slack\)](https://app.slack.com/client/T04C2PSNY/C011EK4NQH3/thread/C011EK4NQH3-1589360618.012400).
 
 ## Quelle différence entre les différents guides ?
 
-Vous êtes légitimes pour contribuer sur tous les guides.
+Tu es légitime pour contribuer sur tous les guides.
 
-Pour vous aider à orienter votre choix :
+Pour t'aider à orienter tes choix :
 
 * **Le guide de la communauté** s'adresse aux membres 💃 🕺🏾 en tant que personne/professionnel. Ce sont surtout des contenus qui servent de boussole pour s'y retrouver au sein de la communauté.
 * **Le guide pour les Startups d’État** \(et de territoires\) s'adresse aux équipes ‍👩🏽‍💻 👨🏼‍💻 👩🏼‍💼 👨🏻‍💼 des Startups d’État et de territoire. Il s'agit surtout de contenu cherchant à aider les équipes à chaque étape de la vie d'une SE.
