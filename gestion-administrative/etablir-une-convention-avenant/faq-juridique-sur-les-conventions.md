@@ -4,7 +4,7 @@ description: '[En cours de rédaction donc non validé]'
 
 # FAQ juridique sur les conventions
 
-## Pourquoi cette foir aux questions ?
+## Pourquoi cette foire aux questions ?
 
 En tant que membre de beta.gouv, vous pouvez être interrogé sur les aspects juriques des conventions de Startup d'Etat liant la DINUM à d'autres administrations.
 
