@@ -14,7 +14,7 @@ Les mesures d'impact se sont nettement améliorées au cours des derniers mois :
 
 **Qui sont les personnes cibles ?** Les SE qui se posent des questions sur leurs indicateurs d'impact \(fond, forme, pourquoi, comment,...\), et qui auraient besoin d'aide pour avancer vers des métriques utiles et utilisables.
 
-**Quel format ?** Un atelier d'une heure à la demande d'une SE, ouvert aux observateurs qui veulent apprendre sans nécessairement participer. Rendez-vous sur [\#domaine-mesures-impact](https://startups-detat.slack.com/archives/C0164D4LSJE) !
+**Quel format ?** Un atelier d'une heure à la demande d'une SE, ouvert aux observateurs qui veulent apprendre sans nécessairement participer. Rendez-vous sur [\#domaine-mesures-impact](https://startups-detat.slack.com/archives/C0164D4LSJE) \(Si vous n'avez pas accès au Slack de la communauté, envoyez un email à dinum@beta.gouv.fr\) !
 
 \_\_\_
 
