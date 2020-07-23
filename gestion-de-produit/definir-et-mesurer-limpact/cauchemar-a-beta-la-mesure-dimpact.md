@@ -4,7 +4,7 @@ description: De l'aide pour faire un pas de plus vers des métriques utiles et u
 
 # 😱 Cauchemar à bêta : la mesure d'impact !
 
-## Acte 2 : "60 minutes pour faire un pas de plus vers des métriques utiles et utilisables"
+## \#Acte 2 : "60 minutes pour faire un pas de plus vers des métriques utiles et utilisables"
 
 Nous proposons des ateliers pour répondre aux besoins d'aide sur les métriques.
 
