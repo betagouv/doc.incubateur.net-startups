@@ -1,5 +1,5 @@
 ---
-description: 'Conférence d''une heure du 3 juillet 2020, puis Ateliers métriques à la demande'
+description: De l'aide pour faire un pas de plus vers des métriques utiles et utilisables.
 ---
 
 # 😱 Cauchemar à bêta : la mesure d'impact !
