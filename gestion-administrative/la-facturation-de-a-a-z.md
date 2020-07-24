@@ -42,15 +42,15 @@ Le procès verbal du service fait contient :
 
 * indication s'il s'agit d'un service fait partiel ou total. Il s'agit d'un service fait partiel lorsqu'il ne s'agit de facturer qu'une partie du bon de commande à mi-parcours.
 * le numéro du bon de commande
-* l'intitulé de la Startup d'Etat ou de Territoire concerné
+* l'intitulé de la Startup d’État ou de Territoire concerné
 * Le montant qui sera facturé
 * le pourcentage de ce montant par rapport au montant total du bon de commande \(exemple : 51,05%\).
 
-Ce [procès verbal](https://docs.google.com/document/d/1hyvfie7hoRApJJP3liJGELqSsftR_sFCgTSUzqnM7QM/edit?usp=sharing) n'est pas à signé mais à adresser à compta@beta.gouv.fr.
+Ce [procès verbal](https://docs.google.com/document/d/1hyvfie7hoRApJJP3liJGELqSsftR_sFCgTSUzqnM7QM/edit?usp=sharing) n'est pas à signer mais à adresser à compta@beta.gouv.fr.
 
-Le résumé des livrables ou CRA devra être annéxé.
+Le résumé des livrables ou CRA devra être annexé.
 
-## 3. L'un des co-animateurs vérifie ces informations auprès de l'équipe de la Startup d'Etat ou de Territoire, le signe et le transmet au pôle gestion de la DINUM.
+## 3. L'un des co-animateurs vérifie ces informations auprès de l'équipe de la Startup d’État ou de Territoire, le signe et le transmet au pôle gestion de la DINUM.
 
 L'un des co-animateur demande la confirmation du résumé des livrables et du montant indiqué à l'équipe de la SET. 
 
