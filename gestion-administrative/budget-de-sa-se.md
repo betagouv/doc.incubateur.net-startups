@@ -14,7 +14,7 @@ Concrètement, si vous aviez 100 000€ de budget et que vous avez fait une dema
 
 En revanche, si vous avez fait une demande de devis de 100 000€ \(engagement de 100 000€\) et qu'il vous reste 5 000€ à consommer alors vous pourrez les consommer après la date limite de votre convention. 
 
-Il est recommandé de vous renseigner auprès d'une personne de l'équiep de co-animation afin de vérifier que cette règle s'applique bien à votre convention.
+Il est recommandé de vous renseigner auprès d'une personne de l'équipe de co-animation afin de vérifier que cette règle s'applique bien à votre convention.
 
 Concernant le devis, la date limite de prestation n'est que prévisionnelle. Ainsi, vous pourrez consommer les crédits de ce devis au-delà de la date limite indiquée dans le devis.
 
