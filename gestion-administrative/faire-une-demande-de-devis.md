@@ -2,9 +2,13 @@
 
 Ce document résume la procédure de demande de devis pour les marchés Coaching et Développement/Déploiement/Design de la DINUM pour la conception de services numériques selon l'approche Startups d'État.
 
-#### Transmettre un mail au prestataire
+## 1. Transmettre une expression de besoin
 
-ATTENTION : TOUJOURS METTRE COMPTA@BETA.GOUV.FR EN COPIE DE VOS DEMANDES
+L'expression de besoin est adressée par l'intrapreneur.se, un coanimateur .trice de beta ou un.e responsable d'incubateur.
+
+_ATTENTION : TOUJOURS METTRE **COMPTA@BETA.GOUV.FR** EN COPIE DE VOS DEMANDES_
+
+### Demande de devis "dev/chargé de déploiment/design"
 
 * Pour OCTO : dinum@octo.com
 * Pour la Zone : relations-dinsic@la.zone
@@ -42,4 +46,29 @@ ATTENTION : TOUJOURS METTRE COMPTA@BETA.GOUV.FR EN COPIE DE VOS DEMANDES
 > Pourriez-vous s'il vous plaît me faire parvenir un devis pour cette prestation ?
 >
 > Merci beaucoup
+
+### Demande de devis "Coach"
+
+* Pour octo : dinum@octo.com
+* Pour Ippon :  sbouchet@ippon.tech
+* Pour Numa : 
+
+Pour le marché de coaching tout part de "l'expression de besoin" transmise par email.
+
+Voici le formalisme de l'expression de besoin :
+
+> * nom de la start up
+> * Contexte
+> * Mission
+> * Livrables
+> * Demande \(nb de jours... coach\)
+> * Période concernée
+
+## 2. Le titulaire adresse un devis
+
+Si le devis est conforme à l'expression des besoins, il est adressé au coanimateur afin qu'un bon de commande soit produit par la DINUM \(délais de quelques jours\).
+
+## 3. Le bon de commande est adressée au titulaire
+
+Dès que le bon de commande est produit, le titulaire est averti par email et la prestation peut démarrer.
 

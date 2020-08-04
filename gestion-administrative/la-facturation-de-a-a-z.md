@@ -68,7 +68,9 @@ Le pôle gestion préviendra le titulaire afin qu'il puisse déposer sa facture.
 
 ## 5. Le titulaire dépose sa facture dans le logiciel Chorus.
 
-Le titulaire du marché dépose sa facture dans Chorus afin d'enclencher le paiement.
+Le titulaire doit attendre l'email du pôle gestion indiquant que Chorus est "ouvert".
+
+Le titulaire du marché dépose alors sa facture dans Chorus afin d'enclencher le paiement.
 
 ## 6. Le comptable public réalise le paiement
 
