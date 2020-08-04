@@ -1,8 +1,8 @@
 ---
-description: Brouillon
+description: Brouillon - contenu non validé en cours de rédaction
 ---
 
-# Comment payer des services \(hors presta\) avec le budget de ma Startup d’État ou de Territoires ?
+# Comment payer des petits services avec le budget de ma Startup d’État ou de Territoires ?
 
 Votre Start-up d’État ou de territoires a besoin :
 
