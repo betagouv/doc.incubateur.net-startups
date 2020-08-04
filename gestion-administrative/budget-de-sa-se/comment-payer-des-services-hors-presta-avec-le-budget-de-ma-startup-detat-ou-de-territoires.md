@@ -8,7 +8,7 @@ Votre Start-up d’État ou de territoires a besoin :
 
 * d'un compte professionnel sur un service en ligne d'envoi massif d'email ;
 * de faire imprimer des affiches ;
-* de disposer d'un espace d'hebergement sur le cloud ;
+* de disposer d'un espace d'hébergement sur le cloud ;
 * ...
 
 Vous pouvez réglez ce type de dépenses avec votre budget.
