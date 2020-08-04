@@ -31,3 +31,12 @@ La croissance de **l’IMPACT** du produit.
 * Les processus internes sont-ils construits et structurés pour permettre ce passage à l’échelle \(formation et onboarding, outils, documentation des processus, etc.\) ? 
 * La culture de l’équipe est-elle alignée avec les [valeurs de beta](https://beta.gouv.fr/approche/manifeste) et propice à un déploiement ?
 
+## Comment s'auto-évaluer pour un passage en phase d'accélération ?
+
+Cette grille évalue les critères d’éligibilité à la phase d’accélération du programme beta.gouv.fr. Elle est complétée à l’issue d’une phase de construction et constitue une aide à la décision des partenaires investisseurs et de l'équipe de Startup d'Etat et de Territoires.
+
+* [Version en ligne](https://docs.google.com/document/d/1iaWv0JuXU4BohqFH87hMYWclQcAxa-pW724DBFEulg4/edit#)
+* Version à télécharger \(version du 04/08/2020\) :
+
+{% file src="../.gitbook/assets/grille-acceleration.docx" caption="Grille d\'auto-évaluation - passage en phase d\'acceleration - V04082020" %}
+
