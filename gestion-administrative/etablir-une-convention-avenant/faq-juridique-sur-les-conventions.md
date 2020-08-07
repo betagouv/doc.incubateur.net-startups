@@ -1,5 +1,5 @@
 ---
-description: '[En cours de rédaction donc non validé]'
+description: '[En cours d''amélioration]'
 ---
 
 # FAQ juridique sur les conventions
