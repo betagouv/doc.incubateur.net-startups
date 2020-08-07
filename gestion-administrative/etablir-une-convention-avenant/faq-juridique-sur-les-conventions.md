@@ -14,15 +14,19 @@ Cette FAQ sert à répondre aux principales questions qui nous sont posées. La 
 
 ## Pourquoi est-il important de ne pas considérer Beta.gouv comme un prestataire de service ?
 
-**La convention n'organise pas la réalisation d’une prestation** par la Direction interministérielle du Numérique, confiée par une administration pour répondre à son besoin, en contrepartie d’un prix \(ou équivalent\). Elle deviendrait alors un marché public régi par les règles de passation du cahier des clauses particulières \(CCP\) auxquelles l'administration ne peut déroger sans risquer un recours à l’encontre de la convention voire un recours au pénal \(délit de favoritisme\).
+**La convention n'organise pas la réalisation d’une prestation** par la Direction interministérielle du Numérique, confiée par une administration pour répondre à son besoin, en contrepartie d’un prix \(ou équivalent\). 
+
+En effet, l’approche beta.gouv.fr consiste à identifier des problèmes de politique publique à fort impact social et à donner de l’autonomie à une équipe pour en trouver une solution. Beta.gouv met donc en œuvre le principe du développement itératif qui vise à mettre un service en production rapidement et l’améliorer ensuite, plutôt que d’attendre qu’il soit « théoriquement parfait » pour le lancer. Dès lors, le besoin n’est pas clairement définit avec précision comme l’impose le code de la commande publique. 
+
+En outre, Beta.gouv diffuse des méthodes d’amélioration progressive et continue, centrées sur les usages observés, dont l’efficacité repose sur une responsabilisation des équipes composées d’agents de l’administration partenaire et de Beta.gouv. Ces méthodes nécessitent que les administrations partenaires en tirent les conséquences dans leurs organisations, ce qui exige un accompagnement, et internalisent fortement les compétences nécessaires. Or lorsqu’il est fait appel à des prestataires, des adaptations contractuelles doivent être prises, notamment par l’inscription de clauses de sorties, ce qui n’est pas le cas dans l’accompagnement Beta.gouv.
 
 ## En quoi la coopération entre beta.gouv et l'administration partenaire est bien une "collaboration partagée, en cours d’exécution, tenant compte de la spécialisation de chaque partie" ?
 
-**Les équipes autonomes des Startups d’État sont toujours composées d'un agent public \(l'intrapreneur.se mis.e à disposition par l'administration partenaire\) et d'experts du numérique** \(développeurs, designers, coachs, chargés de déploiement mis à disposition par beta.gouv\). Cette équipe issue des deux parties prenantes cherche à créer un service public numérique sur la base des expertises de chaque membre de l'équipe : métiers et numériques.
+**Les équipes autonomes des Startups d’État sont toujours composées d’agents publics  \(les intrapreneurs.ses\) mis à disposition par l'administration partenaire et d'experts du numérique \(développeurs, designers, coachs, chargés de déploiement\) mis à disposition par beta.gouv.** Cette équipe issue des deux parties prenantes cherche à améliorer une politique publique sur la base des expertises de chaque membre de l'équipe : métiers et numériques.
 
-En outre, tout au long de la vie de la Startup d’État, l'équipe va solliciter les agents et usagers de l'administration partenaire pour mieux comprendre le problème, réaliser des tests ou solliciter une expertise au sein de l'administration partenaire ou de la DINUM \(juridique, communication...\).
+En outre, tout au long de la vie de la Startup d’État, l'équipe va solliciter les agents et usagers de l'administration partenaire pour mieux comprendre le problème, réaliser des tests ou solliciter une expertise au sein de l'administration partenaire ou de la DINUM \(juridique, communication...\). Les services objet de la convention sont donc complémentaires. En outre ; la coopération porte au minimum sur des activités accessoires aux services publics qui doivent être fournis, même à titre individuel, par chaque membre de cette coopération.  Les SI « opérationnels » qui permettent de mettre en musique une mission de service public ou d’appuyer une politique publique sont une composante directe des services publics.
 
-Enfin, le sponsor \(un des dirigeants de l'administration partenaire\) et le co-animateur de beta.gouv s'investissent également pour aider l'équipe. 
+Enfin, le sponsor \(un des décideurs de l'administration partenaire\) et le co-animateur de beta.gouv s'investissent également pour aider l'équipe.
 
 **Cette collaboration partagée est inédite et est un des principaux critères de réussite des Startups d’État.**
 
@@ -72,15 +76,15 @@ Ainsi tout prestataire privé peut récupérer les codes source sans l'autorisat
 
 ## Quelles sont les conditions d'un contrat de "coopération public-public" ?
 
-**Les contrats dits de « coopération public-public »** visés à l’article [L. 2511-6 du code de la commande publique](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000037704549&cidTexte=LEGITEXT000037701019&dateTexte=20190401) sont des marchés publics mais qui **n’ont pas à respecter les règles du code de la commande publique**. 
+**Les contrats dits de « coopération public-public »** visés à l’article [L. 2511-6 du code de la commande publique](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000037704549&cidTexte=LEGITEXT000037701019&dateTexte=20190401) sont des marchés publics mais qui **n’ont pas à respecter les règles de publicité et de mise en concurrence fixées par le code de la commande publique.**
 
-Ils sont strictement définit par **trois critères** :
+Ils sont strictement définit par trois critères :
 
--             **Obéir à des considérations d’intérêt général**
+- Obéir à des considérations d’intérêt général
 
--             **Coopérer en vue d’accomplir une mission commune de service public**
+- Coopérer en vue d’accomplir une mission commune de service public
 
--             **Réaliser sur le marché concurrentiel moins de 20% des activités concernés par la coopération.**
+- Réaliser sur le marché concurrentiel moins de 20% des activités concernés par la coopération.
 
 ## Que dit la jurisprudence sur ce type de contrat ?
 
@@ -96,7 +100,7 @@ La coopération peut être horizontale ou verticale.
 
 ## Quel est le risque si nos conventions ne respectent pas ces critères ?
 
-Le risque émane essentiellement des opérateurs économiques du secteur concurrentiel qui se verraient lésés par l’absence de publicité et de mise en concurrence : recours en annulation de la convention, recours au pénal pour délit de favoritisme \(article 432-14 code pénal\).
+Le risque émane essentiellement des opérateurs économiques du secteur concurrentiel qui se verraient lésés par l’absence de publicité et de mise en concurrence : recours en annulation de la convention ert requalification, recours au pénal pour délit de favoritisme \(article 432-14 code pénal\).
 
 Il est donc utile de suivre le [modèle de convention](./) et de ne pas hésiter à demander de l'aide en cas de doute.
 
