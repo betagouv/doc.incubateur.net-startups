@@ -26,7 +26,7 @@ La phase d’accélération suppose que la phase de construction a effectivement
 
 Voici 3 critères clés, et des questions indicatives pour mieux les comprendre, retenus pour estimer qu’une startup d'État est prête à un passage en phase d’accélération :
 
-#### 1. L'adéquation produit/marche
+#### 1. L'adéquation produit/marché
 
 _Le marché atteignable est-il identifié \(taille et périmètre, ciblage pertinent des utilisateurs ; ex. nombre de personnes ou d’organismes concernés par le problème traité, nombre et fréquence d'occurrences, etc.\) ? Le produit est-il opérationnel ? A-t-il prouvé sa valeur auprès de premiers utilisateurs récurrents \(1 à 5% minimum du marché atteignable touché\) ? La valeur du produit justifie-t-elle un ré-investissement potentiel de plusieurs centaines de milliers d’euros d’argent public pour le déployer à large échelle ?_
 
