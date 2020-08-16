@@ -53,5 +53,5 @@ Il s’articule autour de la mise à disposition de ressources spécialisées po
 
 La création d’un programme d’accompagnement resserré \(programme Gamma\), avec un suivi régulier et la mise à disposition de ressources transverses, est en outre en cours de réflexion et sera lancé en phase d’expérimentation en septembre 2020.
 
- Enfin, les startups entrant en phase d’accélération ont la possibilité de postuler au [Fonds d’accélération des Startups d’État et de Territoire \(FAST\)](https://beta.gouv.fr/approche/fast), offrant jusqu’à 1 million d’euros par session en provenance de la Direction Interministérielle du Numérique \(DINUM\) pouvant être partagés par plusieurs lauréats.
+Enfin, les startups entrant en phase d’accélération ont la possibilité de postuler au [Fonds d’accélération des Startups d’État et de Territoire \(FAST\)](https://beta.gouv.fr/approche/fast), offrant jusqu’à 1 million d’euros par session en provenance de la Direction Interministérielle du Numérique \(DINUM\) pouvant être partagés par plusieurs lauréats.
 
