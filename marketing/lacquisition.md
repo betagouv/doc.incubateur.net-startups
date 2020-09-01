@@ -24,7 +24,9 @@ Côté gestion de produit, [https://doc.incubateur.net/communaute/aide-transvers
 
 ## Atelier SEO
 
-[https://youtu.be/UN6KFijcXz4](https://youtu.be/UN6KFijcXz4) 
+
+
+{% embed url="https://youtu.be/FIgHZrWNb6g" caption="1h30, Par Clément, Mathilde et Chaïb" %}
 
 [Slides](https://docs.google.com/presentation/d/1Z7simVATAxPVsRe9a1V9Fuse2ts4cbV5sTeszxl8anw/edit?usp=sharing)
 
