@@ -6,7 +6,7 @@ description: '[En cours d''amélioration]'
 
 ## Pourquoi cette foire aux questions ?
 
-En tant que membre de beta.gouv, vous pouvez être interrogé sur les aspects juriques des conventions de Startup d'Etat liant la DINUM à d'autres administrations.
+En tant que membre de beta.gouv, vous pouvez être interrogé sur les aspects juridiques des conventions de Startup d'Etat liant la DINUM à d'autres administrations.
 
 C'est souvent le cas pour la première convention de coopération entre la DINUM et une administration centrale, une collectivité ou un opérateur. Les services juridiques de ces entités nous interrogent ou demandent des précisions sur quelques points.
 
