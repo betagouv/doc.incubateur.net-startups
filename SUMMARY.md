@@ -24,7 +24,7 @@
 ## 💼 Gestion administrative
 
 * [Établir une convention/avenant](gestion-administrative/etablir-une-convention-avenant/README.md)
-  * [FAQ juridique sur les conventions](gestion-administrative/etablir-une-convention-avenant/faq-juridique-sur-les-conventions.md)
+  * [Foire aux questions juridiques sur les conventions](gestion-administrative/etablir-une-convention-avenant/faq-juridique-sur-les-conventions.md)
 * [Budget de sa SE](gestion-administrative/budget-de-sa-se/README.md)
   * [Comment payer de petits services avec mon budget ?](gestion-administrative/budget-de-sa-se/comment-payer-des-services-hors-presta-avec-le-budget-de-ma-startup-detat-ou-de-territoires.md)
 * [Faire une demande de devis](gestion-administrative/faire-une-demande-de-devis.md)

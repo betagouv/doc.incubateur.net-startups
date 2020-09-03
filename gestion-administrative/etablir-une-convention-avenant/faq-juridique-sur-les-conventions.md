@@ -2,7 +2,7 @@
 description: '[En cours d''amélioration]'
 ---
 
-# FAQ juridique sur les conventions
+# Foire aux questions juridiques sur les conventions
 
 ## Pourquoi cette foire aux questions ?
 
