@@ -50,7 +50,7 @@ _ATTENTION : TOUJOURS METTRE **COMPTA@BETA.GOUV.FR** EN COPIE DE VOS DEMANDES_
 ### Demande de devis "Coach"
 
 * Pour octo : dinum@octo.com
-* Pour Ippon :  sbouchet@ippon.tech
+* Pour Ippon :  groupement@ippon.fr / sbouchet@ippon.tech
 * Pour Numa : 
 
 Pour le marché de coaching tout part de "l'expression de besoin" transmise par email.
