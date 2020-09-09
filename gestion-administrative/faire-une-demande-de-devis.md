@@ -12,7 +12,7 @@ _ATTENTION : TOUJOURS METTRE **COMPTA@BETA.GOUV.FR** EN COPIE DE VOS DEMANDES_
 
 * Pour OCTO : dinum@octo.com
 * Pour la Zone : relations-dinsic@la.zone
-* Pour Arolla : à compléter
+* Pour Arolla :  michael.messina@arolla.fr
 
 > Bonjour,
 >
