@@ -2,6 +2,15 @@
 
 Si vous souhaitez de l'aide sur les sujets liés à la croissance, la DINUM met en place un accompagnement en transverse : [https://doc.incubateur.net/communaute/aide-transverse/growth-hacking-acquisition](https://doc.incubateur.net/communaute/aide-transverse/growth-hacking-acquisition) par Chaïb Martinez
 
+Le Growth Hacking permet de s'attaquer aux freins qui bloque la  croissance organique de la SE, et donc l'augmentation de son impact:
+
+* trop peu de personnes connaissent le service proposé 
+* trop peu personnes s'inscrive puis utilise  le service
+* trop peu de personnes utilise régulièrement le service
+* trop peu de personnes deviennent ambassadrices du service. 
+
+Au final, l'impact est faible. 
+
 ### Présentation du Growth Hacking
 
 {% embed url="https://www.youtube.com/watch?v=avAsqn5a-SU&feature=youtu.be" caption="1h49, par Chaïb Martinez" %}
