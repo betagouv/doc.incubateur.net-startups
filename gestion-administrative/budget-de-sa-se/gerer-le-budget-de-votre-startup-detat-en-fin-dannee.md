@@ -1,10 +1,10 @@
 ---
 description: >-
-  Les informations ci-dessous concernent les Startups d’État utilisant les
-  marchés de la DINUM.
+  Les informations ci-dessous concernent les Startups d’État ou incubateurs
+  utilisant les marchés de la DINUM.
 ---
 
-# Gérer le budget de votre Startup d'État en fin d'année
+# Gérer le budget de votre Startup d'État/incubateur en fin d'année
 
 Vous êtes intrapreneur·e·s au sein d'une Startups d'Etat ou responsable d'un incubateur ?
 
