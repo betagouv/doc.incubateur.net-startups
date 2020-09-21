@@ -26,6 +26,7 @@
 * [Établir une convention/avenant](gestion-administrative/etablir-une-convention-avenant/README.md)
   * [Foire aux questions juridiques sur les conventions](gestion-administrative/etablir-une-convention-avenant/faq-juridique-sur-les-conventions.md)
 * [Budget de sa SE](gestion-administrative/budget-de-sa-se/README.md)
+  * [Gérer le budget de votre Startup d'État en fin d'année](gestion-administrative/budget-de-sa-se/gerer-le-budget-de-votre-startup-detat-en-fin-dannee.md)
   * [Comment payer de petits services avec mon budget ?](gestion-administrative/budget-de-sa-se/comment-payer-des-services-hors-presta-avec-le-budget-de-ma-startup-detat-ou-de-territoires.md)
 * [Faire une demande de devis](gestion-administrative/faire-une-demande-de-devis.md)
 * [Livrable et service fait](gestion-administrative/livrable-et-service-fait.md)
