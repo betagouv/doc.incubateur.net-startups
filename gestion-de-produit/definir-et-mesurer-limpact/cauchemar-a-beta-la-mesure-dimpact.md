@@ -16,6 +16,19 @@ Les mesures d'impact se sont nettement améliorées au cours des derniers mois :
 
 **Quel format ?** Un atelier d'une heure à la demande d'une SE, ouvert aux observateurs qui veulent apprendre sans nécessairement participer. Rendez-vous sur [\#domaine-mesures-impact](https://startups-detat.slack.com/archives/C0164D4LSJE) \(Si vous n'avez pas accès au Slack de la communauté, envoyez un email à dinum@beta.gouv.fr\) !
 
+**Quel déroulé ?** 
+
+* 10min : intro + tour de table
+* 10 min : exposé du problème par l'équipe de la SE
+* 10 min : question/réponses rapides avec les coachs
+* 30 min : focus recommandation impact
+
+**Avoir un retour d'expérience ?**  Vous pouvez contacter les équipes ayant bénéficier de cet atelier :
+
+* Administration +
+* Domifa
+* Ecolab
+
 \_\_\_
 
 ## \#Acte 1  Témoignage d'un intra, d'une designet et d'un coach sur leur pire souvenir avec les indicateurs d'impact
