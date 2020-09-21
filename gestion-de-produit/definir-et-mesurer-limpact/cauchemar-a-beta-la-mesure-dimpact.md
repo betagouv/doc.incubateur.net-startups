@@ -23,6 +23,8 @@ Les mesures d'impact se sont nettement améliorées au cours des derniers mois :
 * 10 min : question/réponses rapides avec les coachs
 * 30 min : focus recommandation impact
 
+**Que doivent faire les équipes de SE pour préparer l'atelier ?** Essayer de préparer des hypothèses de mesures d'impact afin qu'elles soient discutées pendant l'atelier.
+
 **Avoir un retour d'expérience ?**  Vous pouvez contacter les équipes ayant bénéficier de cet atelier :
 
 * Administration +
