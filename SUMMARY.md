@@ -55,6 +55,7 @@
 * [Rétention ✅](marketing/la-retention.md)
 * [Réseaux sociaux 👍](marketing/reseaux-sociaux.md)
 * [SEO 🔎](marketing/seo-1.md)
+* [No code 🤖](marketing/no-code.md)
 * [Solliciter la com Dinum 📣](marketing/soliciter-la-communication-dinum.md)
 * [Gestion des envois emails 💌](marketing/gestion-des-envois-emails.md)
 
@@ -64,7 +65,6 @@
 * [Infra](developpement/devops.md)
 * [Choisir des technologies](developpement/choisir-un-langage-de-programmation.md)
 * [Licences](developpement/licences.md)
-* [No code](developpement/no-code.md)
 
 ## 🔐 RGPD & Sécurité
 
