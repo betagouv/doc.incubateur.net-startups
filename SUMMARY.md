@@ -34,7 +34,8 @@
 
 ## 💾 Gestion de produit
 
-* [Les rituels](gestion-de-produit/les-rituels.md)
+* [Les rituels](gestion-de-produit/les-rituels/README.md)
+  * [👌🏼Animer vos rétros](gestion-de-produit/les-rituels/animer-vos-retros.md)
 * [Définir et mesurer l’impact](gestion-de-produit/definir-et-mesurer-limpact/README.md)
   * [😱 Cauchemar à bêta : la mesure d'impact !](gestion-de-produit/definir-et-mesurer-limpact/cauchemar-a-beta-la-mesure-dimpact.md)
 * [Choisir ses outils](gestion-de-produit/choisir-ses-outils.md)
