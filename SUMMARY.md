@@ -47,6 +47,7 @@
 * [La marque de l'État](design-et-experience-utilisateur/la-marque-de-letat.md)
 * [Accessibilité et RGAA](design-et-experience-utilisateur/accessibilite-et-rgaa.md)
 * [Le guide design de la communauté beta.gouv](design-et-experience-utilisateur/le-guide-design-de-la-communaute-beta.gouv.md)
+* [Comment intégrer le bouton "Je donne mon avis"](design-et-experience-utilisateur/comment-integrer-le-bouton-je-donne-mon-avis.md)
 
 ## 📢 Marketing
 
