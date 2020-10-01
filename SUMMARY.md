@@ -14,7 +14,6 @@
 * [Investigation 🐣](la-vie-dune-se/investigation/README.md)
   * [Journée de sélection](la-vie-dune-se/investigation/journee-de-selection.md)
   * ["C'est quoi concrètement ?"](la-vie-dune-se/investigation/cest-quoi-concretement.md)
-  * [La méthode d’investigation n’est pas…](la-vie-dune-se/investigation/la-methode-dinvestigation-nest-pas....md)
   * [Critères d'évaluation](la-vie-dune-se/investigation/criteres-devaluation.md)
   * [Ressources utiles](la-vie-dune-se/investigation/ressources-utiles.md)
 * [Construction 🐥](la-vie-dune-se/construction.md)
