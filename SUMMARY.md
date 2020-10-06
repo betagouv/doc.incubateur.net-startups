@@ -28,6 +28,7 @@
 * [Budget de sa SE](gestion-administrative/budget-de-sa-se/README.md)
   * [Gérer le budget de votre Startup d'État/incubateur en fin d'année](gestion-administrative/budget-de-sa-se/gerer-le-budget-de-votre-startup-detat-en-fin-dannee.md)
   * [Comment payer de petits services avec mon budget ?](gestion-administrative/budget-de-sa-se/comment-payer-des-services-hors-presta-avec-le-budget-de-ma-startup-detat-ou-de-territoires.md)
+* [Préparer un comité d’investissement](gestion-administrative/preparer-un-comite-dinvestissement.md)
 * [Faire une demande de devis](gestion-administrative/faire-une-demande-de-devis.md)
 * [Livrable et service fait](gestion-administrative/livrable-et-service-fait.md)
 * [La facturation de A à Z](gestion-administrative/la-facturation-de-a-a-z.md)
