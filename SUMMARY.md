@@ -21,6 +21,12 @@
 * [Consolidation 🐧](la-vie-dune-se/consolidation.md)
 * [Abandon 🔚](la-vie-dune-se/abandon.md)
 
+---
+
+* [🤵 Relations avec son sponsor](relations-avec-son-sponsor.md)
+* [Préparer un comité d’investissement](preparer-un-comite-dinvestissement.md)
+* [Comment répondre à un sponsor qui demande une roadmap produit ?](comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md)
+
 ## 💼 Gestion administrative
 
 * [Établir une convention/avenant](gestion-administrative/etablir-une-convention-avenant/README.md)
@@ -28,7 +34,6 @@
 * [Budget de sa SE](gestion-administrative/budget-de-sa-se/README.md)
   * [Gérer le budget de votre Startup d'État/incubateur en fin d'année](gestion-administrative/budget-de-sa-se/gerer-le-budget-de-votre-startup-detat-en-fin-dannee.md)
   * [Comment payer de petits services avec mon budget ?](gestion-administrative/budget-de-sa-se/comment-payer-des-services-hors-presta-avec-le-budget-de-ma-startup-detat-ou-de-territoires.md)
-* [Préparer un comité d’investissement](gestion-administrative/preparer-un-comite-dinvestissement.md)
 * [Faire une demande de devis](gestion-administrative/faire-une-demande-de-devis.md)
 * [Livrable et service fait](gestion-administrative/livrable-et-service-fait.md)
 * [La facturation de A à Z](gestion-administrative/la-facturation-de-a-a-z.md)
@@ -64,6 +69,7 @@
 
 ## 💻 Développement
 
+* [Glossaire](developpement/glossaire.md)
 * [Choisir son nom de domaine](developpement/choisir-son-nom-de-domaine.md)
 * [Infra](developpement/devops.md)
 * [Choisir des technologies](developpement/choisir-un-langage-de-programmation.md)
