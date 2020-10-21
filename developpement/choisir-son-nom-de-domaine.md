@@ -20,9 +20,9 @@ Cela vous évitera des désagréments tels que menaces de procès \(expérience 
 
 Si vous répondez à une commande politique, faites remonter ces sujets très tôt dans le processus - nos décideurs n'y sont pas encore sensibilisés.
 
-### Le domaine beta.gouv.fr
+### Un sous-domaine de beta.gouv.fr
 
-Ce domaine est actuellement géré par des équipes de la DINUM au nom de la communauté beta qui fédère les incubateurs d'État. Il est réservé **exclusivement** à l'usage des équipes produit qui suivent les principes du [Manifeste](https://beta.gouv.fr/incubateurs), référencées [ici](https://beta.gouv.fr/startups/).
+Le nom de domaine beta.gouv.fr est actuellement géré par des équipes de la DINUM au nom de la communauté beta qui fédère les incubateurs d'État. Il est réservé **exclusivement** à l'usage des équipes produit qui suivent les principes du [Manifeste](https://beta.gouv.fr/incubateurs), référencées [ici](https://beta.gouv.fr/startups/).
 
 **Avantages:** pour ces équipes l'attribution d'un sous-domaine est "de droit". Un seul sous-domaine par produit, mais il est possible de le gérer en toute autonomie \(sur délégation technique\).
 
@@ -62,7 +62,7 @@ Vous pouvez l'acheter "sur étagère" avec une seule contrainte, justifier d'une
 
 **Avantages:** zéro tracas.
 
-**Inconvénients:** moins rassurant qu'un gouv.fr; peut être perçu comme une "dissidence" par l'administration porteuse. On peut vous prendre pour une société privée , qui  a donc quelque chose à vendre. 
+**Inconvénients:** moins rassurant qu'un gouv.fr; peut être perçu comme une "dissidence" par l'administration porteuse. On peut vous prendre pour une société privée, qui a donc quelque chose à vendre. 
 
 **Pour qui ?** Les équipes qui envisagent la création d'une entité juridique indépendante.
 
