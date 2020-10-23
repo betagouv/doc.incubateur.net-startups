@@ -66,7 +66,7 @@ Vous pouvez l'acheter "sur étagère" avec une seule contrainte, justifier d'une
 
 **Pour qui ?** Les équipes qui envisagent la création d'une entité juridique indépendante.
 
-### Un nouveu domaine en .com, .io, .whatever
+### Un nouveau domaine en .com, .io, .whatever
 
 Comme ci-dessus mais en plus funky. Exemple: encore le Pass avec passculture.app.
 
