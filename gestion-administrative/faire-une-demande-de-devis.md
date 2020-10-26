@@ -1,5 +1,31 @@
 # Faire une demande de devis
 
+##  **Version beta -** [**générateur de demande de devis**](https://airtable.com/shra8F0OUtXTC4t4Z)
+
+Ce service en ligne est en version bêta. Il a été proposé à l'usage depuis le lundi 26 octobre. Un premier bilan aura lieu fin novembre.
+
+### **Quels problèmes résoudre ?**
+
+Demander un devis quand on ne le fait pas souvent peut-être chronophage et compliqué.  
+Il y a probablement plus d'une centaine de devis demandé chaque année.
+
+### **La solution**
+
+Répondez à quelques questions et recevez par email le projet de demande de devis.  
+A ce stade le demande de devis n'est pas directement adressée à l'attributaire désigné. C'est techniquement très facile à faire. Mais pour cette version beta, nous restons sur une approche \(trop\) prudente. Nous souhaitons valider la valeur ajoutée du service avant de proposer la version "envoi direct à l'attributaire".
+
+### **Stratégie de test**
+
+Après 30 jours,  nous pourrons évaluer qui l'a utilisé et s'ils le recommandent.  
+Si l'expérimentation est positive. Je proposerai l'envoi directe de la demande de devis à l'attributaire.  
+**"A vos tests, pâtissez** ![:g&#xE2;teau:](https://a.slack-edge.com/production-standard-emoji-assets/10.2/google-medium/1f370@2x.png)**"**
+
+{% hint style="info" %}
+**Testez le** [formulaire en ligne pour demander un devis](https://airtable.com/shra8F0OUtXTC4t4Z).
+{% endhint %}
+
+## **Documentation sur une demande de devis**
+
 Ce document résume la procédure de demande de devis pour les marchés Coaching et Développement/Déploiement/Design de la DINUM pour la conception de services numériques selon l'approche Startups d'État.
 
 ## 1. Transmettre une expression de besoin

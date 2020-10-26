@@ -62,7 +62,7 @@ Vous pouvez l'acheter "sur étagère" avec une seule contrainte, justifier d'une
 
 **Avantages:** zéro tracas.
 
-**Inconvénients:** moins rassurant qu'un gouv.fr; peut être perçu comme une "dissidence" par l'administration porteuse. On peut vous prendre pour une société privée, qui a donc quelque chose à vendre. 
+**Inconvénients:** moins rassurant qu'un gouv.fr; peut être perçu comme une "dissidence" par l'administration porteuse. On peut vous prendre pour une société privée, qui a donc quelque chose à vendre.
 
 **Pour qui ?** Les équipes qui envisagent la création d'une entité juridique indépendante.
 
