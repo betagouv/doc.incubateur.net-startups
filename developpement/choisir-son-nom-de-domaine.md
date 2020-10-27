@@ -44,7 +44,10 @@ Notez bien que .gouv.fr n'est pas un domaine: c'est un [TLD](https://fr.wikipedi
 
 **Pour qui ?** Les équipes dont le produit se consolide; les équipes en démarrage qui ont un fort sponsoring politique et peu d'incertitude sur la stratégie de communication.
 
-**Comment ?** La procédure est en deux temps: 1. obtenir au préalable un courrier d'agrément par le SIG. C'est une [Démarche Simplifiée](https://www.demarches-simplifiees.fr/commencer/agrement-principe-site-internet) ! 2. demander la création du domaine à un registrar "standard", de preference français \(OVH, Gandi, etc\) et leur transmettre le courrier du SIG \(qu'ils auront eux-même besoin de fournir au registry, l'AFNIC en l'occurrence
+**Comment ?** La procédure est en deux temps :
+
+1. obtenir au préalable un courrier d'agrément par le SIG. C'est une [Démarche Simplifiée](https://www.demarches-simplifiees.fr/commencer/agrement-principe-site-internet) !
+2. demander la création du domaine à un registrar « standard », de preference français \(OVH, Gandi, etc\) et leur transmettre le courrier du SIG \(qu'ils auront eux-même besoin de fournir au registry, l'AFNIC en l'occurrence.
 
 ### Un sous-domaine d'un .gouv.fr existant
 
@@ -77,4 +80,3 @@ Comme ci-dessus mais en plus funky. Exemple: encore le Pass avec passculture.app
 **Inconvénients:** très en dehors des codes de l'administration.
 
 **Pour qui ?** En domaine secondaire d'un domaine plus institutionnel; pour les administrations et les initiatives qui se veulent résolument "branchées".
-
