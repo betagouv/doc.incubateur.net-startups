@@ -6,7 +6,7 @@ description: >-
 
 # Glossaire
 
-Pour celles et ceux qui aimerais en savoir un peu plus sur ces ordinateurs qui nous entoure, l'ANSSI propose un \[Mooc\]\([https://secnumacademie.gouv.fr/](https://secnumacademie.gouv.fr/)\) très intéressant et assez complet \(sous l'angle de la cybersécurité, mais c'est plutôt bien !\). 
+Pour celles et ceux qui aimeraient en savoir un peu plus sur ces ordinateurs qui nous entourent, l'ANSSI propose un \[Mooc\]\([https://secnumacademie.gouv.fr/](https://secnumacademie.gouv.fr/)\) très intéressant et assez complet \(sous l'angle de la cybersécurité, mais c'est plutôt bien !\). 
 
 ### Fullstack
 
