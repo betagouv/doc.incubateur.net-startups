@@ -30,19 +30,24 @@ Le nom de domaine beta.gouv.fr est actuellement géré par des équipes de la DI
 
 **Pour qui ?** Toutes les équipes qui démarrent et ne souhaitent pas trop se prendre la tête sur le choix d'un nom qui ne sera de toute façon pas définitif.
 
+**Comment ?** Vous devez avoir rédigé une [fiche produit](https://beta.gouv.fr/ficheproduit/) et l'avoir [publiée](https://github.com/betagouv/beta.gouv.fr/blob/master/CONTRIBUTING.md#ajouter-une-startup) sur beta.gouv.fr; si ce n'est pas encore fait, gardez en tête que c'est un exercice, bienveillant et critique, de relecture par les pairs, un moment privilégié où la communauté beta peut avoir une influence sur un produit qui n’est encore qu’une idée - il serait dommage de le précipiter. Prévoyez quelque jours de relecture. Pour la création effective du domaine, signalez ensuite votre demande sur le canal #incubateur-ops.
+
+Pour une mise en ligne ultra-rapide, vous pouvez demander un sous-domaine sur incubateur.net, le domaine que nous réservons à nos outils internes et à nos expérimentations, sans contraintes particulières.
+
 ### Un nouveau domaine en .gouv.fr
 
 Notez bien que .gouv.fr n'est pas un domaine: c'est un [TLD](https://fr.wikipedia.org/wiki/Domaine_de_premier_niveau) \(c'est à dire l'équivalent d'un .com ou .fr\).
-
-La procédure est en deux temps: 1. obtenir au préalable un courrier d'agrément par le SIG. C'est une [Démarche Simplifiée](https://www.demarches-simplifiees.fr/commencer/agrement-principe-site-internet) ! 2. demander la création du domaine à un registrar "standard", de preference français \(OVH, Gandi, etc\) et leur transmettre le courrier du SIG \(qu'ils auront eux-même besoin de fournir au registry, l'AFNIC en l'occurrence
-
-Deux expériences récentes: Signal Conso et Réserve Civique. Les circuits on semble-t-il été assez différents. Mme Véronique Fontaine s'est montrée très efficace pour Réserve Civique qui relevait des Affaires Sociales. Pour Signal Conso il a fallu contacter directement l'Afnic.
 
 **Avantages:** les domaines en .gouv.fr sont clairement perçus comme "institutionnels" et cela rassure.
 
 **Inconvénients:** la lourdeur des démarches; il est aussi possible que le degré de conformité règlementaire \(RGS, RGAA, etc.\) devienne un sujet.
 
 **Pour qui ?** Les équipes dont le produit se consolide; les équipes en démarrage qui ont un fort sponsoring politique et peu d'incertitude sur la stratégie de communication.
+
+**Comment ?** La procédure est en deux temps :
+
+1. obtenir au préalable un courrier d'agrément par le SIG. C'est une [Démarche Simplifiée](https://www.demarches-simplifiees.fr/commencer/agrement-principe-site-internet) !
+2. demander la création du domaine à un registrar « standard », de preference français \(OVH, Gandi, etc\) et leur transmettre le courrier du SIG \(qu'ils auront eux-même besoin de fournir au registry, l'AFNIC en l'occurrence).
 
 ### Un sous-domaine d'un .gouv.fr existant
 
@@ -75,4 +80,3 @@ Comme ci-dessus mais en plus funky. Exemple: encore le Pass avec passculture.app
 **Inconvénients:** très en dehors des codes de l'administration.
 
 **Pour qui ?** En domaine secondaire d'un domaine plus institutionnel; pour les administrations et les initiatives qui se veulent résolument "branchées".
-
