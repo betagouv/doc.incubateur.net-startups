@@ -47,7 +47,7 @@ Notez bien que .gouv.fr n'est pas un domaine: c'est un [TLD](https://fr.wikipedi
 **Comment ?** La procédure est en deux temps :
 
 1. obtenir au préalable un courrier d'agrément par le SIG. C'est une [Démarche Simplifiée](https://www.demarches-simplifiees.fr/commencer/agrement-principe-site-internet) !
-2. demander la création du domaine à un registrar « standard », de preference français \(OVH, Gandi, etc\) et leur transmettre le courrier du SIG \(qu'ils auront eux-même besoin de fournir au registry, l'AFNIC en l'occurrence.
+2. demander la création du domaine à un registrar « standard », de preference français \(OVH, Gandi, etc\) et leur transmettre le courrier du SIG \(qu'ils auront eux-même besoin de fournir au registry, l'AFNIC en l'occurrence).
 
 ### Un sous-domaine d'un .gouv.fr existant
 
