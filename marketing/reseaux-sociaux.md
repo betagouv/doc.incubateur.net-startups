@@ -4,7 +4,9 @@
 
 ### Faites le point sur votre stratégie grâce au BuzzForm
 
-Afin de faire le point sur vos réseaux sociaux, à qui ils s’adressent, ce que vous allez en retirer, un formulaire va vous aider : le [BuzzForm](files/BuzzForm.pdf).
+Afin de faire le point sur vos réseaux sociaux, à qui ils s’adressent, ce que vous allez en retirer, un formulaire va vous aider : le BuzzForm.
+
+{% file src="../.gitbook/assets/buzzform.pdf" caption="BuzzForm" %}
 
 Sans remplacer un `plan social media` poussé créé par un expert, il vous permet de définir les contours de votre stratégie. Vous pourrez alors vous y référer en cas de doute sur l’utilisation de vos réseaux sociaux. Le BuzzForm a été optimisé pour des projets disposants de quelques réseaux sociaux avec une stratégie similaire.
 
@@ -21,7 +23,7 @@ Sans remplacer un `plan social media` poussé créé par un expert, il vous perm
 
 #### Télécharger le BuzzForm
 
-[Télécharger le BuzzForm](files/BuzzForm.pdf)
+{% file src="../.gitbook/assets/buzzform.pdf" caption="BuzzForm" %}
 
 Une fois ce document complété et que vous avez une meilleure vision de vos réseaux sociaux, pensez à l’envoyer au service communication de la DINSIC.
 
