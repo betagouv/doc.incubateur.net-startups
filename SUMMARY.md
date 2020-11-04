@@ -80,3 +80,7 @@
 * [Guide RGPD & Sécurité](rgpd-and-securite/guide-rgpd-securite.md)
 * [Homologation de sécurité](rgpd-and-securite/homologation-de-securite.md)
 
+---
+
+* [Statistiques 📊](statistiques.md)
+
