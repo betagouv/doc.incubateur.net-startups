@@ -51,7 +51,15 @@ L’accompagnement proposé par beta.gouv.fr vise à créer un environnement pro
 
 Il s’articule autour de la mise à disposition de ressources spécialisées pour l’accélération, en particulier de la documentation et un recensement d’experts sur des problématiques récurrentes \(Growth Hacking, Design, Rôles et rituels, Mesure d’impact, Tech, Data, Marketing & Communication, Acquisition clients / Déploiement, etc.\).
 
-La création d’un programme d’accompagnement resserré \(programme Gamma\), avec un suivi régulier et la mise à disposition de ressources transverses, est en outre en cours de réflexion et sera lancé en phase d’expérimentation en septembre 2020.
+Le programme d’accompagnement resserré \(programme Gamma\), grâce à un suivi régulier et la mise à disposition de ressources transverses, est proposé depuis septembre 2020 aux startups d'État souhaitant être accompagnées dans leur accélération.
 
 Enfin, les services entrant en phase d’accélération ont la possibilité de postuler au [Fonds d’accélération des Startups d’État et de Territoire \(FAST\)](https://beta.gouv.fr/approche/fast), offrant jusqu’à 1 million d’euros par session en provenance de la Direction Interministérielle du Numérique \(DINUM\) pouvant être partagés par plusieurs lauréats.
 
+#### **Information utile : focus sur le programme d'accompagnement Gamma**
+
+Le programme Gamma est un accompagnement sur 6 mois qui vise à mettre à disposition une équipe (coachs seniors et chargé.e de déploiement) et à instaurer un suivi mensuel de métriques d’impact chez des startups d’État en phase d’accélération. L’objectif du programme est d’accélérer l’impact de projets à haut potentiel en accompagnant leur accélération et en d’organisant des points d’étape réguliers pour identifier des problématiques potentielles, et réunir les ressources disponibles pour y répondre.
+
+Depuis son lancement en septembre 2020, Gamma a choisi d'accompagner les 3 startups d'État [Aides-territoires](https://aides-territoires.beta.gouv.fr/), [DossierFacile](https://dossierfacile.fr/) et [Mon-entreprise](https://mon-entreprise.fr/).
+L'équipe est aujourd'hui composée de Clément Renault et Pénélope Liot (coachs seniors) ainsi que Bréanne Mallat (chargée de déploiement).
+
+Pour en savoir plus, des articles ont été publiés sur le blog beta.gouv concernant [la phase d'accélération des startups](https://blog.beta.gouv.fr/dinsic/2020/08/20/acceleration-des-startups-d-etat-d-un-retour-d-experience-a-l-experimentation-d-un-programme-d-accompagnement-cible-1/) et le lancement du programme Gamma.
