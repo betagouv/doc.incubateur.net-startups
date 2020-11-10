@@ -33,11 +33,11 @@ Un fonds de concours est un "compte bancaire" sur lequel l’Etat peut recevoir 
 
 **Cas des administration d’Etat : rédiger une convention de délégation de gestion**
 
-Voici un modèle à suivre : [modèle de convention de délégation de gestion](https://docs.google.com/document/d/1re3ML29BE82HecbyNSajGgSHD1nDtS0UjtbzXv451VA/edit?usp=sharing). De nombreuses conventions de délégation de gestion [sont publiées sur data.gouv.fr](https://www.data.gouv.fr/fr/datasets/conventions-de-partenariat/#_) et peuvent également t’aider.
+Voici un modèle à suivre : [modèle de convention de délégation de gestion](https://docs.google.com/document/d/1i-6oZUv4as_no8lJ_NeqvdcaQ5k-08oT2lE-7nzgTew/edit?usp=sharing). De nombreuses conventions de délégation de gestion [sont publiées sur data.gouv.fr](https://www.data.gouv.fr/fr/datasets/conventions-de-partenariat/#_) et peuvent également t’aider.
 
 **Cas des collectivités territoriales et autres agences publiques : rédiger une convention de partenariat**
 
-Voici un modèle à suivre : modèle de convention de partenariat sur fonds de concours \(à venir\). De nombreuses conventions de partenariat [sont publiées sur data.gouv.fr](https://www.data.gouv.fr/fr/datasets/conventions-de-partenariat/#_) et peuvent également t’aider. Nous avons sélectionné trois exemples particulièrement bien rédigées pour t’inspirer dans ta rédaction :
+Voici un modèle à suivre : [modèle de convention de partenariat sur fonds de concours](https://docs.google.com/document/d/1i-6oZUv4as_no8lJ_NeqvdcaQ5k-08oT2lE-7nzgTew/edit?usp=sharing). De nombreuses conventions de partenariat [sont publiées sur data.gouv.fr](https://www.data.gouv.fr/fr/datasets/conventions-de-partenariat/#_) et peuvent également t’aider. Nous avons sélectionné trois exemples particulièrement bien rédigées pour t’inspirer dans ta rédaction :
 
 * [Un exemple de convention de partenariat avec une agence publique](https://static.data.gouv.fr/resources/conventions-de-partenariat/20181129-155113/convention-anddre-18scc0001-1-.pdf) ;
 * [Un exemple de convention tripartite](https://static.data.gouv.fr/resources/conventions-de-partenariat/20181129-154628/convention-mobilite-inclusive-prefetlot-ademe-dinsic-14112018.pdf) \(+ de 2 partenaires impliqués\) ;
