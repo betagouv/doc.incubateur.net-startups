@@ -58,7 +58,7 @@
 
 ## 📢 Marketing
 
-* [🚀 Les principe du Growth-Hacking](marketing/growth-hacking.md)
+* [🚀 Les principes du Growth-Hacking](marketing/growth-hacking.md)
 * [Acquisition 👨‍👨‍👦‍👦](marketing/lacquisition.md)
 * [Activation 🎯](marketing/lactivation.md)
 * [Rétention ✅](marketing/la-retention.md)

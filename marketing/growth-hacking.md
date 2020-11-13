@@ -1,15 +1,17 @@
-# 🚀 Les principe du Growth-Hacking
+# 🚀 Les principes du Growth-Hacking
 
 Si vous souhaitez de l'aide sur les sujets liés à la croissance, la DINUM met en place un accompagnement en transverse : [https://doc.incubateur.net/communaute/aide-transverse/growth-hacking-acquisition](https://doc.incubateur.net/communaute/aide-transverse/growth-hacking-acquisition) par Chaïb Martinez
 
 Le Growth Hacking permet de s'attaquer aux freins qui bloquent la  croissance organique de la SE, et donc l'augmentation de son impact:
 
 * trop peu de personnes connaissent le service proposé 
-* trop peu personnes s'inscrive puis utilise  le service
-* trop peu de personnes utilise régulièrement le service
+* trop peu personnes s'inscrivent puis utilise  le service
+* trop peu de personnes utilisent régulièrement le service
 * trop peu de personnes deviennent ambassadrices du service. 
 
 Au final, l'impact est faible. 
+
+
 
 ### Présentation du Growth Hacking
 
