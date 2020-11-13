@@ -6,7 +6,7 @@ Si vous souhaitez de l'aide sur les sujets liés à la croissance, la DINUM met 
 
 1. Définition et présentation
 2. [Acquisition : trouver des utilisateurs](lacquisition.md)
-3. [Activation : transformer des visiteurs du site ou prospects en 1er utilisateurs du service](lactivation.md)
+3. [Activation : transformer des visiteurs du site ou prospects en 1er utilisateurs du service](lactivation/)
 4. [Rétention : transformer un utilisateur ponctuel du service en utilisateur régulier](la-retention.md)
 5. Référal : transformer un utilisateur régulier du service en ambassadeur
 6. Impact : délivrer et mesurer la proposition de valeur de la SE a un maximum d’usagers

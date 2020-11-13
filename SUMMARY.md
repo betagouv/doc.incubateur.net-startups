@@ -60,10 +60,10 @@
 
 * [🚀 Les principes du Growth-Hacking](marketing/growth-hacking.md)
 * [Acquisition 👨‍👨‍👦‍👦](marketing/lacquisition.md)
-* [Activation 🎯](marketing/lactivation.md)
+* [Activation 🎯](marketing/lactivation/README.md)
+  * [SEO 🔎](marketing/lactivation/seo-1.md)
 * [Rétention ✅](marketing/la-retention.md)
 * [Réseaux sociaux 👍](marketing/reseaux-sociaux.md)
-* [SEO 🔎](marketing/seo-1.md)
 * [No code 🤖](marketing/no-code.md)
 * [Solliciter la com Dinum 📣](marketing/soliciter-la-communication-dinum.md)
 * [Gestion des envois emails 💌](marketing/gestion-des-envois-emails.md)
