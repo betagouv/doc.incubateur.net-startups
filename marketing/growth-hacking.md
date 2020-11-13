@@ -2,6 +2,17 @@
 
 Si vous souhaitez de l'aide sur les sujets liés à la croissance, la DINUM met en place un accompagnement en transverse : [https://doc.incubateur.net/communaute/aide-transverse/growth-hacking-acquisition](https://doc.incubateur.net/communaute/aide-transverse/growth-hacking-acquisition) par Chaïb Martinez
 
+### Sommaire
+
+1. Définition et présentation
+2. [Acquisition : trouver des utilisateurs](lacquisition.md)
+3. [Activation : transformer des visiteurs du site ou prospects en 1er utilisateurs du service](lactivation.md)
+4. [Rétention : transformer un utilisateur ponctuel du service en utilisateur régulier](la-retention.md)
+5. Référal : transformer un utilisateur régulier du service en ambassadeur
+6. Impact : délivrer et mesurer la proposition de valeur de la SE a un maximum d’usagers
+
+### Définition
+
 Le Growth Hacking permet de s'attaquer aux freins qui bloquent la  croissance organique de la SE, et donc l'augmentation de son impact:
 
 * trop peu de personnes connaissent le service proposé 
