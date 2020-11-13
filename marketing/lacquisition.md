@@ -32,3 +32,9 @@ Côté gestion de produit, [https://doc.incubateur.net/communaute/aide-transvers
 
 
 
+## Atelier SEA Google Adwords
+
+{% embed url="https://youtu.be/hWISYyAIdNQ" caption="2h, par John Labuzan et  Chaïb Martinez" %}
+
+Comment lancer une première compagne sur Google Adwords pour trouver de nouveaux usagers. Affichez votre message quand un internaute tape certains mots clefs sur Google.  
+
