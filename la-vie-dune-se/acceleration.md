@@ -41,9 +41,7 @@ _L’équipe est-elle organisée et construite pour porter la croissance ? Les m
 #### **Ressource utile : un modèle de grille d’évaluation utilisée en fin de phase de construction** :
 
 * [Version en ligne](https://docs.google.com/document/d/1iaWv0JuXU4BohqFH87hMYWclQcAxa-pW724DBFEulg4/edit#)
-* Version à télécharger \(version du 04/08/2020\) :
-
-{% file src="../.gitbook/assets/grille-acceleration.docx" caption="Grille d\'auto-évaluation - passage en phase d\'acceleration - V04082020" %}
+* <a href=../.gitbook/assets/grille-acceleration.docx"">Version à télécharger \(version du 04/08/2020\)</a>
 
 ### **Quel accompagnement possible ?**
 
