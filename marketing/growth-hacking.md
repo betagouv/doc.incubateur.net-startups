@@ -26,7 +26,7 @@ Au final, l'impact est faible.
 
 ### Présentation du Growth Hacking
 
-{% embed url="https://www.youtube.com/watch?v=avAsqn5a-SU&feature=youtu.be" caption="1h49, par Chaïb Martinez" %}
+<a href="https://www.youtube.com/watch?v=avAsqn5a-SU&feature=youtu.be">La présentation sur YouTube (1h49, par Chaïb Martinez)</a>
 
 [Les slides](https://www.evernote.com/l/AsnMrUNsw3VNcLkMRXKuiX6eRZFg7L3eLrE)
 
