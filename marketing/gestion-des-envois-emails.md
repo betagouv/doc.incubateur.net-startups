@@ -6,7 +6,7 @@ description: Comment gérer les envois pour maximiser leur réception
 
 ## La théorie
 
-La délivrabilité des emails est impactée par deux facteurs : le nom de domaine et l’adresse IP utilisée. Les email providers utilisent un mélange des deux afin de mieux filtrer les emails qui arrivent dans les boîtes mails. 
+La délivrabilité des emails est impactée par deux facteurs : le nom de domaine et l’adresse IP utilisée. Les email providers utilisent un mélange des deux afin de mieux filtrer les emails qui arrivent dans les boîtes mails.
 
 Comme pour le [SEO](lactivation/seo-1.md), ce n'est pas une sciences exacte et nous ne savons pas exactement quel critère à le plus de poids.
 
@@ -16,7 +16,7 @@ Comme pour le [SEO](lactivation/seo-1.md), ce n'est pas une sciences exacte et n
 
 ### Adresse IP
 
-Il y a 2 possibilités concernant les adresses IP d'envoi : 
+Il y a 2 possibilités concernant les adresses IP d'envoi :
 
 * soit vous avez des IP partagées, c'est à dire que d'autres services utilisent la même adresse IP que vous pour faire leurs envois. C'est souvent l'offre de base des prestataires et la bonne solution quand vous avez un volume restreint d'envois
 * soit vous avez vos propres adresses IP d'envoi, ce qui signifie que vous maitrisez complètement sa réputation. Cela nécessite un certain volume d'envois.
@@ -51,17 +51,17 @@ Cela permet aux utilisateurs de mieux comprendre d'ou vient ce mail et pourquoi 
 
 ### Eviter le noreply@XXX.com et configurer une adresse de réponse
 
-D'abord parce que les adresses email noreply peuvent détériorer votre relation client. Si un client souhaite prendre contact avec vous suite à la réception de votre email, découvrir que le message a été envoyé via une adresse noreply sera déceptif et frustrant. 
+D'abord parce que les adresses email noreply peuvent détériorer votre relation client. Si un client souhaite prendre contact avec vous suite à la réception de votre email, découvrir que le message a été envoyé via une adresse noreply sera déceptif et frustrant.
 
 Aussi, les utilisateurs ont plus facilement tendance à mettre une adresse noreply dans les spams. En effet, ne pouvant identifier l’expéditeur du message, il se peut qu’ils perçoivent vos emails comme une tentative de phishing \(technique pour dérober des informations personnelles\).
 
-Enfin le noreply vous empêche de mettre à jour vos bases de contacts. Recevoir les réponses automatiques de vos destinataires est un moyen pour faire le tri dans vos bases de contacts. 
+Enfin le noreply vous empêche de mettre à jour vos bases de contacts. Recevoir les réponses automatiques de vos destinataires est un moyen pour faire le tri dans vos bases de contacts.
 
 ### Utiliser différentes adresses IP - si pertinent
 
-Quand vous avez assez de volume d'envoi, optez pour des IP dédiées auprès de votre prestataire plutôt que de rester sur des IP partagées. Cela vous permet de contrôler la réputation de vos IP. 
+Quand vous avez assez de volume d'envoi, optez pour des IP dédiées auprès de votre prestataire plutôt que de rester sur des IP partagées. Cela vous permet de contrôler la réputation de vos IP.
 
-Utiliser des IP différentes pour vos emails transactionnels et vos emails marketing. Demandez conseil à votre prestataire d'email 
+Utiliser des IP différentes pour vos emails transactionnels et vos emails marketing. Demandez conseil à votre prestataire d'email
 
 ## Quelques exemples
 

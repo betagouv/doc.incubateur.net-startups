@@ -12,7 +12,7 @@ Côté gestion de produit, [https://doc.incubateur.net/communaute/aide-transvers
 
 {% embed url="https://www.youtube.com/watch?v=hFbsE5aC5Pk&feature=youtu.be" caption="1h30, par Chaïb Martinez" %}
 
-## Des sondages efficaces
+### Des sondages efficaces
 
 {% embed url="https://www.youtube.com/watch?v=V5yXHuVs2pY&feature=youtu.be" caption="28min, par Chaïb Martinez" %}
 
@@ -25,6 +25,16 @@ Comment faire un sondage qui marche? En quoi un sondage est différent d'un simp
 C'est quoi une landing page? Comment faire en sorte que vos visiteurs s'inscrivent sur votre service?
 
 Slides : [https://docs.google.com/presentation/d/1MT3xbM0j23Xwl5s55sss6cEKNEhSUFtoVqVqAPfYWtA/edit](https://docs.google.com/presentation/d/1MT3xbM0j23Xwl5s55sss6cEKNEhSUFtoVqVqAPfYWtA/edit)
+
+### Organiser un webinaire efficace \(et gratuit\) avec le compte Livestorm de beta.gouv
+
+{% embed url="https://www.youtube.com/watch?v=SUDu3BHAfpc" %}
+
+Accès
+
+https://app.livestorm.co/
+
+login et mdp : demander en message privé à Arnaud Denoix ou dinum ou Chaïb Martinez
 
 
 
