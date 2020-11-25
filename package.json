@@ -1,0 +1,22 @@
+{
+  "name": "doc.incubateur.net-startups",
+  "version": "1.0.0",
+  "description": "--- description: \"\\U0001F9ED Toutes les informations pour aider les équipes de Startups d’État et de Territoires à chaque étape.\" ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betagouv/doc.incubateur.net-startups.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betagouv/doc.incubateur.net-startups/issues"
+  },
+  "homepage": "https://github.com/betagouv/doc.incubateur.net-startups#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
