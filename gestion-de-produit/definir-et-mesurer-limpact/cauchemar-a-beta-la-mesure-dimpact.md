@@ -35,9 +35,7 @@ Les mesures d'impact se sont nettement améliorées au cours des derniers mois :
 
 ## \#Acte 1  Témoignage d'un intra, d'une designet et d'un coach sur leur pire souvenir avec les indicateurs d'impact
 
-_Le support de présentation :_
-
-{% file src="../../.gitbook/assets/cafe-design-mesure-dimpact.pdf" %}
+<a href="../../.gitbook/assets/cafe-design-mesure-dimpact.pdf">_Le support de présentation :_</a>
 
 A tour de rôle pendant 7 minutes chacun, Marine, Damien et Léry allons vous raconter notre retour d'expérience avec les mesures d'impact au sein des SE dans lesquels nous avons bossé.
 
