@@ -29,7 +29,6 @@ _9 semaines pour instruire un problème et envisager des solutions pour le réso
 > Exemple : Un entretien utilisateur peut être partagé avec l'équipe, le coach, l'environnement de l'équipe, mais sans doute pas au-delà. Est-ce que j'ai autorisé la lecture de mon Google doc par défaut, ou l'ai-je restreint au cercle d'intéressés ?
 
 * Est-ce que je sais ce qu'est une donnée personnelle ?
-{% endtab %}
 
 {% tab content="second" %}
 1. Je me documente sur les sujets RGPD & sécurité :
@@ -44,12 +43,11 @@ _9 semaines pour instruire un problème et envisager des solutions pour le réso
 > Exemple = Un plan de déploiement peut être sur Google doc peut sans doute être en accès ouvert, mais des notes d'entretien utilisateurs, plutôt en accès limité.
 
 1. Je crée une fiche pour la nouvelle startup sur beta.gouv.fr.
-{% endtab %}
 
 {% tab content="third" %}
 * Accepter des fichiers de coordonnées de personnes à contacter sans avoir vérifié le consentement de ces personnes ;
 * Discuter ou échanger des données personnelles sur des outils partagés \(Trello, Slack\).
-{% endtab %}
+
 {% endtabs %}
 
 ## 🧱 Phase de construction produit
@@ -66,7 +64,6 @@ _3 mois pour développer une première solution numérique et trouver des utilis
 * Est-ce que le produit que je construit peut se rattacher à une démarche administrative existante, un service, ou un texte juridique ?
 * Qui est mon référent RGPD \(DPO ou délégué DPO\) ou sécurité ?
 * Quelle solution d'hébergement utilisé-je pour mon site ? Est-elle opérée ou localisée en France, en Europe ?
-{% endtab %}
 
 {% tab content="second" %}
 1. Je rédige les Conditions Générales d'Utilisation \(CGU\) et Mentions Légales et les soumet à l'équipe juridique :
@@ -83,11 +80,10 @@ _3 mois pour développer une première solution numérique et trouver des utilis
    * 💡 [Guide de sécurité Agile le l'ANSSI](https://www.ssi.gouv.fr/uploads/2018/11/guide-securite-numerique-agile-anssi-pa-v1.pdf)
 
 > Pour la rédaction d'une AIPD, comme pour l'atelier d'analyse de risques, nous vous conseillons de solliciter l'aide d'un expert auprès de votre contact DINUM.
-{% endtab %}
 
 {% tab content="third" %}
 * Fausse bonne idée : considérer que le recueil du consentement est nécessaire, ou suffisant, ou facile à mettre en oeuvre. Le consentement est en réalité souvent inutile dans l'administration, et complexe à stocker, gérer dans le temps.
-{% endtab %}
+
 {% endtabs %}
 
 ## 🚀 Phase d'accélération / Changement d'échelle
@@ -97,7 +93,6 @@ _Mon produit a rencontré ses utilisateurs et démontré sa valeur ; je concentr
 {% tabs first="Question à se poser", second="A faire", third="A ne pas faire" %}
 {% content "first"  %}
 * Qui est le Responsable de la sécurité des systèmes d'information \(RSSI\) dans mon administration ?
-{% endtab %}
 
 {% tab content="second" %}
 1. Je reviens sur les actions des phases précédentes, en répète certaines \(atelier risques\) et mets à jour les documents correspondants ;
@@ -106,11 +101,10 @@ _Mon produit a rencontré ses utilisateurs et démontré sa valeur ; je concentr
 3. Je partage le dossier avec le RSSI de mon administration, prends en compte ses retours et me renseigne sur l'autorité d'homologation :
    * 💡 Le RSSI de la DINUM est `laurent.voillot@modernisation.gouv.fr`
 4. \[Optionnel\] A ce stade, je peux solliciter un prestataire pour réaliser un test d'intrusion. Je contacte la DINUM si besoin pour en discuter.
-{% endtab %}
 
 {% tab content="third" %}
 * Déstaffer les développeurs expérimentés dont on a plus que jamais besoin pour la montée en charge du produit ;
 * Croire que c'est fini !
-{% endtab %}
+
 {% endtabs %}
 
