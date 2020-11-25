@@ -6,11 +6,7 @@ Les outils no code permettent de développer un MVP utilisable en production san
 
 ### L'automatisation facile avec [Zapier](https://zapier.com)
 
-{% embed url="https://youtu.be/PsbHrkS3fC0" %}
-
-Durée : 1h30, par Chaïb Martinez
-
-[Voir la vidéo sur Youtube](https://youtu.be/PsbHrkS3fC0)
+<a href="https://youtu.be/PsbHrkS3fC0">Conférence sur YouTube (1h30, par Chaïb Martinez)</a>
 
 L’objectif de cet atelier est que vous puissiez automatiser un maximum de chose à la fin de l’atelier, et vous faire gagner du temps au quotidien dès le lendemain. Que vous soyez Bizdev, Intra, Coach, ou Dev.
 
@@ -25,6 +21,3 @@ Exemple \(Produit\): Quand une carte arrive dans la colonne, « en prod » sur l
 Exemple \(Dev\): Quand une nouvelle erreur 500 apparait sur Sentry =&gt; si elle contient telle chaine =&gt; envoyer un motif sur slack =&gt; envoyer un SMS a Thomas
 
 Exemple \(Dev\): Quand il se passe ça sur le produit =&gt; appeler tel wehbook sur Zapier =&gt; \[Le bizdev fait ce qu’il veut ensuite avec l'info\]
-
-
-
