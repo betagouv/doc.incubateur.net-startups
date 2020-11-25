@@ -30,7 +30,7 @@ _9 semaines pour instruire un problème et envisager des solutions pour le réso
 
 * Est-ce que je sais ce qu'est une donnée personnelle ?
 
-{% tab content="second" %}
+{% content "second" %}
 1. Je me documente sur les sujets RGPD & sécurité :
    * 💡 [Qu'est-ce qu'une donnée personnelle ?](https://www.cnil.fr/fr/cnil-direct/question/une-donnee-caractere-personnel-cest-quoi) [Qu'est-ce qu'une donnée personnelle sensible ?](https://www.cnil.fr/fr/definition/donnee-sensible)
    * 💡 [Guide d'hygiène informatique pour les systèmes d'information](https://www.ssi.gouv.fr/guide/guide-dhygiene-informatique/) & [Guide RGPD du dev](https://www.cnil.fr/fr/guide-rgpd-du-developpeur)
@@ -44,7 +44,7 @@ _9 semaines pour instruire un problème et envisager des solutions pour le réso
 
 1. Je crée une fiche pour la nouvelle startup sur beta.gouv.fr.
 
-{% tab content="third" %}
+{% content "third" %}
 * Accepter des fichiers de coordonnées de personnes à contacter sans avoir vérifié le consentement de ces personnes ;
 * Discuter ou échanger des données personnelles sur des outils partagés \(Trello, Slack\).
 
@@ -65,7 +65,7 @@ _3 mois pour développer une première solution numérique et trouver des utilis
 * Qui est mon référent RGPD \(DPO ou délégué DPO\) ou sécurité ?
 * Quelle solution d'hébergement utilisé-je pour mon site ? Est-elle opérée ou localisée en France, en Europe ?
 
-{% tab content="second" %}
+{% content "second" %}
 1. Je rédige les Conditions Générales d'Utilisation \(CGU\) et Mentions Légales et les soumet à l'équipe juridique :
    * 💡 Modèle à adapter : [Mes-aides](https://mes-aides.gouv.fr/cgu)
 2. Je choisis les bons outils :
@@ -81,7 +81,7 @@ _3 mois pour développer une première solution numérique et trouver des utilis
 
 > Pour la rédaction d'une AIPD, comme pour l'atelier d'analyse de risques, nous vous conseillons de solliciter l'aide d'un expert auprès de votre contact DINUM.
 
-{% tab content="third" %}
+{% content "third" %}
 * Fausse bonne idée : considérer que le recueil du consentement est nécessaire, ou suffisant, ou facile à mettre en oeuvre. Le consentement est en réalité souvent inutile dans l'administration, et complexe à stocker, gérer dans le temps.
 
 {% endtabs %}
@@ -94,7 +94,7 @@ _Mon produit a rencontré ses utilisateurs et démontré sa valeur ; je concentr
 {% content "first"  %}
 * Qui est le Responsable de la sécurité des systèmes d'information \(RSSI\) dans mon administration ?
 
-{% tab content="second" %}
+{% content "second" %}
 1. Je reviens sur les actions des phases précédentes, en répète certaines \(atelier risques\) et mets à jour les documents correspondants ;
 2. A partir du livrable de l'atelier risques, je constitue un dossier d'homologation de sécurité :
    * 💡 Exemples de dossier d'homologation de sécurité : [Le.taxi](https://github.com/betagouv/beta.ssi/blob/master/homologations/le_taxi.md) et [Aidants connect](https://trello.com/c/NOap62w5)
@@ -102,7 +102,7 @@ _Mon produit a rencontré ses utilisateurs et démontré sa valeur ; je concentr
    * 💡 Le RSSI de la DINUM est `laurent.voillot@modernisation.gouv.fr`
 4. \[Optionnel\] A ce stade, je peux solliciter un prestataire pour réaliser un test d'intrusion. Je contacte la DINUM si besoin pour en discuter.
 
-{% tab content="third" %}
+{% content "third" %}
 * Déstaffer les développeurs expérimentés dont on a plus que jamais besoin pour la montée en charge du produit ;
 * Croire que c'est fini !
 
