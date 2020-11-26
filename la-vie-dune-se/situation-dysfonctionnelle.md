@@ -29,26 +29,36 @@ Cette note peut permettre aux équipes \(ou à un de ses membres\) de réaliser 
   * Le budget total et restant n’est pas rendu visible au sein de l’équipe et/ou son utilisation n’est pas discuté de façon collective ;
   * Le recrutement est décidé par des personnes hors de l’équipe produit. 
 
-### Relations et culture 
+### Relations, culture et inclusion
 
 * [ ] Les relations et la culture de l’équipe reflètent des logiques de domination et d’intimidation plus ou moins visibles ou insidieuses. Par exemple, vous êtes témoin, victime ou acteur.rice : 
+
   * De conversations relativement désagréables, tendues, agressives voire violentes dénotant la présence de désaccords, de non-dits ou de conflits structurels ; 
   * D’un manque de liberté d’expression liée à des oppositions systématiques ou des jugements d’un.e membre de l’équipe. Cette situation a des effets tangibles comme le sentiment que toutes les questions ne sont pas autorisées, que l'espace de travail n'est pas bienveillant/sécurisant, qu'il y a une absence d’équilibre du temps de parole, ou l’exclusion de certains membres ;
   * Des comportements inégaux ou sensiblement différents selon que la personne concernée est une femme, un homme, porte de façon visible l’héritage de plusieurs cultures, ou encore en raison de son orientation sexuelle ou bien d’une invalidité visible ou non etc. ; 
   * D’une équipe déséquilibrée \(femmes/ hommes par exemple\) et nourrissant des stéréotypes discriminants de façon consciente ou non, lorsque les membres de l’équipe sont en interaction avec la personne en situation de minorité ;
   * Des discussions reposant sur des logiques de chantages émotionnels, c’est à dire une forme de contrôle faisant entrer en jeu la culpabilité, l'obligation, ou la peur et pouvant conduire à des risques de harcèlement moral ;
   * Absence d’une personne \(co-animateur/ co-animatrice ou de coach\(e\) beta.gouv.fr\) dont le rôle est de guider l’équipe à échéance régulière, challenger l’impact et réinterroger la vision ;
-  * Pas d’atelier de rétrospective organisé de façon régulière,  permettant d’évincer les obstacles et éventuelles frustrations pour garantir l’avancée de l’équipe sans conflit.  
+  * Pas d’atelier de rétrospective organisé de façon régulière,  permettant d’évincer les obstacles et éventuelles frustrations pour garantir l’avancée de l’équipe sans conflit.
+
+### Partenariat avec l'administration 
+
 * [ ] L’équilibre de la relation partenariale vous paraît défectueux. Par exemple, vous identifiez que : 
   * La relation avec le ou la sponsor n’est pas bien établie. Le cadrage et la compréhension des modalités de fonctionnement de beta.gouv.fr ne sont pas satisfaisants. Vous voyez que cela a un impact direct sur les conditions de travail de l’intrapreneu.r.se et de l’équipe ainsi que sur le pilotage du produit. 
   * L’intrapreneu.r.se ne semble pas s’engager pour garantir la charte et l’approche beta.gouv.fr dans le pilotage du produit. 
   * Une intention ou une logique de prestation plutôt qu’une logique de partenariat se remarque au sein de votre interlocuteur.rice. Vous sentez que son intérêt pour beta.gouv.fr s’explique plus dans l’usage du marché public pour accéder à des ressources externes à l’Etat que dans la réelle adhésion à l’approche et au manifeste. 
   * Il n’y a pas de processus formalisé pour assurer la garantie de l’approche beta.gouv.fr tel qu’un comité tous les six mois, une page statistique faisant un suivi des indicateurs d’impact etc. 
-  * La visibilité qui vous est laissée quant à la conduite du projet ne vous semble pas respecter les engagements pris au sein de la convention.   
+  * La visibilité qui vous est laissée quant à la conduite du projet ne vous semble pas respecter les engagements pris au sein de la convention.  
+
+### Impact
+
 * [ ] Le produit n’est pas piloté par l’impact. Par exemple, vous identifiez : 
   * Une comitologie interne au sein de l’administration formalisée et dans laquelle des décisions sur le produit sont prises et ne respectent pas la priorité des besoins usagers. 
   * Aucun indicateur visant à mesurer l’impact effectif \(i.e pas des metrics de vanité\) est suivi régulièrement. 
-  * La remontée des retours utilisateurs n’est pas formalisée.   
+  * La remontée des retours utilisateurs n’est pas formalisée.  
+
+### Manque de sens
+
 * [ ] Le problème que cherche à résoudre le produit ne vous semble pas compatible avec le manifeste. Par exemple, vous identifiez un ou plusieurs élément\(s\) suivant\(s\) :
   * Le problème n’a pas été bien défini, validé et ne figure pas comme élément central de l’intention du pilotage du produit. 
   * Le problème n’est pas véritablement tourné vers les usagers ayant le problème ciblé.
