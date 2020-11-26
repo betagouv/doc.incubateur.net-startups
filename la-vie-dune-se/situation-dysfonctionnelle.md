@@ -5,7 +5,7 @@ description: >-
   situation dysfonctionnelle.
 ---
 
-# Situation dysfonctionnelle
+# Situation dysfonctionnelle 🙇
 
 ## **A quoi vise cette note ?** 
 
