@@ -46,6 +46,7 @@
   * [👌🏼Animer vos rétros](gestion-de-produit/les-rituels/animer-vos-retros.md)
 * [Définir et mesurer l’impact](gestion-de-produit/definir-et-mesurer-limpact/README.md)
   * [😱 Cauchemar à bêta : la mesure d'impact !](gestion-de-produit/definir-et-mesurer-limpact/cauchemar-a-beta-la-mesure-dimpact.md)
+  * [Le coach, la Startup d'État et la mesure d’impact](gestion-de-produit/definir-et-mesurer-limpact/le-coach-la-startup-detat-et-la-mesure-dimpact.md)
 * [Choisir ses outils](gestion-de-produit/choisir-ses-outils.md)
 
 ## 💎 Design et Expérience Utilisateur
