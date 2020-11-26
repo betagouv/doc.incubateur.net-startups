@@ -17,6 +17,8 @@ Cette note peut permettre aux équipes \(ou à un de ses membres\) de réaliser 
 
 ## Liste des signaux faibles
 
+### Transparence et horizontalité 
+
 * [ ] La transparence et l’horizontalité dans les échanges, les avancées et les prises de décisions ne sont pas promues. Par exemple, vous identifiez que : 
   * Les lieux et les temps de décisions sont opaques. Ils excluent certains membres de l’équipe ou créent des formes de hiérarchie entre les membres \(logiques de verticalité non clarifiées\) ;
   * Certaines conversations reflètent des logiques de rétentions d’information ;
@@ -25,7 +27,10 @@ Cette note peut permettre aux équipes \(ou à un de ses membres\) de réaliser 
   * Le recours systématique à un tiers pour adresser une demande à un collègue de sa propre équipe. En outre, la coordination de l'activité de l'équipe n'est pas organisées ou/et formalisées ;
   * Le budget n’est pas à la main de l’intrapreneur et de l’équipe ;
   * Le budget total et restant n’est pas rendu visible au sein de l’équipe et/ou son utilisation n’est pas discuté de façon collective ;
-  * Le recrutement est décidé par des personnes hors de l’équipe produit.  
+  * Le recrutement est décidé par des personnes hors de l’équipe produit. 
+
+### Relations et culture 
+
 * [ ] Les relations et la culture de l’équipe reflètent des logiques de domination et d’intimidation plus ou moins visibles ou insidieuses. Par exemple, vous êtes témoin, victime ou acteur.rice : 
   * De conversations relativement désagréables, tendues, agressives voire violentes dénotant la présence de désaccords, de non-dits ou de conflits structurels ; 
   * D’un manque de liberté d’expression liée à des oppositions systématiques ou des jugements d’un.e membre de l’équipe. Cette situation a des effets tangibles comme le sentiment que toutes les questions ne sont pas autorisées, que l'espace de travail n'est pas bienveillant/sécurisant, qu'il y a une absence d’équilibre du temps de parole, ou l’exclusion de certains membres ;
