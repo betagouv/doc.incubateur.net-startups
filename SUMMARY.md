@@ -22,6 +22,7 @@
 * [Accélération 🐦](la-vie-dune-se/acceleration.md)
 * [Consolidation 🐧](la-vie-dune-se/consolidation.md)
 * [Abandon 🔚](la-vie-dune-se/abandon.md)
+* [Situation dysfonctionnelle](la-vie-dune-se/situation-dysfonctionnelle.md)
 
 ---
 
