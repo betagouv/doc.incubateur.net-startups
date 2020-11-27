@@ -33,12 +33,19 @@ _Le marché atteignable est-il identifié \(taille et périmètre, ciblage perti
 #### 2.  La mesure d'impact
 
 _Une mesure d’impact réel \(social/économique/environnemental\) principale a-t-elle été identifiée ? Est-elle suivie en partenariat avec le sponsor ? Est-elle utilisée comme guide pour le pilotage du projet ? Un objectif de croissance de cette métrique à 6 et 18 mois est-il fixé/envisagé ?_
+Pour en savoir plus sur la mesure d'impact, se référer au [petit guide sur la mesure d'impact] (https://docs.google.com/presentation/d/1SkTz20qNuOh3rGJZ1vGqStvlXHaKu_7zsnmrW997xn4/edit?usp=sharing).
 
 #### 3. L’organisation de l’équipe
 
 _L’équipe est-elle organisée et construite pour porter la croissance ? Les moyens humains et les rôles nécessaires sont-ils clairement identifiés ? Les processus internes sont-ils construits et structurés pour permettre ce passage à l’échelle \(formation et onboarding, outils, documentation des processus, etc.\) ? La culture de l’équipe est-elle alignée avec les_ [_valeurs de beta_](https://beta.gouv.fr/approche/manifeste) _et propice à un déploiement ?_
 
-#### **Ressource utile : un modèle de grille d’évaluation utilisée en fin de phase de construction** :
+Il convient que la Startup d'État qui souhaite passer en phase d'accélération est un veritable questionnement sur les 3 critères ci-dessus concernant son produit, et qu'elle réfléchisse à l'impact de son produit sur un marché donné.
+
+#### **Ressource utile : en apprendre plus sur le Growth Hacking**
+Le Growth Hacking (GH) recouvre toutes les tactiques d'acquisition, de conversion (activation), de rétention (fidélisation) d'utilisateurs d'une Startup. Ils participent à augmenter l'impact d'un produit. 
+Pour en savoir plus sur cette pratique, vous pouvez consultez la fiche [Growth Hacking](https://doc.incubateur.net/communaute/aide-transverse/growth-hacking-acquisition) du guide pour la communcauté ainsi que la fiche [Les principes du Growth Hacking](https://doc.incubateur.net/startups/marketing/growth-hacking).
+
+#### **Ressource utile : un modèle de grille d’évaluation utilisée en fin de phase de construction** 
 
 * [Version en ligne](https://docs.google.com/document/d/1iaWv0JuXU4BohqFH87hMYWclQcAxa-pW724DBFEulg4/edit#)
 * Version à télécharger \(version du 04/08/2020\) :
@@ -57,9 +64,11 @@ Enfin, les services entrant en phase d’accélération ont la possibilité de p
 
 #### **Information utile : focus sur le programme d'accompagnement Gamma**
 
-Le programme Gamma est un accompagnement sur 6 mois qui vise à mettre à disposition une équipe (coachs seniors et chargé.e de déploiement) et à instaurer un suivi mensuel de métriques d’impact chez des startups d’État en phase d’accélération. L’objectif du programme est d’accélérer l’impact de projets à haut potentiel en accompagnant leur accélération et en d’organisant des points d’étape réguliers pour identifier des problématiques potentielles, et réunir les ressources disponibles pour y répondre.
+Le programme Gamma est un accompagnement sur 6 mois qui vise à mettre à disposition une équipe (coachs seniors et chargé.e de déploiement) et à instaurer un suivi mensuel de métriques d’impact chez des startups d’État en phase d’accélération. L’objectif du programme est d’accélérer l’impact de produits à haut potentiel en accompagnant leur accélération et en d’organisant des points d’étape réguliers pour identifier des problématiques potentielles, et réunir les ressources disponibles pour y répondre.
 
 Depuis son lancement en septembre 2020, Gamma a choisi d'accompagner les 3 startups d'État [Aides-territoires](https://aides-territoires.beta.gouv.fr/), [DossierFacile](https://dossierfacile.fr/) et [Mon-entreprise](https://mon-entreprise.fr/).
 L'équipe est aujourd'hui composée de Clément Renault et Pénélope Liot (coachs seniors) ainsi que Bréanne Mallat (chargée de déploiement).
 
-Pour en savoir plus, des articles ont été publiés sur le blog beta.gouv concernant [la phase d'accélération des startups](https://blog.beta.gouv.fr/dinsic/2020/08/20/acceleration-des-startups-d-etat-d-un-retour-d-experience-a-l-experimentation-d-un-programme-d-accompagnement-cible-1/) et le lancement du programme Gamma.
+Pour en savoir plus, vous pouvez vous référer à [la présentation générale de Gamma](https://docs.google.com/presentation/d/14wInaKcd2gn9sU0bzlGSrtALq2BwLxdHAZOxh_kM9b8/edit?usp=sharing) ou aux articles publiés sur le blog beta.gouv concernant [la phase d'accélération des startups](https://blog.beta.gouv.fr/dinsic/2020/08/20/acceleration-des-startups-d-etat-d-un-retour-d-experience-a-l-experimentation-d-un-programme-d-accompagnement-cible-1/) et [le lancement du programme Gamma](https://blog.beta.gouv.fr/dinsic/2020/11/23/acceleration-des-startups-d-etat-retour-sur-le-lancement-du-programme-d-accompagnement-gamma-1/).
+
+Dans une démarche de transparence, l'équipe Gamma partage [le récap de ses weekly](https://drive.google.com/drive/folders/1MK7Tt0fSe_Q10GwRxSb03C6XdwBmPwNV) à toute l'équipe beta. Vous pouvez également retrouver l'ensemble de l'actualité de Gamma en rejoignant le channel #incubateur-accélération sur le slack beta.gouv.fr.
