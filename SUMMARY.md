@@ -73,7 +73,6 @@
 
 ## 💻 Développement
 
-* [Glossaire](developpement/glossaire.md)
 * [Choisir son nom de domaine](developpement/choisir-son-nom-de-domaine.md)
 * [Infra](developpement/devops.md)
 * [Choisir des technologies](developpement/choisir-un-langage-de-programmation.md)
