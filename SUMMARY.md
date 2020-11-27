@@ -25,11 +25,10 @@
 * [Abandon 🔚](la-vie-dune-se/abandon.md)
 * [Situation dysfonctionnelle 🙅](la-vie-dune-se/situation-dysfonctionnelle.md)
 
----
+## 🤵 Relations avec son sponsor <a id="relations-avec-son-sponsor-1"></a>
 
-* [🤵 Relations avec son sponsor](relations-avec-son-sponsor.md)
-* [Préparer un comité d’investissement](preparer-un-comite-dinvestissement.md)
-* [Comment répondre à un sponsor qui demande une roadmap produit ?](comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md)
+* [Préparer un comité d’investissement](relations-avec-son-sponsor-1/preparer-un-comite-dinvestissement.md)
+* [Comment répondre à un sponsor qui demande une roadmap produit ?](relations-avec-son-sponsor-1/comment-repondre-a-un-sponsor-qui-demande-une-roadmap-produit.md)
 
 ## 💼 Gestion administrative
 

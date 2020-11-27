@@ -1,2 +1,0 @@
-# 🤵 Relations avec son sponsor
-
