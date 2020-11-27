@@ -54,13 +54,7 @@ L'objectif est de rendre votre travail découvrable facilement pour toute person
 
 * La [grille d'évaluation à la fin de l'investigation](https://beta.gouv.fr/content/docs/grille_lancement.pdf)
 * Documentation : [Préparer un comité d'investissement](https://doc.incubateur.net/startups/preparer-un-comite-dinvestissement)
-* Exemples de supports de fin d'investigation et comité d'investissement : 
-
-[Ecosanté](https://docs.google.com/presentation/d/1P9waJEbvcT1hASOX2PqcylrTuuc3ocla8e9Rx5dYEvw/edit#slide=id.g6e25175204_0_4), pollution de l'air
-
-[Friches](https://docs.google.com/presentation/d/10PB_jf7nMrZi3tWeVwjUkMeiincYnGLtiu72VsA_gU8/edit#slide=id.p), artificialisation des sols
-
-[EGAlim](https://docs.google.com/presentation/d/1SVOWf08QOhTVoTIWm9rOPbAh-fg0Yx6OREHm6A_ABJA/edit?ts=5f928c5c#slide=id.gbae33034312e0c_580), alimentation saine et durable en restau collective
+* Exemples de supports de fin d'investigation et comité d'investissement : demandez sur le Slack, \#incubateur-investigation 
 
 ### Où demander de l'aide
 

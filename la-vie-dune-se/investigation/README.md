@@ -18,6 +18,8 @@ Vous pouvez parcourir les pages de ce guide pour obtenir de plus amples informat
 
 {% page-ref page="ressources-utiles.md" %}
 
+{% page-ref page="conseils-pour-les-coachs-en-investigation.md" %}
+
 Parfois, les investigations à sélectionner sont présentées dans le cadre d'une journée de sélection à l'issue d'un appel à intrapreneurs.
 
 {% page-ref page="journee-de-selection.md" %}
