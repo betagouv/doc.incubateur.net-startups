@@ -1,5 +1,27 @@
 # Critères d'évaluation
 
+### Dans quels cas arrêter les travaux après la phase d’investigation ?
+
+Toutes les investigations n’ont pas vocation à aboutir sur une phase de construction. Il est acceptable, voire recommandable, de mettre fin à un projet à l’issue de l’investigation si c’est ce que suggèrent les données. Ceci ne doit pas être considéré comme un échec, mais comme une opportunité, puisque cet apprentissage permet de réorienter les investissements en temps et en argent vers des sujets plus pertinents. Voici quelques critères qui vous permettront de juger s’il est temps de mettre fin aux investissements : 
+
+* l’investigation montre que le problème n’est pas “assez important” et que le développement d’un service numérique n’est pas crucial pour mieux servir les personnes concernées ; 
+* il existe déjà une solution \(privée ou publique\) répondant au problème ;
+* les contraintes \(politiques, technologiques, financières, organisationnelles\) sont trop nombreuses et augurent mal de la réussite d’un service numérique ;
+* les coûts prévisionnels \(à court, moyen et long termes\) rapportés à l’impact attendus sont trop importants.
+
+Il est aussi possible que, bien que le problème ait été validé par l’investigation, les hypothèses de solution les plus pertinentes ne tombent pas dans le domaine d’expertise ou la configuration pour lesquelles le programme beta.gouv.fr est le plus adapté. Dans ces cas-là, nous vous orienterons vers une alternative pour que votre projet puisse continuer sans nous.
+
+### Dans quels cas poursuivre les travaux après la phase d’investigation ?
+
+* le problème a une portée large : nombre de personnes touchées, intensité des conséquences sociales, environnementales, politiques, etc. ;
+* la stratégie de construction est incrémentale, expérimentale et réaliste : dans 6 mois l'équipe aura mis en ligne une première version de la solution et pourra raconter les premiers usages et les premiers succès réels, mais la solution sera toujours imparfaite \(un seul périmètre, une seule zone géographique couverte, etc.\) et il faudra alors décider d'un refinancement ou non pour améliorer/déployer/accélérer, en cas d'utilité avérée et d'impact positif ;
+* la solution pressentie est adaptée : l’Etat doit avoir une raison légitime de le faire en lieu et place d’un acteur privé ; le produit est difficilement réalisable dans les modes classiques \(commande DG, réalisation DSI, déploiement…\) et nécessite dès le premier jour du projet d’être sur le terrain, d’expérimenter, d’adapter la vision produit chaque semaine en fonction des apprentissages, etc. ; 
+* les conditions budgétaires et organisationnelles sont réunies : vous avez un budget à consacrer au sujet ; vous avez identifié au sein de votre administration une personne qui vous donne l’impression d’être passionnée par le problème \(et pas forcément par la solution\), qui connait son écosystème, connaît ses usagers, a de l’empathie avec ses usagers, une sorte d'entrepreneur dans son administration \(énergique, impliquée, autonome, responsable, focalisé sur le résultat\) qui a du temps à consacrer au sujet \(dans l'idéal un temps complet, au minimum 60%\), qui a ou à qui l’on donne une autorité sur l’ensemble des décisions stratégiques et opérationnelles du service dont il a la responsabilité.
+
+### Questions à se poser
+
+Ces questions sont regroupées dans une [grille d'évaluation](https://beta.gouv.fr/content/docs/grille_lancement.pdf) à votre disposition. 
+
 **Le problème**
 
 ```text
