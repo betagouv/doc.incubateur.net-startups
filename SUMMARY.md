@@ -16,6 +16,7 @@
   * [Critères d'évaluation](la-vie-dune-se/investigation/criteres-devaluation.md)
   * [La méthode d’investigation n’est pas…](la-vie-dune-se/investigation/la-methode-dinvestigation-nest-pas....md)
   * [Journée de sélection](la-vie-dune-se/investigation/journee-de-selection.md)
+  * [Conseils pour les coachs en investigation](la-vie-dune-se/investigation/conseils-pour-les-coachs-en-investigation.md)
   * [Ressources utiles](la-vie-dune-se/investigation/ressources-utiles.md)
 * [Construction 🐥](la-vie-dune-se/construction/README.md)
   * [Nommer votre bébé](la-vie-dune-se/construction/nommer.md)
