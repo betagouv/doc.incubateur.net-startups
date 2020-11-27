@@ -70,7 +70,9 @@ Auparavant, nous avions l’habitude d’établir des "conventions de refacturat
 
 Son cycle de vie se présente ainsi :
 
-\[\[/images/uml/facturation.svg\]\]
+![Logigramme cycle de facturation](../../.gitbook/assets/facturation.svg)
 
-d'après ce joli dessin : ![Imgur](http://i.imgur.com/TF9CF7s.jpg)
+d'après ce joli dessin :
+
+ ![Imgur](http://i.imgur.com/TF9CF7s.jpg)
 
