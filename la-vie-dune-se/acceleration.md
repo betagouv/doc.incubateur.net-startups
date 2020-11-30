@@ -39,11 +39,11 @@ Pour en savoir plus sur la mesure d'impact, se référer au [petit guide sur la 
 
 _L’équipe est-elle organisée et construite pour porter la croissance ? Les moyens humains et les rôles nécessaires sont-ils clairement identifiés ? Les processus internes sont-ils construits et structurés pour permettre ce passage à l’échelle \(formation et onboarding, outils, documentation des processus, etc.\) ? La culture de l’équipe est-elle alignée avec les_ [_valeurs de beta_](https://beta.gouv.fr/approche/manifeste) _et propice à un déploiement ?_
 
-Il convient que la Startup d'État qui souhaite passer en phase d'accélération est un veritable questionnement sur les 3 critères ci-dessus concernant son produit, et qu'elle réfléchisse à l'impact de son produit sur un marché donné.
+Il convient que la Startup d'État qui souhaite passer en phase d'accélération ait un veritable questionnement sur les 3 critères ci-dessus concernant son produit, et qu'elle réfléchisse à l'impact de son produit sur un marché donné.
 
 #### **Ressource utile : en apprendre plus sur le Growth Hacking**
 Le Growth Hacking (GH) recouvre toutes les tactiques d'acquisition, de conversion (activation), de rétention (fidélisation) d'utilisateurs d'une Startup. Ils participent à augmenter l'impact d'un produit. 
-Pour en savoir plus sur cette pratique, vous pouvez consultez la fiche [Growth Hacking](https://doc.incubateur.net/communaute/aide-transverse/growth-hacking-acquisition) du guide pour la communcauté ainsi que la fiche [Les principes du Growth Hacking](https://doc.incubateur.net/startups/marketing/growth-hacking).
+Pour en savoir plus sur cette pratique, vous pouvez consultez la fiche [Growth Hacking](https://doc.incubateur.net/communaute/aide-transverse/growth-hacking-acquisition) du guide pour la communauté ainsi que la fiche [Les principes du Growth Hacking](https://doc.incubateur.net/startups/marketing/growth-hacking).
 
 #### **Ressource utile : un modèle de grille d’évaluation utilisée en fin de phase de construction** 
 
@@ -62,7 +62,7 @@ Le programme d’accompagnement resserré \(programme Gamma\), grâce à un suiv
 
 Enfin, les services entrant en phase d’accélération ont la possibilité de postuler au [Fonds d’accélération des Startups d’État et de Territoire \(FAST\)](https://beta.gouv.fr/approche/fast), offrant jusqu’à 1 million d’euros par session en provenance de la Direction Interministérielle du Numérique \(DINUM\) pouvant être partagés par plusieurs lauréats.
 
-#### **Information utile : focus sur le programme d'accompagnement Gamma**
+#### Focus sur le programme d'accompagnement Gamma**
 
 Le programme Gamma est un accompagnement sur 6 mois qui vise à mettre à disposition une équipe (coachs seniors et chargé.e de déploiement) et à instaurer un suivi mensuel de métriques d’impact chez des startups d’État en phase d’accélération. L’objectif du programme est d’accélérer l’impact de produits à haut potentiel en accompagnant leur accélération et en d’organisant des points d’étape réguliers pour identifier des problématiques potentielles, et réunir les ressources disponibles pour y répondre.
 
