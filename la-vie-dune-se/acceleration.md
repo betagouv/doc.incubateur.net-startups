@@ -62,9 +62,9 @@ Le programme d’accompagnement resserré \(programme Gamma\), grâce à un suiv
 
 Enfin, les services entrant en phase d’accélération ont la possibilité de postuler au [Fonds d’accélération des Startups d’État et de Territoire \(FAST\)](https://beta.gouv.fr/approche/fast), offrant jusqu’à 1 million d’euros par session en provenance de la Direction Interministérielle du Numérique \(DINUM\) pouvant être partagés par plusieurs lauréats.
 
-#### Focus sur le programme d'accompagnement Gamma**
+#### **Focus sur le programme d'accompagnement Gamma**
 
-Le programme Gamma est un accompagnement sur 6 mois qui vise à mettre à disposition une équipe (coachs seniors et chargé.e de déploiement) et à instaurer un suivi mensuel de métriques d’impact chez des startups d’État en phase d’accélération. L’objectif du programme est d’accélérer l’impact de produits à haut potentiel en accompagnant leur accélération et en d’organisant des points d’étape réguliers pour identifier des problématiques potentielles, et réunir les ressources disponibles pour y répondre.
+Le programme Gamma est un accompagnement sur 6 mois qui vise à mettre à disposition une équipe (coachs seniors et chargé.e de déploiement) et à instaurer un suivi mensuel de métriques d’impact chez des startups d’État en phase d’accélération. L’objectif du programme est d’accélérer l’impact de produits à haut potentiel en accompagnant leur accélération et en d’organisant des points d’étape réguliers pour identifier des problématiques potentielles, et réunir les ressources disponibles pour y répondre. Pour être selectionnées, les Startups d'État doivent répondre aux 3 critères cités plus haut et exprimer un besoin quant au développement stratégique et opérationnel de leur produit.
 
 Depuis son lancement en septembre 2020, Gamma a choisi d'accompagner les 3 startups d'État [Aides-territoires](https://aides-territoires.beta.gouv.fr/), [DossierFacile](https://dossierfacile.fr/) et [Mon-entreprise](https://mon-entreprise.fr/).
 L'équipe est aujourd'hui composée de Clément Renault et Pénélope Liot (coachs seniors) ainsi que Bréanne Mallat (chargée de déploiement).
