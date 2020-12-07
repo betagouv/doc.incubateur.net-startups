@@ -19,7 +19,7 @@ Les mesures d'impact se sont nettement améliorées au cours des derniers mois :
 **Quel déroulé ?** 
 
 * 10min : intro + tour de table
-* 10 min : exposé du problème par l'équipe de la SE
+* 10 min : exposé du problème par l'équipe de la SE + ses attentes
 * 10 min : question/réponses rapides avec les coachs
 * 30 min : focus recommandation impact
 
