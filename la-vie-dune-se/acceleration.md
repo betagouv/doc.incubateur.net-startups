@@ -33,7 +33,7 @@ _Le marché atteignable est-il identifié \(taille et périmètre, ciblage perti
 #### 2.  La mesure d'impact
 
 _Une mesure d’impact réel \(social/économique/environnemental\) principale a-t-elle été identifiée ? Est-elle suivie en partenariat avec le sponsor ? Est-elle utilisée comme guide pour le pilotage du projet ? Un objectif de croissance de cette métrique à 6 et 18 mois est-il fixé/envisagé ?_
-Pour en savoir plus sur la mesure d'impact, se référer au [petit guide sur la mesure d'impact] (https://docs.google.com/presentation/d/1SkTz20qNuOh3rGJZ1vGqStvlXHaKu_7zsnmrW997xn4/edit?usp=sharing).
+Pour en savoir plus sur la mesure d'impact, se référer au [petit guide sur la mesure d'impact](https://docs.google.com/presentation/d/1SkTz20qNuOh3rGJZ1vGqStvlXHaKu_7zsnmrW997xn4/edit?usp=sharing).
 
 #### 3. L’organisation de l’équipe
 
@@ -48,7 +48,7 @@ Pour en savoir plus sur cette pratique, vous pouvez consultez la fiche [Growth H
 #### **Ressource utile : un modèle de grille d’évaluation utilisée en fin de phase de construction** 
 
 * [Version en ligne](https://docs.google.com/document/d/1iaWv0JuXU4BohqFH87hMYWclQcAxa-pW724DBFEulg4/edit#)
-* Version à télécharger \(version du 04/08/2020\) :
+* Version à télécharger \(version du 04/08/2020\) : 
 
 {% file src="../.gitbook/assets/grille-acceleration.docx" caption="Grille d\'auto-évaluation - passage en phase d\'acceleration - V04082020" %}
 
