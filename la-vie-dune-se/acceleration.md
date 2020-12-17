@@ -8,9 +8,9 @@ description: En cours de rédaction
 
 La phase d’accélération s’appuie donc sur les acquis d’une phase de construction, c’est à dire la création d’un service fonctionnel, validé par des premiers usagers. D’une durée d'environ 1 an, et soumise à la décision de refinancement de l’administration porteuse, cette phase vise à structurer l’équipe, le produit, et les métriques utilisées autour d’un objectif : un déploiement à plus large échelle, pour amplifier l'impact final du produit ou du service.
 
-### **Fonctionnement**
+## **Fonctionnement**
 
-Le déroulé de la phase d’accélération repose sur les 3 piliers centraux à l’approche beta.gouv.fr : la priorisation des besoins utilisateurs, une démarche itérative, et un mode de gestion reposant sur la confiance et l’autonomie des équipes. 
+Le déroulé de la phase d’accélération repose sur les 3 piliers centraux à l’approche beta.gouv.fr : la priorisation des besoins utilisateurs, une démarche itérative, et un mode de gestion reposant sur la confiance et l’autonomie des équipes.
 
 A ces 3 piliers viennent s’ajouter des éléments propres au succès d’une phase d’accélération :
 
@@ -20,39 +20,38 @@ A ces 3 piliers viennent s’ajouter des éléments propres au succès d’une p
 
 Cette phase s’achève par un comité où l’administration porteuse décide ou non de la pérennisation du service, si son utilité à large échelle est avérée.
 
-### **Qu’est-ce qui détermine le passage à une phase d’accélération ?**
+## **Qu’est-ce qui détermine le passage à une phase d’accélération ?**
 
 La phase d’accélération suppose que la phase de construction a effectivement permis de construire un service fonctionnel, validé par des premiers usagers, et que l'administration porteuse comme l’équipe sont désireuses de poursuivre le projet pour le déployer à plus large échelle.
 
 Voici 3 critères clés, et des questions indicatives pour mieux les comprendre, retenus pour estimer qu’une Startup d'État est prête à un passage en phase d’accélération :
 
-#### 1. L'adéquation produit/marché
+### 1. L'adéquation produit/marché
 
 _Le marché atteignable est-il identifié \(taille et périmètre, ciblage pertinent des utilisateurs ; ex. nombre de personnes ou d’organismes concernés par le problème traité, nombre et fréquence d'occurrences, etc.\) ? Le produit est-il opérationnel ? A-t-il prouvé sa valeur auprès de premiers utilisateurs récurrents \(1 à 5% minimum du marché atteignable touché\) ? La valeur du produit justifie-t-elle un ré-investissement potentiel de plusieurs centaines de milliers d’euros d’argent public pour le déployer à large échelle ?_
 
-#### 2.  La mesure d'impact
+### 2.  La mesure d'impact
 
-_Une mesure d’impact réel \(social/économique/environnemental\) principale a-t-elle été identifiée ? Est-elle suivie en partenariat avec le sponsor ? Est-elle utilisée comme guide pour le pilotage du projet ? Un objectif de croissance de cette métrique à 6 et 18 mois est-il fixé/envisagé ?_
-Pour en savoir plus sur la mesure d'impact, se référer au [petit guide sur la mesure d'impact](https://docs.google.com/presentation/d/1SkTz20qNuOh3rGJZ1vGqStvlXHaKu_7zsnmrW997xn4/edit?usp=sharing).
+_Une mesure d’impact réel \(social/économique/environnemental\) principale a-t-elle été identifiée ? Est-elle suivie en partenariat avec le sponsor ? Est-elle utilisée comme guide pour le pilotage du projet ? Un objectif de croissance de cette métrique à 6 et 18 mois est-il fixé/envisagé ?_ Pour en savoir plus sur la mesure d'impact, se référer au [petit guide sur la mesure d'impact](https://docs.google.com/presentation/d/1SkTz20qNuOh3rGJZ1vGqStvlXHaKu_7zsnmrW997xn4/edit?usp=sharing).
 
-#### 3. L’organisation de l’équipe
+### 3. L’organisation de l’équipe
 
 _L’équipe est-elle organisée et construite pour porter la croissance ? Les moyens humains et les rôles nécessaires sont-ils clairement identifiés ? Les processus internes sont-ils construits et structurés pour permettre ce passage à l’échelle \(formation et onboarding, outils, documentation des processus, etc.\) ? La culture de l’équipe est-elle alignée avec les_ [_valeurs de beta_](https://beta.gouv.fr/approche/manifeste) _et propice à un déploiement ?_
 
 Il convient que la Startup d'État qui souhaite passer en phase d'accélération ait un veritable questionnement sur les 3 critères ci-dessus concernant son produit, et qu'elle réfléchisse à l'impact de son produit sur un marché donné.
 
-#### **Ressource utile : en apprendre plus sur le Growth Hacking**
-Le Growth Hacking (GH) recouvre toutes les tactiques d'acquisition, de conversion (activation), de rétention (fidélisation) d'utilisateurs d'une Startup. Ils participent à augmenter l'impact d'un produit. 
-Pour en savoir plus sur cette pratique, vous pouvez consultez la fiche [Growth Hacking](https://doc.incubateur.net/communaute/aide-transverse/growth-hacking-acquisition) du guide pour la communauté ainsi que la fiche [Les principes du Growth Hacking](https://doc.incubateur.net/startups/marketing/growth-hacking).
+### **Ressource utile : en apprendre plus sur le Growth Hacking**
 
-#### **Ressource utile : un modèle de grille d’évaluation utilisée en fin de phase de construction** 
+Le Growth Hacking \(GH\) recouvre toutes les tactiques d'acquisition, de conversion \(activation\), de rétention \(fidélisation\) d'utilisateurs d'une Startup. Ils participent à augmenter l'impact d'un produit. Pour en savoir plus sur cette pratique, vous pouvez consultez la fiche [Growth Hacking](https://doc.incubateur.net/communaute/aide-transverse/growth-hacking-acquisition) du guide pour la communauté ainsi que la fiche [Les principes du Growth Hacking](https://doc.incubateur.net/startups/marketing/growth-hacking).
+
+### **Ressource utile : un modèle de grille d’évaluation utilisée en fin de phase de construction**
 
 * [Version en ligne](https://docs.google.com/document/d/1iaWv0JuXU4BohqFH87hMYWclQcAxa-pW724DBFEulg4/edit#)
 * Version à télécharger \(version du 04/08/2020\) : 
 
 {% file src="../.gitbook/assets/grille-acceleration.docx" caption="Grille d\'auto-évaluation - passage en phase d\'acceleration - V04082020" %}
 
-### **Quel accompagnement possible ?**
+## **Quel accompagnement possible ?**
 
 L’accompagnement proposé par beta.gouv.fr vise à créer un environnement propre à la montée en compétence des équipes pour la réussite de la phase d’accélération.
 
@@ -62,13 +61,13 @@ Le programme d’accompagnement resserré \(programme Gamma\), grâce à un suiv
 
 Enfin, les services entrant en phase d’accélération ont la possibilité de postuler au [Fonds d’accélération des Startups d’État et de Territoire \(FAST\)](https://beta.gouv.fr/approche/fast), offrant jusqu’à 1 million d’euros par session en provenance de la Direction Interministérielle du Numérique \(DINUM\) pouvant être partagés par plusieurs lauréats.
 
-#### **Focus sur le programme d'accompagnement Gamma**
+### **Focus sur le programme d'accompagnement Gamma**
 
-Le programme Gamma est un accompagnement sur 6 mois qui vise à mettre à disposition une équipe (coachs seniors et chargé.e de déploiement) et à instaurer un suivi mensuel de métriques d’impact chez des startups d’État en phase d’accélération. L’objectif du programme est d’accélérer l’impact de produits à haut potentiel en accompagnant leur accélération et en d’organisant des points d’étape réguliers pour identifier des problématiques potentielles, et réunir les ressources disponibles pour y répondre. Pour être selectionnées, les Startups d'État doivent répondre aux 3 critères cités plus haut et exprimer un besoin quant au développement stratégique et opérationnel de leur produit.
+Le programme Gamma est un accompagnement sur 6 mois qui vise à mettre à disposition une équipe \(coachs seniors et chargé.e de déploiement\) et à instaurer un suivi mensuel de métriques d’impact chez des startups d’État en phase d’accélération. L’objectif du programme est d’accélérer l’impact de produits à haut potentiel en accompagnant leur accélération et en d’organisant des points d’étape réguliers pour identifier des problématiques potentielles, et réunir les ressources disponibles pour y répondre. Pour être selectionnées, les Startups d'État doivent répondre aux 3 critères cités plus haut et exprimer un besoin quant au développement stratégique et opérationnel de leur produit.
 
-Depuis son lancement en septembre 2020, Gamma a choisi d'accompagner les 3 startups d'État [Aides-territoires](https://aides-territoires.beta.gouv.fr/), [DossierFacile](https://dossierfacile.fr/) et [Mon-entreprise](https://mon-entreprise.fr/).
-L'équipe est aujourd'hui composée de Clément Renault et Pénélope Liot (coachs seniors) ainsi que Bréanne Mallat (chargée de déploiement).
+Depuis son lancement en septembre 2020, Gamma a choisi d'accompagner les 3 startups d'État [Aides-territoires](https://aides-territoires.beta.gouv.fr/), [DossierFacile](https://dossierfacile.fr/) et [Mon-entreprise](https://mon-entreprise.fr/). L'équipe est aujourd'hui composée de Clément Renault et Pénélope Liot \(coachs seniors\) ainsi que Bréanne Mallat \(chargée de déploiement\).
 
 Pour en savoir plus, vous pouvez vous référer à [la présentation générale de Gamma](https://docs.google.com/presentation/d/14wInaKcd2gn9sU0bzlGSrtALq2BwLxdHAZOxh_kM9b8/edit?usp=sharing) ou aux articles publiés sur le blog beta.gouv concernant [la phase d'accélération des startups](https://blog.beta.gouv.fr/dinsic/2020/08/20/acceleration-des-startups-d-etat-d-un-retour-d-experience-a-l-experimentation-d-un-programme-d-accompagnement-cible-1/) et [le lancement du programme Gamma](https://blog.beta.gouv.fr/dinsic/2020/11/23/acceleration-des-startups-d-etat-retour-sur-le-lancement-du-programme-d-accompagnement-gamma-1/).
 
-Dans une démarche de transparence, l'équipe Gamma partage [le récap de ses weekly](https://drive.google.com/drive/folders/1MK7Tt0fSe_Q10GwRxSb03C6XdwBmPwNV) à toute l'équipe beta. Vous pouvez également retrouver l'ensemble de l'actualité de Gamma en rejoignant le channel #incubateur-accélération sur le slack beta.gouv.fr.
+Dans une démarche de transparence, l'équipe Gamma partage [le récap de ses weekly](https://drive.google.com/drive/folders/1MK7Tt0fSe_Q10GwRxSb03C6XdwBmPwNV) à toute l'équipe beta. Vous pouvez également retrouver l'ensemble de l'actualité de Gamma en rejoignant le channel \#incubateur-accélération sur le slack beta.gouv.fr.
+
