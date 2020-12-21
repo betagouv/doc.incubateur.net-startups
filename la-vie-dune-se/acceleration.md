@@ -47,9 +47,8 @@ Le Growth Hacking \(GH\) recouvre toutes les tactiques d'acquisition, de convers
 ### **Ressource utile : un modèle de grille d’évaluation utilisée en fin de phase de construction**
 
 * [Version en ligne](https://docs.google.com/document/d/1iaWv0JuXU4BohqFH87hMYWclQcAxa-pW724DBFEulg4/edit#)
-* Version à télécharger \(version du 04/08/2020\) : 
+* [Version à télécharger \(version du 04/08/2020\)](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-M3zJJPRzqnNRhdtTx3k%2F-MDtycZq6ahgXxPiHpZj%2F-MDtzL-4XDsj_7dXoGIr%2FGrille%20acc%C3%A9l%C3%A9ration.docx?alt=media&token=b8ef9da4-8360-4aa8-aa07-2993f9757801) 
 
-{% file src="../.gitbook/assets/grille-acceleration.docx" caption="Grille d\'auto-évaluation - passage en phase d\'acceleration - V04082020" %}
 
 ## **Quel accompagnement possible ?**
 
