@@ -8,6 +8,10 @@ description: De l'aide pour faire un pas de plus vers des métriques utiles et u
 
 Nous proposons des ateliers pour répondre aux besoins d'aide sur les métriques.
 
+{% hint style="info" %}
+[Inscrit ton équipe au prochain atelier "Cauchemar à bêta : la mesure d'impact !](https://airtable.com/shr7L3jxSrxsptKvs)
+{% endhint %}
+
 **Pourquoi proposer ces ateliers ?**
 
 Les mesures d'impact se sont nettement améliorées au cours des derniers mois : 75% des SE en accélération disposent d'une page stat au 15 juin 2020, contre moins de 20% l'année précédente \(de mémoire de "betagouviens"\). Pourtant, il y a encore des marges de progrès, comme le montre [cet état des lieux](https://app.powerbi.com/view?r=eyJrIjoiYzJjNjEzMWQtOWZkOS00NTVmLWI5NmQtZGIyNDdjNTY3NzBhIiwidCI6IjY5ZDRkMjQ2LWZkMjMtNDAxYi05NzQ1LWZmNWVjYjVhNzY1ZCIsImMiOjh9) : les métriques pourraient parfois être encore plus complètes et pertinentes ! D'où l'idée d'ateliers d'une heure pour aider à réfléchir sur les mesures d'impact.
@@ -31,9 +35,13 @@ Les mesures d'impact se sont nettement améliorées au cours des derniers mois :
 * Domifa
 * Ecolab
 
+{% hint style="info" %}
+[Inscrit ton équipe au prochain atelier "Cauchemar à bêta : la mesure d'impact !](https://airtable.com/shr7L3jxSrxsptKvs)
+{% endhint %}
+
 \_\_\_
 
-## \#Acte 1  Témoignage d'un intra, d'une designet et d'un coach sur leur pire souvenir avec les indicateurs d'impact
+## \#Acte 1  Témoignage d'un intra, d'une designer et d'un coach sur leur pire souvenir avec les indicateurs d'impact
 
 _Le support de présentation :_
 
