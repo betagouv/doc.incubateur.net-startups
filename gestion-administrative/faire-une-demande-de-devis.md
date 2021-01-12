@@ -17,8 +17,7 @@ A ce stade le demande de devis n'est pas directement adressée à l'attributaire
 ### **Stratégie de test**
 
 Après 30 jours,  nous pourrons évaluer qui l'a utilisé et s'ils le recommandent.  
-Si l'expérimentation est positive. Nous proposerons l'envoi directe de la demande de devis à l'attributaire.  
-"A vos tests, pâtissez ![:g&#xE2;teau:](https://a.slack-edge.com/production-standard-emoji-assets/10.2/google-medium/1f370@2x.png)**"**
+Si l'expérimentation est positive. Nous proposerons l'envoi directe de la demande de devis à l'attributaire.
 
 {% hint style="info" %}
 **Tester le** [formulaire en ligne pour demander un devis](https://airtable.com/shra8F0OUtXTC4t4Z).
