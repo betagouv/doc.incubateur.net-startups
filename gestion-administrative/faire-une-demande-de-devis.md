@@ -2,7 +2,7 @@
 
 ##  \[**Version beta\]** [**Générateur de demande de devis**](https://airtable.com/shra8F0OUtXTC4t4Z)
 
-Ce service en ligne est en version bêta. Il a été proposé à l'usage depuis le lundi 26 octobre. Un premier bilan aura lieu fin novembre.
+Ce service en ligne est en version bêta. Il a été proposé à l'usage depuis le lundi 26 octobre. 
 
 ### **Quels problèmes résoudre ?**
 
@@ -16,8 +16,9 @@ A ce stade le demande de devis n'est pas directement adressée à l'attributaire
 
 ### **Stratégie de test**
 
-Après 30 jours,  nous pourrons évaluer qui l'a utilisé et s'ils le recommandent.  
-Si l'expérimentation est positive. Nous proposerons l'envoi directe de la demande de devis à l'attributaire.
+En novembre et le 12 janvier, 13 demandes de devis ont été réalisés depuis ce générateur.
+
+La note moyenne de recommandation est de 9/10.
 
 {% hint style="info" %}
 **Tester le** [formulaire en ligne pour demander un devis](https://airtable.com/shra8F0OUtXTC4t4Z).
