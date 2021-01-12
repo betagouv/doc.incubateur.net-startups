@@ -18,7 +18,7 @@ A ce stade le demande de devis n'est pas directement adressée à l'attributaire
 
 Entre le 26 octobre 2020 et le 12 janvier 2021, 13 demandes de devis ont été réalisées depuis ce générateur.
 
-La note moyenne de recommandation est de 9/10.
+La note moyenne de recommandation de ce service est de 9/10 \(sur la base de 8 utilisateurs\).
 
 {% hint style="info" %}
 **Tester le** [formulaire en ligne pour demander un devis](https://airtable.com/shra8F0OUtXTC4t4Z).
