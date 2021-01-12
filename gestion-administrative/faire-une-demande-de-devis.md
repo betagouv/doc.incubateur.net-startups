@@ -16,7 +16,7 @@ A ce stade le demande de devis n'est pas directement adressée à l'attributaire
 
 ### **Stratégie de test**
 
-En novembre et le 12 janvier, 13 demandes de devis ont été réalisés depuis ce générateur.
+Entre le 26 octobre 2020 et le 12 janvier 2021, 13 demandes de devis ont été réalisées depuis ce générateur.
 
 La note moyenne de recommandation est de 9/10.
 
