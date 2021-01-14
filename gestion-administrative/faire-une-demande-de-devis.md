@@ -60,9 +60,13 @@ _ATTENTION : TOUJOURS METTRE **COMPTA@BETA.GOUV.FR** EN COPIE DE VOS DEMANDES_
 > **Nombre d'UO souhaitées** _\[Ou nombre de jours pressentis par profil si c'est plus simple ou si vous ne connaissez pas le montant des UO\]  
 > \[Il est aussi possible d'indiquer ici le budget que vous souhaitez engager.\]_
 >
-> **Nombre de jour total par profil \(à indiquer dans le devis\)** : peut être rempli par le titulaire du marché quand il préparera le devis
+> **Nombre de jour total par profil \(à indiquer dans le devis\)** : peut être rempli par le titulaire du marché quand il préparera le devis.   
+>   
+> **Nom du responsable de traitement si des données personnelles sont traitées par le prestataire** : 
 >
-> **Période d'intervention souhaitée** : _\[mois de début\] - \[date de fin\]_
+> **Période d'intervention souhaitée** : _\[mois de début\] - \[date de fin\]_  
+>   
+>
 >
 > **Budget à imputer sur** : FAST ou [Lien de la convention sur data.gouv.fr](https://www.data.gouv.fr/fr/datasets/conventions-de-partenariat/) _\[Toujours vérifier que le fichier de suivi beta.gouv.fr est bien à jour, en particulier que votre équipe présente_ [_un budget disponible suffisant_](https://docs.google.com/spreadsheets/d/1pZYJvjUeMPF2oWzDOp6SC-CECcb3zmt5xq-udeEcELg/edit#gid=530195431)_.\]_
 >
