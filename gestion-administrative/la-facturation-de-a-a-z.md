@@ -50,9 +50,11 @@ Ce [procès verbal](https://docs.google.com/document/d/1hyvfie7hoRApJJP3liJGELqS
 
 Le résumé des livrables ou CRA devra être annexé.
 
-## 3. L'un des co-animateurs vérifie ces informations auprès de l'équipe de la Startup d’État ou de Territoire, le signe et le transmet au pôle gestion de la DINUM.
+## 3. L'intrapreneur ou le responsable d'incubateur vérifie ces informations, le signe et le transmet à son co-animateur.
 
-L'un des co-animateur demande la confirmation du résumé des livrables et du montant indiqué à l'équipe de la SET. 
+Par défaut, l'intrapreneur signe le procès verbal de service fait et l'adresse au co-animateur. Le co-animateur l'adressera au pole gestion de la Dinum.
+
+\[Cas spécifique s'il ne s'agit pas d'une délégation de gestion : l'un des co-animateur demande la confirmation du résumé des livrables et du montant indiqué à l'équipe de la SET. \]
 
 Puis, il signe le PV et celui-ci est enregistré pour sa prise en charge par le pole gestion de la DINUM.
 
