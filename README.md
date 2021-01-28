@@ -1,5 +1,5 @@
 ---
-description: "\U0001F9ED Toutes les informations pour aider les équipes de Startups d’État ou de Territoires à chaque étape."
+description: "\U0001F9ED Pour aider les équipes de Startups d’État ou de Territoires"
 ---
 
 # Guide pour les Startups d’État
