@@ -93,7 +93,7 @@ _3 à 6 mois pour développer une première solution numérique et l'expériment
 
 ## 🚀 Phase d'accélération 
 
-_Mon produit a rencontré ses utilisateurs et démontré sa valeur en phase d'expérimentation ; je concentre mes efforts sur son déploiements à grande échelle \(de 100 à 1 000 ou de 1 000 à 100 000 utilisateurs\)_
+_Mon produit a rencontré ses utilisateurs et démontré sa valeur en phase d'expérimentation ; je concentre mes efforts sur son déploiement à grande échelle \(de 100 à 1 000 ou de 1 000 à 100 000 utilisateurs\)_
 
 {% tabs %}
 {% tab title="Question à se poser" %}
