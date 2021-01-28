@@ -32,18 +32,19 @@ _9 semaines pour instruire un problème et envisager des solutions pour le réso
 {% endtab %}
 
 {% tab title="A faire" %}
-1. Je me documente sur les sujets RGPD & sécurité :
+1. [ ] Je me documente sur les sujets RGPD & sécurité :
    * 💡 [Qu'est-ce qu'une donnée personnelle ?](https://www.cnil.fr/fr/cnil-direct/question/une-donnee-caractere-personnel-cest-quoi) [Qu'est-ce qu'une donnée personnelle sensible ?](https://www.cnil.fr/fr/definition/donnee-sensible)
    * 💡 [Guide d'hygiène informatique pour les systèmes d'information](https://www.ssi.gouv.fr/guide/guide-dhygiene-informatique/) & [Guide RGPD du dev](https://www.cnil.fr/fr/guide-rgpd-du-developpeur)
-2. Je rencontre l'équipe juridique de la DINUM pour une première prise de contact :
-   * `perica.sucevic@modernisation.gouv.fr` , `ines.bedar@modernisation.gouv.fr` `cindy.kus@modernisation.gouv.fr`
-3. Je limite l'accès aux docs partagés à ceux que "ça regarde" et j'utilise des outils différenciés en fonction du degré de gêne \(sensibilité\) des informations :
-   * 💡 pad.incubateur.net est une alternative à Google doc qui permet de prendre des notes. L'option`signed-in people can edit`" limite la diffusion à la communauté @beta.gouv.fr.
-4. Je minimise les informations collectées et supprime celles dont je n'ai pas besoin. Après un entretien utilisateur, ai-je besoin de conserver dans mes notes toutes les données de le personne interrogée \(date de naissance, numéro de tél, nom, etc.\) ?
+2. [ ] Je rencontre l'équipe juridique de la DINUM et de l'administration sponsor du produit pour une première prise de contact \(perica.sucevic@modernisation.gouv.fr,  cindy.kus@modernisation.gouv.fr\) ;
+3. [ ] Je limite l'accès aux docs partagés à ceux que "ça regarde" et j'utilise des outils différenciés en fonction du degré de gêne \(sensibilité\) des informations :
+   * 💡 pad.incubateur.net est une alternative à Google doc qui permet de prendre des notes. L'option _signed-in people can edit_ limite la diffusion à la communauté @beta.gouv.fr.
+4. [ ] Je minimise les informations collectées et supprime celles dont je n'ai pas besoin. Après un entretien utilisateur, ai-je besoin de conserver dans mes notes toutes les données de le personne interrogée \(date de naissance, numéro de tél, nom, etc.\) ?
 
-> Exemple = Un plan de déploiement peut être sur Google doc peut sans doute être en accès ouvert, mais des notes d'entretien utilisateurs, plutôt en accès limité.
 
-1. Je crée une fiche pour la nouvelle startup sur beta.gouv.fr.
+
+   > Exemple : Un plan de déploiement peut sans doute être sur Google doc en accès ouvert, mais des notes d'entretien utilisateurs, plutôt en accès limité.
+
+5. [ ] Je crée une fiche pour la nouvelle startup sur beta.gouv.fr.
 {% endtab %}
 
 {% tab title="A ne pas faire" %}
@@ -52,9 +53,9 @@ _9 semaines pour instruire un problème et envisager des solutions pour le réso
 {% endtab %}
 {% endtabs %}
 
-## 🧱 Phase de construction produit
+## 🧱 Phase de construction produit 
 
-_3 mois pour développer une première solution numérique et trouver des utilisateurs_
+_3 à 6 mois pour développer une première solution numérique et l'expérimenter auprès d'utilisateurs_
 
 {% tabs %}
 {% tab title="Questions à se poser" %}
@@ -69,20 +70,20 @@ _3 mois pour développer une première solution numérique et trouver des utilis
 {% endtab %}
 
 {% tab title="A faire " %}
-1. Je rédige les Conditions Générales d'Utilisation \(CGU\) et Mentions Légales et les soumet à l'équipe juridique :
+1. [ ] Je rédige les Conditions Générales d'Utilisation \(CGU\) et mentions légales et les soumet à l'équipe juridique :
    * 💡 Modèle à adapter : [Mes-aides](https://mes-aides.gouv.fr/cgu)
-2. Je choisis les bons outils :
+2. [ ] Je choisis les bons outils :
    * 💡 Info et recommandation pour la gestion des cookies : [lien](https://beta.gouv.fr/suivi/)
-3. Je recense toutes les données traitées et les finalités qui leur sont associées \[1 à 2h\] :
+3. [ ] Je recense toutes les données traitées et les finalités qui leur sont associées \[1 à 2h\] :
    * 💡 [Tableau données-finalités](https://docs.google.com/document/d/1PQniGdnvLdjyEBbk1lFGzmG6rwnwD5bPCbvP_XBOe4I/edit?usp=sharing) écrit par la startup Itou. Le vôtre sera plus simple !
-4. Si mon produit rentre dans l'un des [critères de la CNIL](https://www.cnil.fr/sites/default/files/atoms/files/liste-traitements-aipd-non-requise.pdf) : rédiger une analyse d'impact relative à la protection des donnée \(AIPD, aussi appelée EIVP\) :
+4. [ ] Si mon produit rentre dans l'un des [critères de la CNIL](https://www.cnil.fr/sites/default/files/atoms/files/liste-traitements-aipd-non-requise.pdf) : commencer à réaliser une analyse d'impact relative à la protection des donnée \(AIPD, aussi appelée EIVP\) :
    * 💡 [Une AIPD, c'est quoi ?](https://www.cnil.fr/sites/default/files/atoms/files/infographie_aipd.pdf)
    * 💡 [Exemple d'AIPD](https://docs.google.com/document/d/1j_1EESLdOHIa6bsYo3VSp-AJhPNPbQJKNRJnpJpRhKU/edit) pour la startup Itou
-5. Organiser un atelier d'analyse de risque en suivant le guide Agile de l'ANSSI \[1 demi-journée en équipe complète\] :
+5. [ ] Organiser un atelier d'analyse de risques en suivant le guide Agile de l'ANSSI \[1 demi-journée en équipe complète\] :
    * 💡 Exemple de [résultat d'un atelier](https://github.com/openmaraude/le.taxi/wiki/Analyse-des-risques) pour Le.taxi
    * 💡 [Guide de sécurité Agile le l'ANSSI](https://www.ssi.gouv.fr/uploads/2018/11/guide-securite-numerique-agile-anssi-pa-v1.pdf)
 
-> Pour la rédaction d'une AIPD, comme pour l'atelier d'analyse de risques, nous vous conseillons de solliciter l'aide d'un expert auprès de votre contact DINUM.
+> Pour la rédaction d'une AIPD, comme pour l'atelier d'analyse de risques, nous vous conseillons de solliciter l'aide d'expert\(e\)s dans la communauté.
 {% endtab %}
 
 {% tab title="A ne pas faire" %}
@@ -90,9 +91,9 @@ _3 mois pour développer une première solution numérique et trouver des utilis
 {% endtab %}
 {% endtabs %}
 
-## 🚀 Phase d'accélération / Changement d'échelle
+## 🚀 Phase d'accélération 
 
-_Mon produit a rencontré ses utilisateurs et démontré sa valeur ; je concentre mes efforts sur son déploiements à grande échelle \(de 100 à 1000 ou de 1000 à 100 000 utilisateurs\)_
+_Mon produit a rencontré ses utilisateurs et démontré sa valeur en phase d'expérimentation ; je concentre mes efforts sur son déploiements à grande échelle \(de 100 à 1 000 ou de 1 000 à 100 000 utilisateurs\)_
 
 {% tabs %}
 {% tab title="Question à se poser" %}
@@ -100,12 +101,12 @@ _Mon produit a rencontré ses utilisateurs et démontré sa valeur ; je concentr
 {% endtab %}
 
 {% tab title="A faire " %}
-1. Je reviens sur les actions des phases précédentes, en répète certaines \(atelier risques\) et mets à jour les documents correspondants ;
-2. A partir du livrable de l'atelier risques, je constitue un dossier d'homologation de sécurité :
+1. [ ] Je reviens sur les actions des phases précédentes, en répète certaines \(atelier risques\) et mets à jour les documents correspondants ;
+2. [ ] A partir du livrable de l'atelier risques, je constitue un dossier d'homologation de sécurité :
    * 💡 Exemples de dossier d'homologation de sécurité : [Le.taxi](https://github.com/betagouv/beta.ssi/blob/master/homologations/le_taxi.md) et [Aidants connect](https://trello.com/c/NOap62w5)
-3. Je partage le dossier avec le RSSI de mon administration, prends en compte ses retours et me renseigne sur l'autorité d'homologation :
+3. [ ] Je partage le dossier avec le RSSI de mon administration, prends en compte ses retours et me renseigne sur l'autorité d'homologation :
    * 💡 Pour connaître le RSSI de la DINUM, tu peux interroger l'équipe de coanimation de beta.gouv.fr
-4. \[Optionnel\] A ce stade, je peux solliciter un prestataire pour réaliser un test d'intrusion. Je contacte la DINUM si besoin pour en discuter.
+4. [ ] \[Optionnel\] A ce stade, je peux solliciter un prestataire pour réaliser un test d'intrusion. Je contacte la DINUM si besoin pour en discuter.
 {% endtab %}
 
 {% tab title="A ne pas faire" %}
