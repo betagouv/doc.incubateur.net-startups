@@ -1,5 +1,9 @@
 # Ressources utiles
 
+{% hint style="success" %}
+[Modèle vierge pour une présentation au comité de fin d'investigation](https://docs.google.com/presentation/d/1GckBe4pJrmXxIOCDFVk-_flMpd0m3iiO7eDsp89FPC8/edit?usp=sharing)
+{% endhint %}
+
 **Club investigation** [https://pad.incubateur.net/ipUH9oEoRymIEn9Yp\_Xv9g?view](https://pad.incubateur.net/ipUH9oEoRymIEn9Yp_Xv9g?view)
 
 **Ressource programme de pré-incubation** : [https://docs.google.com/document/d/1ZL9WYFJ8HB1Snllx9vDC\_Rw-NKyAG\_le9vU59f5MOfA/edit\#heading=h.qrjcdfuealsq](https://docs.google.com/document/d/1ZL9WYFJ8HB1Snllx9vDC_Rw-NKyAG_le9vU59f5MOfA/edit#heading=h.qrjcdfuealsq) Lien drive complet : [https://drive.google.com/drive/folders/1N-BAtejOPypbduU0\_ghHeSpOrux81m5B](https://drive.google.com/drive/folders/1N-BAtejOPypbduU0_ghHeSpOrux81m5B)
