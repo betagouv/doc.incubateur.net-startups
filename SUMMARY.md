@@ -20,6 +20,7 @@
   * [Ressources utiles](la-vie-dune-se/investigation/ressources-utiles.md)
 * [Construction 🐥](la-vie-dune-se/construction/README.md)
   * [Nommer votre bébé](la-vie-dune-se/construction/nommer.md)
+  * [Kit de démarage](la-vie-dune-se/construction/kit-de-demarrage.md)
 * [Accélération 🐦](la-vie-dune-se/acceleration.md)
 * [Consolidation 🐧](la-vie-dune-se/consolidation.md)
 * [Abandon 🔚](la-vie-dune-se/abandon.md)

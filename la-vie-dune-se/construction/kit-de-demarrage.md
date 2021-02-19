@@ -39,4 +39,4 @@ Dans le cadre du travail avec l'administration, il est important de connaitre le
 - le code source est ouvert, y compris à la contribution externe
 - le code est instrumenté par des tests automatisés
 - le code est déployé fréquemment, idéalement en continu
-- Le code est écrit en utilisant les standards du langages (ex : pep8 en python) ou du framework
+- Le code est écrit en utilisant les standards du langages (ex : pep8 en python) et du framework
