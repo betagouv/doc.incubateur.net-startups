@@ -32,6 +32,7 @@ Dans le cadre du travail avec l'administration, il est important de connaitre le
 > Cette option est disponible en un clic sur Scalingo. 
 - une page /stats rend compte des mesures d'impact
 - le langage est clair, direct et sans jargon
+- l'équipe développe le produit dans un esprit de sobriété, en priorisant les fonctionnalités les plus simple possible pour prouver l'impact sur les usagers (par exemple : prioriser une FAQ bien documentée à un chatbot)
 
 ## Standards de qualité logicielle
 
