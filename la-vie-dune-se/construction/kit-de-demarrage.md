@@ -14,6 +14,12 @@ Pour cela, nous mettons à la disposition des SE un ensemble d'outil nommé le s
 - Trois langages de référence : Ruby (RoR), javascript (Express) et python (Django). Ces langages ont été selectionné pour leur flexibilité, et les options "out of the box" en terme de sécurité des SI et la facilité de prise en main en cas de passage à l'échelle.
 > Si vous utilisez Express, vous pouvez directement cloner le repo [du template](https://github.com/betagouv/template-design-system-de-l-etat) pour avoir rapidement une V0 de votre site.
 
+## Contraintes légales
+
+Dans le cadre du travail avec l'administration, il est important de connaitre les contraintes légales en terme de Sécurité, RGPD et Accessibilité.
+- Si vous souhaites les consulter vous pourrez les trouver sur la page dédié au [RGPD et sécurité](https://doc.incubateur.net/startups/rgpd-and-securite/guide-rgpd-securite) et à l'[accessibilité](https://doc.incubateur.net/design/ressources-design/kit-accessibilite/obligations-legales)
+- Nous proposons aussi une formation dédiée : Contactez Anna-Livia pour plus d'information
+
 ## Standard de qualité produit
 
 - l'équipe est pilotée par un processus de design proche des usagers : Il est normal pour les dévellopeur•euses d'aller à la rencontre des usagers, et d'inveter des usager aux séances de design.
