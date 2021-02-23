@@ -14,12 +14,6 @@ Pour cela, nous mettons à la disposition des Startups d'État un "Kit de démar
 - **Langages/Frameworks de référence** : Ruby (RoR), Javascript (Express) et Python (Django). Ces langages ont été selectionnés pour leur flexibilité, leur sécurité et la facilité de prise en main en cas de passage à l'échelle.
 > Si vous utilisez Express, vous pouvez directement cloner le repo [du template](https://github.com/betagouv/template-design-system-de-l-etat) pour avoir rapidement une V0 de votre site.
 
-## Contraintes légales
-
-Dans le cadre du travail avec l'administration, il est important de connaitre les contraintes légales en terme de Sécurité, RGPD et Accessibilité.
-- Si vous souhaitez les consulter vous pourrez les trouver sur la page dédiée au [RGPD et sécurité](https://doc.incubateur.net/startups/rgpd-and-securite/guide-rgpd-securite) et à l'[accessibilité](https://doc.incubateur.net/design/ressources-design/kit-accessibilite/obligations-legales)
-- Nous proposons aussi une formation dédiée : contactez Anna-Livia pour plus d'informations.
-
 ## Standard de qualité produit
 
 - L'équipe est pilotée par un processus de design proche des usagers : il est normal pour les dévelopeur•euses d'aller à la rencontre des usagers, et d'inviter des usagers aux séances de design.
@@ -40,3 +34,18 @@ Dans le cadre du travail avec l'administration, il est important de connaitre le
 - Le code est instrumenté par des tests automatisés.
 - Le code est déployé fréquemment, idéalement en continu.
 - Le code est écrit en utilisant les standards du langages (ex : pep8 en python) et du framework.
+
+## Standard de sécurité
+
+- Activer le 2FA sur tous vos services
+- Utiliser un gestionnaire de mot de passe pour stocker vos mots de passes
+- S’imposer des mots de passe longs (20 caractères minimum), complexes et unique par service
+- Activer les HTTPS Security Headers et ne pas faire utiliser les attributs "style" en html ni embarquer du javascript dans le HTML
+- Créé un compte par personne et éviter de partager un compte si c'est possible de faire autrement
+- Activer la vérification de faille de sécurité et la surveillance des dépendances (Dépendabot) sur Github
+
+## Contraintes légales
+
+Dans le cadre du travail avec l'administration, il est important de connaitre les contraintes légales en terme de Sécurité, RGPD et Accessibilité.
+- Si vous souhaitez les consulter vous pourrez les trouver sur la page dédiée au [RGPD et sécurité](https://doc.incubateur.net/startups/rgpd-and-securite/guide-rgpd-securite) et à l'[accessibilité](https://doc.incubateur.net/design/ressources-design/kit-accessibilite/obligations-legales)
+- Nous proposons aussi une formation dédiée : contactez Anna-Livia pour plus d'informations.
