@@ -38,11 +38,12 @@ _9 semaines pour instruire un problème et envisager des solutions pour le réso
 2. [ ] Je rencontre l'équipe juridique de la DINUM et de l'administration sponsor du produit pour une première prise de contact \(perica.sucevic@modernisation.gouv.fr,  cindy.kus@modernisation.gouv.fr\) ;
 3. [ ] Je limite l'accès aux docs partagés à ceux que "ça regarde" et j'utilise des outils différenciés en fonction du degré de gêne \(sensibilité\) des informations :
    * 💡 pad.incubateur.net est une alternative à Google doc qui permet de prendre des notes. L'option _signed-in people can edit_ limite la diffusion à la communauté @beta.gouv.fr.
-4. [ ] Je minimise les informations collectées et supprime celles dont je n'ai pas besoin. Après un entretien utilisateur, ai-je besoin de conserver dans mes notes toutes les données de le personne interrogée \(date de naissance, numéro de tél, nom, etc.\) ?
+4. [ ] Je minimise les informations collectées et supprime celles dont je n'ai pas besoin. Après un entretien utilisateur, j'anonymise systématiquement mes notes ou mon transcript : on ne doit pas pouvoir reconnaître la personne interviewée. Si j'ai fait un enregistrement audio avec l'accord explicite de la personne interviewée, je supprime le fichier audio dès que je l'ai analysé.
 
 
 
-   > Exemple : Un plan de déploiement peut sans doute être sur Google doc en accès ouvert, mais des notes d'entretien utilisateurs, plutôt en accès limité.
+
+   > Exemple : Un plan de déploiement peut sans doute être sur Google doc en accès ouvert, mais des notes d'entretien utilisateurs pas encore anonymisées, plutôt en accès limité.
 
 5. [ ] Je crée une fiche pour la nouvelle startup sur beta.gouv.fr.
 {% endtab %}
