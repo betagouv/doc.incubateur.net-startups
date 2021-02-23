@@ -1,11 +1,11 @@
 # Kit de démarrage
 
-Votre objectif pour les 6 premiers mois est d'avoir de l'impact sur au moins un usager, en écrivant du code répondant aux standards de beta.gouv/.Fr en terme de front \(accessibilité\), back \(sécurité\) et données utilisateurs \(RGPD\).
+Votre objectif pour les 6 premiers mois est d'avoir de l'impact sur au moins un usager, en écrivant du code répondant aux standards de beta.gouv.fr en terme de front \(accessibilité\), back \(sécurité\) et données utilisateurs \(RGPD\).
 
 Pour cela, nous mettons à la disposition des Startups d'État un "Kit de démarrage", qui comprend un ensemble d'outils :
 
 * **Gestionnaire de versions** : avec [le compte github de beta.gouv.fr](https://github.com/betagouv)
-* **Design system** : éléments ré-utilisables; et dont l'accessibilité a déjà été travaillée 
+* **Design system** : éléments ré-utilisables ; et dont l'accessibilité a déjà été travaillée 
 
   > Le [design system](https://gouvfr.atlassian.net/wiki/spaces/DB/pages/223019574/D+veloppeurs) est visible sur [template.incubateur.net](https://template.incubateur.net)
 
