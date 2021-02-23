@@ -1,12 +1,32 @@
 # Construction 🐥
 
-> La **phase de construction** permet de lancer le plus rapidement possible un service numérique pour s’assurer qu’il résout le problème visé. Il s’agit d’une phase expérimentale faite de tests et d’apprentissages terrain dans laquelle l’équipe cherche à se confronter à de premiers utilisateurs dès que possible.
+La **phase de construction** correspond aux 6 à 12 premiers mois de votre service. Votre premier objectif est d'avoir de l'impact le plus rapidement possible, en servant votre premier utilisateur ou en opérant votre première transaction. Vous allez également devoir lancer le plus rapidement possible votre solution numérique afin de la confronter à la réalité terrain dès que possible.
 
-## Fonctionnement <a id="fonctionnement"></a>
+{% embed url="https://beta.gouv.fr/approche/construction" caption="Lire la description officielle de la phase de construction sur le site de beta.gouv.fr ️" %}
 
-La phase de construction fait suite à une [phase d’investigation](https://github.com/betagouv/doc.incubateur.net-startups/tree/4dff8f088cca33d6265fa070ead20ab18a814159/la-vie-dune-se/construction/investigation/README.md) qui a confirmé le besoin d’une solution numérique pour résoudre le problème cible. L’agent public en charge de l’investigation devient “intrapreneur” de la solution numérique à construire : c’est la personne qui en est responsable et à qui l’administration porteuse confie un budget et une zone d’autonomie pour expérimenter. Elle est accompagnée d’un coach beta.gouv.fr avec qui elle recrute une équipe de 2 à 4 personnes : développeuses / développeurs, designeuses / designers, personne en charge du déploiement…
+### Recruter son équipe
 
-Sans cahier des charges, l’équipe lance un service fonctionnel dès les premières semaines de travail, même s’il est imparfait et ne répond pas encore à tous les cas de figures. L’objectif est de tester son produit auprès de premiers utilisateurs et de l’améliorer au fil des retours, pas à pas, en respectant des cycles de développement courts appelés “itérations”. Lors de cette phase, l’ensemble de l’expertise de la communauté beta.gouv.fr est à la disposition de l’intrapreneur et de son équipe pour former, conseiller, apporter une expertise \(design, RGPD, sécurité\), etc.
+C'est le moment de renforcer votre équipe, en recrutant des personnes capables de développer votre service.
 
-Au terme de cette phase qui dure habituellement six mois à un an, l’administration porteuse prend la décision de refinancer le service si son utilité est avérée, pour étendre son périmètre dans la perspective de le généraliser : c’est la [phase d’accéléra](https://github.com/betagouv/doc.incubateur.net-startups/tree/4dff8f088cca33d6265fa070ead20ab18a814159/la-vie-dune-se/construction/acceleration.md)[tion](https://github.com/betagouv/doc.incubateur.net-startups/tree/4dff8f088cca33d6265fa070ead20ab18a814159/la-vie-dune-se/construction/acceleration.md).
+{% embed url="https://doc.incubateur.net/communaute/travailler-a-beta-gouv/recrutement" %}
+
+### Kit de démarrage
+
+beta.gouv.fr propose un kit de démarrage pour les développeuses et développeurs qui souhaitent lancer rapidement une première version d'un service numérique.
+
+{% page-ref page="kit-de-demarrage.md" %}
+
+Vous allez probablement devoir nommer votre service assez rapidement, notamment pour définir son URL. Si c'est le cas, jetez un œil à nos conseils à ce sujet.
+
+{% page-ref page="nommer.md" %}
+
+### Vos premières semaines
+
+Une fois votre équipe constituée, votre objectif est de servir votre premier utilisateur le plus rapidement possible. **En général, les équipes servent leurs premiers utilisateurs avant la fin du 2e mois de la phase de construction** ; **passé ce délai, si votre équipe n'a pas servi son premier utilisateur ou réalisé sa première transaction** \(_exemples : première mise en relation entre un employeur solidaire et une personne en insertion ; premier jeu de donné produit, publié, ouvert et réutilisé par une application tierce_\), **il est sain de s'en inquiéter**. 
+
+{% hint style="warning" %}
+Il est tentant de poursuivre les entretiens avec les utilisateurs et de prolonger ainsi l'investigation pendant les premières semaines de la phase de construction. N'oubliez pas que tout le temps passé à faire des ateliers, à préparer votre "_backlog_" \(liste de tâches\), à faire des maquettes ou des PowerPoints, c'est de l'énergie qui n'est pas consacrée à résoudre le problème de vos utilisateurs. 
+{% endhint %}
+
+
 

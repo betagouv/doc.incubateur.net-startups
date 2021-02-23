@@ -19,7 +19,7 @@
   * [Conseils pour les coachs en investigation](la-vie-dune-se/investigation/conseils-pour-les-coachs-en-investigation.md)
   * [Ressources utiles](la-vie-dune-se/investigation/ressources-utiles.md)
 * [Construction 🐥](la-vie-dune-se/construction/README.md)
-  * [Nommer votre bébé](la-vie-dune-se/construction/nommer.md)
+  * [Nommer votre service](la-vie-dune-se/construction/nommer.md)
   * [Kit de démarrage](la-vie-dune-se/construction/kit-de-demarrage.md)
 * [Accélération 🐦](la-vie-dune-se/acceleration.md)
 * [Consolidation 🐧](la-vie-dune-se/consolidation.md)
