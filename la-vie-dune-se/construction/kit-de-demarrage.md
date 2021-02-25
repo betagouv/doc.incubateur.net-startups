@@ -11,7 +11,9 @@ Pour cela, nous mettons à la disposition des Startups d'État un "Kit de démar
 
 * **Hébergement** : nous préconisons [Scalingo](https://scalingo.com/fr) \(entreprise référencée à l'UGAP et donc mobilisable dans le respect du code de la commande publique\), avec un hebergement Secnumcloud
 
-  > Scalingo est un PaaS qui permet de lancer son application en poussant son code sur un serveur via git. **CI / CD** : Circle CI lié à l'organisation betagouv sur github
+  > Scalingo est un PaaS qui permet de lancer son application en poussant son code sur un serveur via git. 
+
+* **CI / CD** : Circle CI lié à l'organisation betagouv sur github
 
 * **Analytics** : [stats.data.gouv.fr](https://stats.data.gouv.fr)
 
