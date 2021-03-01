@@ -25,7 +25,8 @@ Les mesures d'impact se sont nettement améliorées au cours des derniers mois :
 * 10min : intro + tour de table
 * 10 min : exposé du problème par l'équipe de la SE + ses attentes
 * 10 min : question/réponses rapides avec les coachs
-* 30 min : focus recommandation impact
+* 25 min : focus recommandation impact
+* 5 min : principaux apprentissages de l'équipe et qu'est-ce qu'elle pense mettre en place rapidement.
 
 **Que doivent faire les équipes de SE pour préparer l'atelier ?** Essayer de préparer des hypothèses de mesures d'impact afin qu'elles soient discutées pendant l'atelier.
 

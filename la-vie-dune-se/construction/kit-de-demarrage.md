@@ -5,16 +5,15 @@ Votre objectif pour les 6 premiers mois est d'avoir de l'impact sur au moins un 
 Pour cela, nous mettons à la disposition des Startups d'État un "Kit de démarrage", qui comprend un ensemble d'outils :
 
 * **Gestionnaire de versions** : avec [le compte github de beta.gouv.fr](https://github.com/betagouv)
-* **Design system** : éléments ré-utilisables ; et dont l'accessibilité a déjà été travaillée 
+* **Design system** : éléments ré-utilisables ; et dont l'accessibilité a déjà été travaillée
 
   > Le [design system](https://gouvfr.atlassian.net/wiki/spaces/DB/pages/223019574/D+veloppeurs) est visible sur [template.incubateur.net](https://template.incubateur.net)
 
 * **Hébergement** : nous préconisons [Scalingo](https://scalingo.com/fr) \(entreprise référencée à l'UGAP et donc mobilisable dans le respect du code de la commande publique\), avec un hebergement Secnumcloud
 
-  > Scalingo est un PaaS qui permet de lancer son application en poussant son code sur un serveur via git. 
+  > Scalingo est un PaaS qui permet de lancer son application en poussant son code sur un serveur via git.
 
 * **CI / CD** : Circle CI lié à l'organisation betagouv sur github
-
 * **Analytics** : [stats.data.gouv.fr](https://stats.data.gouv.fr)
 
   > Matomo est hébergé par nos soins. Ce service est respectueux des données des utilisateurs, et le configurer comme préconisé par la CNIL permet de suivre son audience sans avoir à mettre un bandeau avertissant les visiteurs sur le dépôt de cookies. Attention ! Le nombre de visiteurs sur votre site est rarement l'équivalent d'une mesure d'impact.
